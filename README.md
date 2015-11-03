@@ -6,6 +6,7 @@ Unencoded characters that are potential candidates for inclusion in Unicode.
 * Gender neutral restroom
 * Cross of St. Peter
 * Esperanto flag and jubilee symbol
+* Symbols used in zines and zine culture
 
 ---
 
