@@ -5,6 +5,7 @@ Unencoded characters that are potential candidates for inclusion in Unicode.
 * Durian and mangosteen emoji
 * Gender neutral restroom
 * Cross of St. Peter
+* Dalton’s element symbols
 * Esperanto flag and jubilee symbol
 * Symbols used in zines and zine culture
 
