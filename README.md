@@ -2,9 +2,10 @@
 
 Unencoded characters that are potential candidates for inclusion in Unicode.
 
-* Durian and mangosteen emoji
-* Gender neutral restroom
+* Coconut, durian, and mangosteen emoji
+* Nonbinary restroom symbol
 * Cross of St. Peter
+* Ouroboros symbol
 * Gravestone symbols
 * Dalton’s element symbols
 * Esperanto flag and jubilee symbol
@@ -12,7 +13,7 @@ Unencoded characters that are potential candidates for inclusion in Unicode.
 
 ---
 
-© 2015 Nova Patch
+© 2016 Nova Patch
 
 [![Creative Commons
 License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
