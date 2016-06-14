@@ -6,10 +6,10 @@ Unencoded characters that are potential candidates for inclusion in Unicode.
 * Nonbinary restroom symbol
 * Cross of St. Peter
 * Ouroboros symbol
+* Playing card symbols
 * Gravestone symbols
 * Dalton’s element symbols
 * Esperanto flag and jubilee symbol
-* Zine and zine cultural symbols
 
 ---
 
