@@ -10,6 +10,8 @@ Unencoded characters that are potential candidates for inclusion in Unicode.
 * Gravestone symbols
 * Dalton’s element symbols
 * Esperanto flag and jubilee symbol
+* Antifascist circle
+* Squatters’ symbol
 
 ---
 
