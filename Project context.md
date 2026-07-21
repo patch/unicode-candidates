@@ -24,6 +24,10 @@ The project will accumulate a larger archive of images than will appear in the f
 
 Research from this and other character-proposal projects may become source material for corresponding pages on the project owner’s personal website, whether or not a proposal is approved.
 
+## Version control
+
+This directory is a local Git repository. Git LFS is installed and enabled for the repository, but no file types are yet configured for LFS tracking. Decide whether to place a type of image in ordinary Git or Git LFS before committing the first substantial batch of that type.
+
 ## Collaboration context
 
 Work may take place in separate chats for distinct tasks. When an important project decision, user-provided fact, or durable research finding is not already covered by `AGENTS.md`, add a concise, dated update here or to a more specific note when one exists.
