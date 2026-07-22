@@ -23,6 +23,7 @@ This project researches the case for and against encoding a Unicode character fo
 - Reassess organization as material accumulates. Reorganize conservatively when it makes retrieval meaningfully easier.
 - Preserve original evidence unchanged. When creating crops, annotations, resized images, or other derivatives, keep them separate from the original and retain a link to it.
 - For each evidence item, record available provenance: source or creator, URL or origin, access/capture date, location and context of use, and rights or permission status.
+- When a useful public web source has changed or disappeared, check the Internet Archive Wayback Machine. Record the original URL, capture URL and timestamp, access date, and limitations; inspect separately captured embedded resources where necessary. Archival availability does not alter the material’s rights status.
 - Do not assume locally stored material is suitable for public submission. Track whether an image or other asset is safe to publish or license for proposal use.
 - Treat functional or non-marketing symbol use and marketing or brand use as distinct evidence categories. Functional use is normally stronger evidence of an independent communicative convention, but repeated marketing use across unrelated organizations and territories remains relevant. Track inline integration with text, such as a durian form substituting for a letter or punctuation mark, as its own observation.
 - Interpret a proposed character’s referent from popular real-world use, much like a dictionary sense, rather than forcing it to match biological nomenclature. The referent may cover a genus, higher-level or vernacular category, or even a polyphyletic popular grouping. Where one species is the strongest popular exemplar, call it the “popular representative species”, not a “type species”.
@@ -39,6 +40,7 @@ This project researches the case for and against encoding a Unicode character fo
 ## Unicode research and proposals
 
 - Prefer the latest official Unicode Consortium resources as the source of truth for process, criteria, templates, status, and submission requirements. Treat older forms and past proposals as historical references unless current official guidance confirms they remain applicable.
+- Before scheduling an emoji re-review, verify the current waiting-period rule and how Unicode applies it, including the event from which the period runs and any transitional treatment of older decisions. Unicode’s emoji-status spreadsheet labels its date column `Date Submitted`; do not assume that it is the controlling date or present an inferred eligibility date as settled.
 - Record useful, durable findings from official Unicode resources in project notes when they will help future work. Cite the official page or document and the access date; summarize rather than reproducing large source text.
 - Check current official guidance before presenting a Unicode-process claim as settled.
 - Maintain a clear distinction between observed evidence, sourced claims, working inferences, and proposal decisions.

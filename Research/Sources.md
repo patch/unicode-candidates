@@ -312,6 +312,74 @@ BLACK, [“Forbidden Love”](https://blackdesign.world/story/forbidden-love/). 
 
 Justia Trademarks, [D DURIAN, United States trademark application serial 97087745](https://trademarks.justia.com/970/87/durian-97087745.html), with [United States Patent and Trademark Office case search](https://tsdr.uspto.gov/#caseNumber=97087745&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch) for primary verification. The application description combines a lowercase “d” with a wavy-edged circular band and leaves. Secondary interface used as a lead; verify the current status and drawing in the official record before publication.
 
+## Unicode history and proposal process
+
+The sources in this section were accessed on **22 July 2026**.
+
+### U01
+
+Unicode Mail List Archive, [Emma Haneys, ‘a suggestion new emoji’](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0165.html) and [the later exchange preserved by Marcel Schneider](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0184.html), 19 August 2015. The first message is the direct early public suggestion of a durian emoji; the later message preserves the discussion of durian–lychee visual distinctiveness. Informal discussion, not a proposal or committee decision.
+
+### U02
+
+Debbie Anderson, *[Feedback from WG2 email discussion list on PDAM 2.2](https://www.unicode.org/L2/L2017/17393-wg2-emoji-feedback.pdf)*, L2/17-393, 22 October 2017, pp. 1–2. Primary record of Michael Everson’s and Andrew West’s requests or comments concerning DURIAN during review of proposed U+1F96D MANGO.
+
+### U03
+
+Emoji Ad Hoc, *[Ad hoc recommendations for Emoji characters in Unicode 11+](https://www.unicode.org/L2/L2017/17400-ad-hoc-recs-unicode-11.pdf)*, L2/17-400, 26 October 2017, p. 3. Places DURIAN in a grouped Unicode 12+ row with three alternative explanations; the document does not assign a particular explanation to durian.
+
+### U04
+
+Jeremy Burge and Lisa Moore for the Unicode Technical Committee, *[Response to feedback from WG2 email discussion list on PDAM 2.2](https://www.unicode.org/L2/L2018/18027-wg2-fdbk-response.pdf)*, L2/18-027, registered 16 January 2018. Invites proponents of a DURIAN character to submit through the emoji-proposal process. The PDF prints ‘15 January 2017’, which conflicts with its document number, context, and the [Unicode Technical Committee Document Register 2018](https://www.unicode.org/L2/L2019/19001-register-2018.htm); treat the printed year as an error.
+
+### U05
+
+Unicode Consortium, [Emoji Proposals Status](https://unicode.org/emoji/emoji-proposals-status.html), including its embedded public spreadsheet and status key. Current record of ‘Durian (A)’ as Expired, ‘Durian (B)’ as Declined, and ‘durian’ as Declined. The embedded sheet labels its date column ‘Date Submitted’; these values must not be presented as expiry or decline dates.
+
+### U06
+
+Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current source for the 2026 submission window, the four-year restriction on re-review of declined emoji, proposal format, selection factors, and direction to use the character process for a widely used symbol that does not require colour.
+
+### U07
+
+Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and criteria: existing usage by a community, repertoire stability, and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit.
+
+### U08
+
+Unicode Consortium, historical [`emoji/selection.html`](http://unicode.org/emoji/selection.html) URL cited in L2/18-027. On 22 July 2026 it contained only a meta-refresh to `proposals.html`; use [U06](Sources.md#U06) for current guidance and [U15](Sources.md#U15) for an archived period copy.
+
+### U09
+
+Emoji Standard & Research Working Group, *[ESC Recommendations for 2022 Q3 UTC](https://www.unicode.org/L2/L2022/22126-esc-report-q3.pdf)*, L2/22-126, 20 July 2022. Says the working group was reviewing Emoji 16.0 submissions and expected to send decision letters in October, pending fourth-quarter Unicode Technical Committee review. This is batch-process evidence, not an item-specific decision.
+
+### U10
+
+Emoji Standard & Research Working Group, *[ESC Recommendations for 2022 Q4 UTC](https://www.unicode.org/L2/L2022/22246-esc-report-q4.pdf)*, L2/22-246, 31 October 2022. Says review of the 2022 proposals was complete and authors would be notified of status shortly after the fourth-quarter Unicode Technical Committee meeting. It does not list durian or individual outcomes.
+
+### U11
+
+Unicode Consortium, [UTC Meeting 173 minutes](https://www.unicode.org/L2/L2022/22241.htm), meeting held 1–3 November 2022. Establishes the dates of the fourth-quarter meeting identified in L2/22-246; the published minutes do not identify the durian submission.
+
+### U12
+
+Unicode Consortium, emoji-proposal public spreadsheet, [Internet Archive capture from 2 December 2022 at 04:54 UTC](https://web.archive.org/web/20221202045433/https://docs.google.com/spreadsheets/d/e/2PACX-1vTqFQYIc0GUrZCJjQXsFBitJsYMqi0-EZRMwhlZxfb4axbcPF-iuDKQsVsLILpwJnDrCYd43Ja61dUF/pubhtml/sheet?headers=false&gid=2110764947). The captured table records ‘durian’ as ‘Declined’ and ‘7/24/2022’ under ‘Date Submitted’. This proves that the status was public no later than the capture, not the item’s decision, notification, or first-publication date.
+
+### U13
+
+Unicode Consortium, archived *Guidelines for Submitting Unicode Emoji Proposals*: [28 November 2022 capture](https://web.archive.org/web/20221128045929/https://www.unicode.org/emoji/proposals.html), [28 November 2023 capture](https://web.archive.org/web/20231128092118/https://www.unicode.org/emoji/proposals.html), and [29 November 2024 capture](https://web.archive.org/web/20241129040259/http://unicode.org/emoji/proposals.html). The first two say declined emoji were ineligible for re-review for two years; the 2024 capture says four years. These snapshots bracket a change in the published rule but do not explain its effective date, rationale, transitional application, or controlling event.
+
+### U14
+
+CafePress, durian sticker results, [Internet Archive capture from 22 August 2015](https://web.archive.org/web/20150822000743/http://www.cafepress.co.uk:80/+durian+stickers). Preserves the exact listing ‘Sad Durian that gets no hugs Decal’ referenced in the August 2015 Unicode Mail List discussion, along with product metadata. Third-party commercial-art evidence with unverified rights; useful for verifying the historical reference, not for demonstrating functional sign use.
+
+### U15
+
+Unicode Consortium, *Submitting Emoji Character Proposals*, [Internet Archive capture from 16 January 2018](https://web.archive.org/web/20180116121410/http://www.unicode.org:80/emoji/selection.html). Period copy of the obsolete proposal page cited by L2/18-027, including its then-current form, selection factors, and 15 May 2018 deadline. Historical guidance only.
+
+### U16
+
+Internet Archive, [Wayback Machine APIs](https://archive.org/help/wayback_api.php). Official documentation for the Availability JSON API, timestamp lookup, Memento interface, and CDX Server API. Method source for recovering changed or unavailable public references; an archive capture’s timestamp is a no-later-than observation, not necessarily a creation or first-publication date.
+
 ## Data method and file format
 
 ### M01
