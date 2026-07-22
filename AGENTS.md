@@ -20,6 +20,7 @@ This project researches the case for and against encoding a Unicode character fo
 - Capture reusable research methods and cross-project lessons separately from durian-specific findings so future symbol or emoji investigations can repeat and improve the process. Research must be capable of supporting, opposing, or leaving unresolved a case for encoding; publish useful findings even when the conclusion is not to propose a character. Maintain a brief refinement log when the method changes.
 - Use import and diaspora research to document global availability, repeated exposure, and possible comprehension beyond the core region. Keep availability, observed use, and demonstrated symbol comprehension as separate evidential steps.
 - Keep organization deliberately light. Create a file or folder only when there is an actual item to place in it; avoid numbered folder names and unnecessary nesting.
+- When research material is judged clearly out of scope but retains evidential or methodological value, preserve it in an archive rather than deleting it. Create archive structure only when there is material to place there.
 - Reassess organization as material accumulates. Reorganize conservatively when it makes retrieval meaningfully easier.
 - Preserve original evidence unchanged. When creating crops, annotations, resized images, or other derivatives, keep them separate from the original and retain a link to it.
 - Catalogue the project owner’s existing sign-photo collection before commissioning or broadly collecting further sign images. Defer the systematic plain-text-interchange and counterargument audit until that collection can be shared and assessed.
@@ -40,6 +41,9 @@ This project researches the case for and against encoding a Unicode character fo
 
 ## Unicode research and proposals
 
+- In any table that lists Unicode characters or character sequences, include a column displaying the literal character or sequence alongside its code-point notation and name, and use one extended grapheme cluster per row.
+- On first prose reference to a Unicode character or sequence on a page, include its literal form unless a table on that page already displays it. Always retain code-point notation and names because font support and glyph rendering vary.
+- Organize repertoire comparisons by proposal relevance and source history. Keep contemporary emoji or general symbols separate from legacy source-set and historical-script material.
 - Prefer the latest official Unicode Consortium resources as the source of truth for process, criteria, templates, status, and submission requirements. Treat older forms and past proposals as historical references unless current official guidance confirms they remain applicable.
 - Before scheduling an emoji re-review, verify the current waiting-period rule and how Unicode applies it, including the event from which the period runs and any transitional treatment of older decisions. Unicode’s emoji-status spreadsheet labels its date column `Date Submitted`; do not assume that it is the controlling date or present an inferred eligibility date as settled.
 - Record useful, durable findings from official Unicode resources in project notes when they will help future work. Cite the official page or document and the access date; summarize rather than reproducing large source text.

@@ -18,6 +18,8 @@ The project owner has already conducted years of research. Contribution and sour
 
 An initial evidence-led geographic background survey was added on 2026-07-21 at [[Durian geographic survey]]. It is a first-pass dataset with explicit confidence tiers and open research leads, not a closed worldwide census. Its reusable lessons are maintained separately in [[Geographic evidence research for symbol proposals]] so later symbol projects can repeat and refine the process without importing durian-specific conclusions.
 
+A bounded complete review of fruit-referent characters in Unicode 17.0.0 was added on 2026-07-22 at [[Existing Unicode characters with fruit referents]]. It leads with the contemporary emoji comparison, separates weak legacy and historical material, distinguishes encoded characters from emoji presentation and sequences, and preserves botanical and culinary disagreement. The reusable repertoire-audit method is at [[Comparative Unicode repertoire research]].
+
 ## 2026 emoji-submission timing and eligibility
 
 The Unicode Consortium’s [emoji-proposal guidelines](https://www.unicode.org/emoji/proposals.html), last updated 20 May 2026, state that the current submission window closes at the end of 31 July 2026. They also state: ‘Emoji declined within the last four years are not eligible for re-review.’ Both points were rechecked on 22 July 2026.
