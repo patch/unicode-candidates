@@ -2,18 +2,39 @@
 
 ## Purpose
 
-This project researches a proposed Unicode character for the durian symbol, as predominantly used on signage in Southeast Asian countries. The same proposed code point may also receive official emoji treatment; emoji status is not a separate character encoding.
+This project researches the case for and against encoding a Unicode character for the durian symbol, as predominantly used on signage in Southeast Asian countries. The current working judgement favours encoding, but research remains open to a different conclusion. The same proposed code point may also receive official emoji treatment; emoji status is not a separate character encoding.
 
 ## Working principles
 
 - Use en-GB as the baseline dialect, following Oxford University Press and UK academic-journal practice; in particular, use `-ize` rather than `-ise` in Greek-derived verbs where applicable.
+- In Markdown prose, use LEFT SINGLE QUOTATION MARK (`U+2018`), RIGHT SINGLE QUOTATION MARK (`U+2019`), LEFT DOUBLE QUOTATION MARK (`U+201C`), and RIGHT DOUBLE QUOTATION MARK (`U+201D`) for English quotation and apostrophe punctuation. Retain APOSTROPHE (`U+0027`) and QUOTATION MARK (`U+0022`) only where syntax, code, identifiers, or URLs require them.
+- Treat a country as any territory assigned an ISO 3166-1 alpha-2 code, including dependent territories, and use that alpha-2 code as the primary country identifier in project data. Name the property `country_code` and define its standard in the relevant data documentation.
+- Use Unicode CLDR English (`en`) names for territories at every level, including macroregions such as Southeast Asia. Prefer the `alt="short"` territory name when present, except when that value is itself a two-letter abbreviation; in that case use the unqualified name. When naming a language, include its lowercase ISO 639-1 alpha-2 code when assigned, otherwise its lowercase ISO 639-3 alpha-3 code. Keep ISO 3166-1 alpha-2 country codes uppercase. Where the expanded form is useful, write `Country Name (CC)` and `Language Name (ll/lll)`.
+- Name standards precisely on first use. Do not use ambiguous phrases such as “ISO country code”, “ISO language code”, “ISO entities”, or standalone “ISO”. After defining the applicable standard, prefer “country code”, “language code”, or Unicode’s term “territory”, as context requires.
 - Treat this directory as part of an Obsidian vault. Prefer portable Markdown notes, internal links, clear titles, and ordinary files that work without plugins.
+- Where Obsidian’s inline title already displays a note’s frontmatter title or filename, omit an identical Markdown H1. Use a body H1 only when it supplies materially different information.
+- Within a directory that functions as a coded lookup list, such as territories, languages, or currencies, use the relevant code as the filename and store the human-readable `Name (code)` form in the note’s `title` property.
+- Use Obsidian Bases only where structured filtering or comparison is genuinely useful; do not force narrative research, source notes, or evidence archives into a Base.
+- For formal background research, the user’s questions may be reframed into a more defensible methodology when that better serves future publication. State material changes in scope or framing, distinguish verified results from leads, and prefer explicit inclusion criteria and limitations over false exhaustiveness.
+- Treat user prompts as concise statements of intent rather than publication-ready wording. Preserve their substantive direction while translating them into the terminology, evidential framing, structure, and register most appropriate to formal Unicode and academic work. Surface any material reinterpretation; do not reproduce informal prompting language merely for verbal consistency.
+- Capture reusable research methods and cross-project lessons separately from durian-specific findings so future symbol or emoji investigations can repeat and improve the process. Research must be capable of supporting, opposing, or leaving unresolved a case for encoding; publish useful findings even when the conclusion is not to propose a character. Maintain a brief refinement log when the method changes.
+- Use import and diaspora research to document global availability, repeated exposure, and possible comprehension beyond the core region. Keep availability, observed use, and demonstrated symbol comprehension as separate evidential steps.
 - Keep organization deliberately light. Create a file or folder only when there is an actual item to place in it; avoid numbered folder names and unnecessary nesting.
 - Reassess organization as material accumulates. Reorganize conservatively when it makes retrieval meaningfully easier.
 - Preserve original evidence unchanged. When creating crops, annotations, resized images, or other derivatives, keep them separate from the original and retain a link to it.
 - For each evidence item, record available provenance: source or creator, URL or origin, access/capture date, location and context of use, and rights or permission status.
 - Do not assume locally stored material is suitable for public submission. Track whether an image or other asset is safe to publish or license for proposal use.
+- Treat functional or non-marketing symbol use and marketing or brand use as distinct evidence categories. Functional use is normally stronger evidence of an independent communicative convention, but repeated marketing use across unrelated organizations and territories remains relevant. Track inline integration with text, such as a durian form substituting for a letter or punctuation mark, as its own observation.
+- Interpret a proposed character’s referent from popular real-world use, much like a dictionary sense, rather than forcing it to match biological nomenclature. The referent may cover a genus, higher-level or vernacular category, or even a polyphyletic popular grouping. Where one species is the strongest popular exemplar, call it the “popular representative species”, not a “type species”.
+- The project owner intends to license original project text and assets under CC BY-SA 4.0, while excluding third-party reference material governed by other terms. Record exact Creative Commons licences, attribution and share-alike duties, and compatibility before reuse. The project owner can license Shutterstock assets; record the asset ID and applicable licence and do not assume the subscription permits repository redistribution.
+- Non-free material may be retained as reference evidence and considered for limited, low-resolution reproduction in critical commentary under an explicitly documented fair-use or fair-dealing rationale. Treat this as a rights-review category rather than an automatic permission or a substitute for legal review.
 - Treat character encoding and emoji treatment as distinct research and submission processes for the same proposed character. Link shared evidence rather than duplicating it.
+
+## Version control
+
+- Do not create a commit unless the user explicitly requests it.
+- A minor or single-purpose commit may use only a concise imperative subject.
+- A comprehensive or multi-issue commit should also have a body that summarizes its material scope. Prefer a short Markdown list when several distinct changes need to be recorded; describe meaningful outcomes rather than repeating the subject line.
 
 ## Unicode research and proposals
 

@@ -1,0 +1,134 @@
+filters:
+  and:
+    - file.inFolder(this.file.folder + "/Countries")
+properties:
+  note.country_code:
+    displayName: Country code
+  note.country_name:
+    displayName: Territory
+  note.native_durio:
+    displayName: Native Durio
+  note.native_d_zibethinus:
+    displayName: Native D. zibethinus
+  note.cultivation_status:
+    displayName: Cultivation
+  note.consumption_scope:
+    displayName: Consumption
+  note.signage_status:
+    displayName: Signage
+  note.fresh_import_2023_usd:
+    displayName: 2023 fresh imports (US$)
+  note.global_reach_role:
+    displayName: Global-reach role
+  note.local_region_codes:
+    displayName: Local-region codes
+  note.last_reviewed:
+    displayName: Reviewed
+views:
+  - type: table
+    name: All country records
+    order:
+      - country_code
+      - country_name
+      - cultivation_status
+      - consumption_scope
+      - signage_status
+      - fresh_import_2023_usd
+      - global_reach_role
+      - last_reviewed
+  - type: table
+    name: Native range
+    filters:
+      or:
+        - native_durio == true
+        - native_d_zibethinus == true
+    order:
+      - country_code
+      - country_name
+      - native_durio
+      - native_d_zibethinus
+      - cultivation_status
+  - type: table
+    name: Documented market production
+    filters:
+      or:
+        - cultivation_status == "major-industry"
+        - cultivation_status == "established"
+        - cultivation_status == "niche-commercial"
+    order:
+      - country_code
+      - country_name
+      - cultivation_status
+      - cultivation_confidence
+      - consumption_scope
+  - type: table
+    name: Emerging commercial projects
+    filters:
+      and:
+        - cultivation_status == "emerging-project"
+    order:
+      - country_code
+      - country_name
+      - cultivation_status
+      - cultivation_confidence
+      - consumption_scope
+  - type: table
+    name: At-large consumption
+    filters:
+      and:
+        - at_large_consumption == true
+    order:
+      - country_code
+      - country_name
+      - consumption_scope
+      - consumption_confidence
+      - cultivation_status
+      - signage_status
+  - type: table
+    name: Global reach screen
+    filters:
+      or:
+        - global_reach_role == "global-reach-screen"
+        - global_reach_role == "global-reach-comparison"
+        - global_reach_role == "redistribution-control"
+    order:
+      - country_code
+      - country_name
+      - fresh_import_2023_usd
+      - consumption_scope
+      - local_region_codes
+  - type: table
+    name: Verified signage
+    filters:
+      and:
+        - signage_verified == true
+    order:
+      - country_code
+      - country_name
+      - signage_status
+      - consumption_scope
+  - type: table
+    name: Import screen
+    filters:
+      and:
+        - fresh_import_2023_usd >= 1000000
+    order:
+      - country_code
+      - country_name
+      - fresh_import_2023_usd
+      - global_reach_role
+      - consumption_scope
+  - type: table
+    name: Leads and gaps
+    filters:
+      or:
+        - cultivation_status == "candidate-unverified"
+        - cultivation_status == "emerging-project"
+        - signage_status == "lead"
+        - signage_status == "policy-only"
+    order:
+      - country_code
+      - country_name
+      - cultivation_status
+      - signage_status
+      - source_ids
