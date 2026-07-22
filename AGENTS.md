@@ -35,7 +35,7 @@ This project researches the case for and against encoding a Unicode character fo
 
 - Do not create a commit unless the user explicitly requests it.
 - A minor or single-purpose commit may use only a concise imperative subject.
-- A comprehensive or multi-issue commit should also have a body that summarizes its material scope. Prefer a short Markdown list when several distinct changes need to be recorded; describe meaningful outcomes rather than repeating the subject line.
+- A comprehensive or multi-issue commit should also have a body that summarizes its material scope. When the body records two or more distinct outcomes, format them as one compact Markdown bullet list; do not place each outcome in a separate prose paragraph. Reserve a prose body for a genuinely cohesive explanation, and describe meaningful outcomes rather than repeating the subject line.
 
 ## Unicode research and proposals
 
