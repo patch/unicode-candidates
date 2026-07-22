@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next Research"
+  short_description: "Select the next bounded Durian research task"
+  default_prompt: "Use $next-research to recommend the next actionable Durian Symbol research task for my approval."
