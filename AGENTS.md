@@ -22,6 +22,7 @@ This project researches the case for and against encoding a Unicode character fo
 - Keep organization deliberately light. Create a file or folder only when there is an actual item to place in it; avoid numbered folder names and unnecessary nesting.
 - Reassess organization as material accumulates. Reorganize conservatively when it makes retrieval meaningfully easier.
 - Preserve original evidence unchanged. When creating crops, annotations, resized images, or other derivatives, keep them separate from the original and retain a link to it.
+- Catalogue the project owner’s existing sign-photo collection before commissioning or broadly collecting further sign images. Defer the systematic plain-text-interchange and counterargument audit until that collection can be shared and assessed.
 - For each evidence item, record available provenance: source or creator, URL or origin, access/capture date, location and context of use, and rights or permission status.
 - When a useful public web source has changed or disappeared, check the Internet Archive Wayback Machine. Record the original URL, capture URL and timestamp, access date, and limitations; inspect separately captured embedded resources where necessary. Archival availability does not alter the material’s rights status.
 - Do not assume locally stored material is suitable for public submission. Track whether an image or other asset is safe to publish or license for proposal use.
