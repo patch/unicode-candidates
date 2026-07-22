@@ -1,13 +1,21 @@
 ---
 name: next-research
-description: Select and, after approval, execute the most important actionable next research task for the Durian Symbol project. Use when the user invokes `$next-research`, asks Codex to choose the next project research task, or approves a task previously proposed through this workflow.
+description: Scope and, after approval, execute a bounded research task for the Durian Symbol project. Use when the user invokes `$next-research` with or without a chosen topic, asks Codex to choose or plan the next project research task, or approves a task previously proposed through this workflow.
 ---
 
 # Next Research
 
 Run an approval-gated, bounded research cycle. Apply the project-wide principles in `AGENTS.md` throughout.
 
-## Select the task
+## Choose the mode
+
+- If the user approves a task previously proposed through this workflow, proceed to execution.
+- If the user supplies a research topic or task, use directed mode.
+- Otherwise, use selection mode.
+
+## Scope the task
+
+### Selection mode
 
 1. Read the project context and inspect outstanding tasks, research-lead sections, unresolved claims, negative findings, and any ranked future-research list across the vault. Use local evidence before making limited viability checks elsewhere.
 2. Exclude candidates that require unavailable private material, fieldwork, paid acquisition, external contact, a material user decision, or authority not supplied by the user. Treat those as future tasks rather than actionable now.
@@ -17,18 +25,30 @@ Run an approval-gated, bounded research cycle. Apply the project-wide principles
    - dependency-unlocking value;
    - time sensitivity; and
    - likely evidential return within a bounded pass.
-4. Recommend exactly one task. Do not begin substantive research before approval.
+4. Recommend exactly one task.
+
+### Directed mode
+
+1. Treat the user’s topic as the substantive direction; do not re-rank the backlog or replace it with another topic.
+2. Inspect relevant local context, then translate the topic into a defensible research question and scope while preserving its direction. State any material reinterpretation.
+3. For claims such as ‘all’ or ‘existing’, define the authoritative corpus, version or cut-off date, inclusion and exclusion rules, and treatment of ambiguous cases before claiming completeness.
+4. Preserve parallel definitions or classifications requested by the user; treat overlap and disagreement as data rather than silently choosing one scheme.
+5. If the requested task is blocked, propose the closest actionable subset rather than switching topics.
+
+## Propose the plan
 
 Present:
 
 - the proposed research question;
-- why it outranks the nearest alternatives;
+- in selection mode, why it outranks the nearest alternatives;
+- in directed mode, any material scoping or reframing;
+- definitions, corpus boundaries, and inclusion rules when material to coverage;
 - a high-level method and intended project outputs;
 - principal uncertainties and counterarguments;
 - the limits of the bounded pass; and
 - a request for approval or optional changes.
 
-Keep this proposal compact enough for a user with limited capacity. If the command includes an explicit approval of a previously proposed task, proceed directly to execution instead of selecting again.
+Keep this proposal compact enough for a user with limited capacity. Do not begin substantive research before approval.
 
 ## Execute after approval
 
