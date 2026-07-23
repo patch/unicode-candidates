@@ -10,7 +10,7 @@ tags:
 
 This is an evidence-led geographic survey for the durian-symbol project. Its purpose is to establish where durians are biologically native, cultivated as a market crop, consumed beyond predominantly immigrant communities, imported into diaspora markets, and represented visually in functional and marketing contexts. It is background research that can inform arguments for or against encoding; it is not written to predetermine the conclusion.
 
-The project definition of a **country** is any territory assigned an ISO 3166-1 alpha-2 code, including dependent territories. The `country_code` property is the primary identifier in the country records and in [[Durian countries.base]]. Territory names use Unicode CLDR English (`en`) forms, preferring a non-abbreviated `alt="short"` value when available, and may change without changing the record identity ([M03](Sources.md#M03)).
+The project definition of a **country** is any territory assigned an ISO 3166-1 alpha-2 code, including dependent territories. The `country_code` property is the primary identifier in the country records and in [[Durian countries.base]]. Territory names use Unicode CLDR English (`en`) forms, preferring a non-abbreviated `alt="short"` value when available, and may change without changing the record identity ([M03](../../../Research/Sources.md#M03)).
 
 ## Result snapshot
 
