@@ -1,4 +1,4 @@
 interface:
   display_name: "Next Research"
-  short_description: "Plan and run bounded Durian research tasks"
-  default_prompt: "Use $next-research to select or scope my next Durian Symbol research task before execution."
+  short_description: "Plan bounded Unicode character research"
+  default_prompt: "Use $next-research to select or scope the next bounded Unicode character-research task before execution."
