@@ -41,11 +41,11 @@ The project will accumulate a larger archive of images than will appear in the f
 
 Research from this and other character-proposal projects may become source material for corresponding pages on my personal website, whether or not a proposal is approved.
 
-Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party reference material remains excluded from that blanket licence and must retain its own rights record. Creative Commons works, separately licensed Shutterstock material, permission-cleared material, and narrowly used non-free references require different handling; the evidence archive must not imply that everything stored locally can be redistributed.
+Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party reference material remains excluded from that blanket licence and must retain its own rights record. Creative Commons works, separately licensed Shutterstock material, permission-cleared material, and narrowly used non-free references require different handling under [Evidence storage and publication](<../../Project/Evidence storage and publication.md>); the evidence archive must not imply that everything stored locally can be redistributed.
 
 ## Version control
 
-The parent project is a local Git repository. Git LFS is installed and enabled for the repository, but no file types are yet configured for LFS tracking. Decide whether to place a type of image in ordinary Git or Git LFS before committing the first substantial batch of that type.
+The parent project is a local Git repository with Git LFS support available, but no files are currently tracked through LFS and no tracking rules have been chosen. LFS may later support large public, distributable assets when actual storage and transfer needs justify a rule; it is not a rights, confidentiality, privacy, or publication boundary. Private or restricted material must remain outside the public repository and its history whether or not LFS is available.
 
 ## Collaboration context
 

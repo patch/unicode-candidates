@@ -27,6 +27,6 @@ The internal lifecycle is defined at [Candidate lifecycle](<Candidate lifecycle.
 
 ## Public development
 
-The repository is intended for open access on GitHub. Public access may precede formal contribution documentation. Original project material is intended for CC BY-SA 4.0 publication, while third-party reference material remains subject to its own rights and publication review.
+The repository is intended for open access on GitHub. Public access may precede formal contribution documentation. Original project material is intended for CC BY-SA 4.0 publication, while third-party reference material remains subject to its own rights and publication review. [Evidence storage and publication](<Evidence storage and publication.md>) defines the boundary between the public repository, the private evidence archive, and safe public records for privately held material.
 
 Current project and research notes should describe the present understanding. Git history or a dedicated changelog should carry superseded wording and routine changes of direction unless that history materially affects the evidence or proposal process.

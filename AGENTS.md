@@ -15,7 +15,7 @@ Treat this file as the always-on project charter. Before substantive work, read 
 | Geographic, country/language-data, biological-referent, diaspora, signage, or evidence-corpus research | [Geographic evidence research for symbol proposals](<Methods/Geographic evidence research for symbol proposals.md>) |
 | Existing-character or repertoire comparison | [Comparative Unicode repertoire research](<Methods/Comparative Unicode repertoire research.md>) |
 | Changed or unavailable web evidence | [Recovering changed and unavailable web sources](<Methods/Recovering changed and unavailable web sources.md>) |
-| Rights, publication, or redistribution | [LICENCE.md](LICENCE.md), the relevant evidence record, and any candidate-specific contributor-rights note |
+| Rights, privacy, evidence storage, publication, or redistribution | [LICENCE.md](LICENCE.md), [Evidence storage and publication](<Project/Evidence storage and publication.md>), the relevant evidence record, and any candidate-specific contributor-rights note |
 
 Use the latest official Unicode Consortium resources for current process, criteria, templates, status, and submission requirements. Read older guidance and past proposals only as historical evidence unless current official guidance confirms their continued applicability.
 
