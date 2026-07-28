@@ -29,4 +29,4 @@ A foundation-led project reports producing trees and sponsored cultivation and s
 
 ## Sources
 
-[C23](../Sources.md#C23)
+[C23](../Sources.md#c23)

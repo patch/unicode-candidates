@@ -31,4 +31,4 @@ The cultivated species is introduced. State reporting documents farms, sales, an
 
 ## Sources
 
-[R02](../Sources.md#R02), [C09](../Sources.md#C09), [N10](../Sources.md#N10)
+[R02](../Sources.md#r02), [C09](../Sources.md#c09), [N10](../Sources.md#n10)

@@ -29,4 +29,4 @@ Secondary reviews repeat that durian is cultivated in Madagascar, but no current
 
 ## Sources
 
-[C21](../Sources.md#C21)
+[C21](../Sources.md#c21)

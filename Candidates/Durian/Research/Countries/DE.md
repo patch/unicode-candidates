@@ -35,4 +35,4 @@ Fresh imports pass the screen and Vietnamese/Chinese population geography makes 
 
 ## Sources
 
-[T02](../Sources.md#T02), [D06](../Sources.md#D06)
+[T02](../Sources.md#t02), [D06](../Sources.md#d06)

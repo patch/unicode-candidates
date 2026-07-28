@@ -37,4 +37,4 @@ Malaysia is in both native-range mappings, is a major producer, and has official
 
 ## Sources
 
-[R01](../Sources.md#R01), [R02](../Sources.md#R02), [C02](../Sources.md#C02), [N01](../Sources.md#N01), [T02](../Sources.md#T02), [S06](../Sources.md#S06), [S07](../Sources.md#S07)
+[R01](../Sources.md#r01), [R02](../Sources.md#r02), [C02](../Sources.md#c02), [N01](../Sources.md#n01), [T02](../Sources.md#t02), [S06](../Sources.md#s06), [S07](../Sources.md#s07)

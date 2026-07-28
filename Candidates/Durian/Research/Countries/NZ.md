@@ -34,4 +34,4 @@ The fresh-import value is below the main threshold, but Auckland’s concentrati
 
 ## Sources
 
-[T02](../Sources.md#T02), [D12](../Sources.md#D12)
+[T02](../Sources.md#t02), [D12](../Sources.md#d12)

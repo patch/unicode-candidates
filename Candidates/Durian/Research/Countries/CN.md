@@ -36,4 +36,4 @@ China is the dominant fresh-import market and has a fast-expanding domestic comm
 
 ## Sources
 
-[C12](../Sources.md#C12), [N07](../Sources.md#N07), [N08](../Sources.md#N08), [T02](../Sources.md#T02)
+[C12](../Sources.md#c12), [N07](../Sources.md#n07), [N08](../Sources.md#n08), [T02](../Sources.md#t02)

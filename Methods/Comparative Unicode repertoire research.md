@@ -10,7 +10,7 @@ tags:
 
 ## Purpose
 
-This method supports bounded claims about ‘all existing Unicode characters’ for a semantic class. It was first applied in [[Existing Unicode characters with fruit referents]]. The objective is an auditable repertoire result that can reveal supportive, adverse or ambiguous comparisons without treating resemblance to encoded subjects as an encoding criterion.
+This method supports bounded claims about ‘all existing Unicode characters’ for a semantic class. It was first applied in [Existing Unicode characters with fruit referents](<../Research/Existing Unicode characters with fruit referents.md>). The objective is an auditable repertoire result that can reveal supportive, adverse or ambiguous comparisons without treating resemblance to encoded subjects as an encoding criterion.
 
 ## Workflow
 

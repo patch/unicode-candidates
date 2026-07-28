@@ -1,6 +1,6 @@
 ---
 title: Candidate lifecycle
-last_reviewed: 2026-07-23
+last_reviewed: 2026-07-28
 tags:
   - project
   - status
@@ -22,7 +22,7 @@ Phases need not form a one-way sequence. A candidate may be deferred, return fro
 
 ## Official tracks and events
 
-Record character encoding and emoji treatment as separate tracks for the same prospective character. For each submission, retain:
+Record the character-proposal and emoji-proposal routes separately when both apply. A candidate may be viable through either route alone. For each submission, retain:
 
 - the route and submitted version;
 - submission and response dates;

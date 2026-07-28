@@ -29,4 +29,4 @@ National planning and a 2024 Wawin project demonstrate commercial intent. Recurr
 
 ## Sources
 
-[C18](../Sources.md#C18)
+[C18](../Sources.md#c18)

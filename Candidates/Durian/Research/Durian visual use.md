@@ -11,7 +11,7 @@ tags:
 
 Durian imagery appears in several contexts that should remain analytically separate:
 
-- **Functional or non-marketing use:** a durian pictogram regulates behaviour, identifies a prohibited item, or otherwise communicates beyond promotion. The repeated prohibition signs in [[Durian signage]] are the strongest current evidence of an independent symbol convention.
+- **Functional or non-marketing use:** a durian pictogram regulates behaviour, identifies a prohibited item, or otherwise communicates beyond promotion. The repeated prohibition signs in [Durian signage](<Durian signage.md>) are the strongest current evidence of an independent symbol convention.
 - **Marketing or brand use:** a durian form identifies a product, producer, retailer, event, or commercial category. This remains relevant, especially when unrelated organizations in different territories converge on a recognizable form.
 - **Inline-text integration:** the durian form substitutes for or behaves like a letter, word, or punctuation mark inside otherwise ordinary text. This can demonstrate that designers and readers treat the image as a compact graphic unit, although a one-off stylistic treatment does not by itself establish a general convention.
 
@@ -21,9 +21,9 @@ Marketing evidence should not be used as if it were functional signage, but it s
 
 | Territory or context | Use | What is established | Assessment | Source |
 |---|---|---|---|---|
-| Indonesia (ID), university design project | A spiky durian form replaces LATIN CAPITAL LETTER O (`U+004F`) in the “Ducoff” logo | The designers explicitly state that the durian shape in the “O” connects the brand to its durian-seed ingredient | Direct example of the requested letter-substitution pattern, but currently a design project rather than evidence of sustained commercial deployment | [V01](Sources.md#V01) |
-| Malaysia (MY) and Taiwan (TW), transnational commercial brand | The “Forbidden” wordmark ends in a spiky durian-like 14-point star functioning as FULL STOP (`U+002E`) | The design studio describes the mark’s durian resemblance, Malaysian reference, punctuation role, and use by a brand launched in 2019 | Strong commercial example of punctuation-like inline integration; the mark also refers to the Malaysian flag and should not be coded as a pure fruit pictogram | [V02](Sources.md#V02) |
-| United States (US), trademark filing | A spiky circular band is integrated with a lowercase “d” beside the word “durian” | The filing description explicitly defines the letterform and wavy-edged design | Useful letter–image hybrid lead, but not an “O” substitution; current use and trademark status require first-party verification | [V03](Sources.md#V03) |
+| Indonesia (ID), university design project | A spiky durian form replaces LATIN CAPITAL LETTER O (`U+004F`) in the “Ducoff” logo | The designers explicitly state that the durian shape in the “O” connects the brand to its durian-seed ingredient | Direct example of the requested letter-substitution pattern, but currently a design project rather than evidence of sustained commercial deployment | [V01](Sources.md#v01) |
+| Malaysia (MY) and Taiwan (TW), transnational commercial brand | The “Forbidden” wordmark ends in a spiky durian-like 14-point star functioning as FULL STOP (`U+002E`) | The design studio describes the mark’s durian resemblance, Malaysian reference, punctuation role, and use by a brand launched in 2019 | Strong commercial example of punctuation-like inline integration; the mark also refers to the Malaysian flag and should not be coded as a pure fruit pictogram | [V02](Sources.md#v02) |
+| United States (US), trademark filing | A spiky circular band is integrated with a lowercase “d” beside the word “durian” | The filing description explicitly defines the letterform and wavy-edged design | Useful letter–image hybrid lead, but not an “O” substitution; current use and trademark status require first-party verification | [V03](Sources.md#v03) |
 
 ## Proposal relevance
 

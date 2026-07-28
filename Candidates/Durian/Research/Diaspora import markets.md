@@ -15,7 +15,7 @@ Accordingly, the market classifications below should be read as a **global-reach
 
 ## Trade screen
 
-HS 081060 is the Harmonized System subheading for **fresh durians** ([T01](Sources.md#T01)). UN Comtrade-derived reporter data for 2023 show US$7.2 billion of global reported imports. China accounted for 93.23% and Hong Kong 5.61%; together they represented about 98.84% by value ([T02](Sources.md#T02)). This dominance makes the remaining market values look small even where a specialized supply chain is well established.
+HS 081060 is the Harmonized System subheading for **fresh durians** ([T01](Sources.md#t01)). UN Comtrade-derived reporter data for 2023 show US$7.2 billion of global reported imports. China accounted for 93.23% and Hong Kong 5.61%; together they represented about 98.84% by value ([T02](Sources.md#t02)). This dominance makes the remaining market values look small even where a specialized supply chain is well established.
 
 The diaspora-market screen used US$1 million in 2023 imports, then excluded or reclassified places where the evidence points to population-wide consumption, domestic production, or redistribution. The United Kingdom and New Zealand are below the threshold but retained as useful demographically concentrated comparison cases.
 
@@ -48,51 +48,51 @@ Local subdivision codes use ISO 3166-2 where applicable; every other namespace i
 | GB | US$0.901m | Below threshold but useful diaspora comparison | Chinese, Vietnamese and other Southeast Asian populations | England `GB-ENG`; Greater London ONS region `E12000007` | Official small-area demographic dataset available; retail link needs study |
 | NZ | US$0.428m | Below threshold but demographically concentrated comparison | Chinese, Filipino and Malaysian populations within the wider Asian population | Auckland `NZ-AUK` | Strong concentration evidence; purchaser link inferred |
 
-Sources: trade values from [T02](Sources.md#T02); demographic and regional evidence from [D01](Sources.md#D01)–[D12](Sources.md#D12).
+Sources: trade values from [T02](Sources.md#t02); demographic and regional evidence from [D01](Sources.md#d01)–[D12](Sources.md#d12).
 
 ### United States
 
-The 2020 Census counted, alone or in combination, about 5.205 million Chinese, 4.437 million Filipino, and 2.293 million Vietnamese people. More than 18% of each population lived in California; Texas was the second-largest state for the Vietnamese population and New York for the Chinese population ([D01](Sources.md#D01)). Washington is an additional Pacific supply-chain priority. Hawai‘i must be separated analytically because its small local harvest supplements imports.
+The 2020 Census counted, alone or in combination, about 5.205 million Chinese, 4.437 million Filipino, and 2.293 million Vietnamese people. More than 18% of each population lived in California; Texas was the second-largest state for the Vietnamese population and New York for the Chinese population ([D01](Sources.md#d01)). Washington is an additional Pacific supply-chain priority. Hawai‘i must be separated analytically because its small local harvest supplements imports.
 
 ### Canada
 
-The 2021 Census gives large Chinese, Filipino, and Vietnamese populations, with British Columbia alone reporting 517,805 Chinese, 172,915 Filipino, and 51,890 Vietnamese residents in the cited profile. National Filipino population geography is especially concentrated in Ontario, Alberta, British Columbia, and Manitoba ([D02](Sources.md#D02)).
+The 2021 Census gives large Chinese, Filipino, and Vietnamese populations, with British Columbia alone reporting 517,805 Chinese, 172,915 Filipino, and 51,890 Vietnamese residents in the cited profile. National Filipino population geography is especially concentrated in Ontario, Alberta, British Columbia, and Manitoba ([D02](Sources.md#d02)).
 
 ### Australia
 
-The 2021 Census country-of-birth series counted 595,630 China-born, 310,620 Philippines-born, 268,170 Vietnam-born, and 172,250 Malaysia-born residents. State distributions make New South Wales and Victoria the largest first-pass markets, while Queensland and Western Australia are also relevant; Queensland additionally borders the domestic growing zone ([D03](Sources.md#D03)).
+The 2021 Census country-of-birth series counted 595,630 China-born, 310,620 Philippines-born, 268,170 Vietnam-born, and 172,250 Malaysia-born residents. State distributions make New South Wales and Victoria the largest first-pass markets, while Queensland and Western Australia are also relevant; Queensland additionally borders the domestic growing zone ([D03](Sources.md#d03)).
 
 ### France
 
-INSEE’s 2023 estimates include approximately 116,000 immigrants born in China, 77,000 in Vietnam, 48,000 in Cambodia, and 29,000 in Laos. Reporting on Paris’s thirteenth arrondissement directly describes durian as principally sold through Asian groceries and as a culturally acquired taste in the West ([D04](Sources.md#D04), [D05](Sources.md#D05)). This is the strongest direct diaspora-retail connection in the European cases.
+INSEE’s 2023 estimates include approximately 116,000 immigrants born in China, 77,000 in Vietnam, 48,000 in Cambodia, and 29,000 in Laos. Reporting on Paris’s thirteenth arrondissement directly describes durian as principally sold through Asian groceries and as a culturally acquired taste in the West ([D04](Sources.md#d04), [D05](Sources.md#d05)). This is the strongest direct diaspora-retail connection in the European cases.
 
 ### Germany
 
-Berlin official material documents a Vietnamese-origin population of roughly 22,000 and active study of Vietnamese migration in Lichtenberg. Saxony is a second priority because of the historical geography of Vietnamese migration, but a direct link to durian purchasing remains to be tested ([D06](Sources.md#D06)).
+Berlin official material documents a Vietnamese-origin population of roughly 22,000 and active study of Vietnamese migration in Lichtenberg. Saxony is a second priority because of the historical geography of Vietnamese migration, but a direct link to durian purchasing remains to be tested ([D06](Sources.md#d06)).
 
 ### Italy
 
-Italian labour-ministry community reports place the Chinese community chiefly in Lombardy and then Tuscany; the same official series covers the Filipino community. Lazio is included as a Filipino-community research priority rather than as a demonstrated durian centre ([D07](Sources.md#D07)).
+Italian labour-ministry community reports place the Chinese community chiefly in Lombardy and then Tuscany; the same official series covers the Filipino community. Lazio is included as a Filipino-community research priority rather than as a demonstrated durian centre ([D07](Sources.md#d07)).
 
 ### Norway
 
-Statistics Norway’s 2026 national table counted 25,673 immigrants from the Philippines, 23,203 from Thailand, 14,806 from Vietnam, and 9,903 from China. Oslo is a practical first field site, but this survey has not yet extracted municipality-by-country counts or connected retail sales to those populations ([D08](Sources.md#D08)).
+Statistics Norway’s 2026 national table counted 25,673 immigrants from the Philippines, 23,203 from Thailand, 14,806 from Vietnam, and 9,903 from China. Oslo is a practical first field site, but this survey has not yet extracted municipality-by-country counts or connected retail sales to those populations ([D08](Sources.md#d08)).
 
 ### Spain
 
-The detailed 2024 census framework permits nationality and birthplace analysis below national level. Madrid, Catalonia, and the Valencian Community are research priorities, not asserted durian-consumption regions; the current link between Chinese population geography and the US$1.078 million fresh trade is a hypothesis ([D09](Sources.md#D09)).
+The detailed 2024 census framework permits nationality and birthplace analysis below national level. Madrid, Catalonia, and the Valencian Community are research priorities, not asserted durian-consumption regions; the current link between Chinese population geography and the US$1.078 million fresh trade is a hypothesis ([D09](Sources.md#d09)).
 
 ### United Arab Emirates
 
-Philippine government sources describe a large Filipino community in the UAE, with diplomatic/community infrastructure in Abu Dhabi and Dubai. Dubai, Abu Dhabi, and Sharjah should be studied as distinct retail markets. Labour migration, expatriate turnover, and regional redistribution complicate the import interpretation ([D10](Sources.md#D10)).
+Philippine government sources describe a large Filipino community in the UAE, with diplomatic/community infrastructure in Abu Dhabi and Dubai. Dubai, Abu Dhabi, and Sharjah should be studied as distinct retail markets. Labour migration, expatriate turnover, and regional redistribution complicate the import interpretation ([D10](Sources.md#d10)).
 
 ### United Kingdom
 
-The ONS 2021 Census dataset provides detailed country-of-birth distributions by local authority. Greater London is the first extraction and retail-mapping priority. The sub-US$1 million fresh figure likely understates the total durian category because frozen and prepared products are absent ([D11](Sources.md#D11)).
+The ONS 2021 Census dataset provides detailed country-of-birth distributions by local authority. Greater London is the first extraction and retail-mapping priority. The sub-US$1 million fresh figure likely understates the total durian category because frozen and prepared products are absent ([D11](Sources.md#d11)).
 
 ### New Zealand
 
-The 2023 Census Asian-ethnicity infographic reports that 60.1% of people in Asian ethnic groups lived in Auckland; China and the Philippines are among the leading birth countries. Auckland is therefore an unusually clear geographic fieldwork priority despite the small fresh-import value ([D12](Sources.md#D12)).
+The 2023 Census Asian-ethnicity infographic reports that 60.1% of people in Asian ethnic groups lived in Auckland; China and the Philippines are among the leading birth countries. Auckland is therefore an unusually clear geographic fieldwork priority despite the small fresh-import value ([D12](Sources.md#d12)).
 
 ## Non-diaspora or ambiguous high-value importers
 
@@ -108,7 +108,7 @@ The 2023 Census Asian-ethnicity infographic reports that 60.1% of people in Asia
 | ID | US$4.530m | General-population market and producer |
 | JP | US$3.786m | Emerging general-market niche; not primarily a diaspora interpretation |
 | TH | US$3.669m | Producer/consumer; imports can reflect season, variety, or re-export trade |
-| KR | Not consistently reported in the 2023 screen | Emerging general-market niche; secondary data report 1.82m kg in 2023 ([T03](Sources.md#T03)) |
+| KR | Not consistently reported in the 2023 screen | Emerging general-market niche; secondary data report 1.82m kg in 2023 ([T03](Sources.md#t03)) |
 | NL | US$0.918m | Redistribution-hub control; do not infer diaspora consumption without partner/re-export analysis |
 
 ## Research cautions and next data

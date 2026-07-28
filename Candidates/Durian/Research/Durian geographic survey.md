@@ -10,7 +10,7 @@ tags:
 
 This is an evidence-led geographic survey for the durian-symbol project. Its purpose is to establish where durians are biologically native, cultivated as a market crop, consumed beyond predominantly immigrant communities, imported into diaspora markets, and represented visually in functional and marketing contexts. It is background research that can inform arguments for or against encoding; it is not written to predetermine the conclusion.
 
-The project definition of a **country** is any territory assigned an ISO 3166-1 alpha-2 code, including dependent territories. The `country_code` property is the primary identifier in the country records and in [[Durian countries.base]]. Territory names use Unicode CLDR English (`en`) forms, preferring a non-abbreviated `alt="short"` value when available, and may change without changing the record identity ([M03](../../../Research/Sources.md#M03)).
+The project definition of a **country** is any territory assigned an ISO 3166-1 alpha-2 code, including dependent territories. The `country_code` property is the primary identifier in the country records and in [Durian countries](<Durian countries.base>). Territory names use Unicode CLDR English (`en`) forms, preferring a non-abbreviated `alt="short"` value when available, and may change without changing the record identity ([M03](../../../Research/Sources.md#m03)).
 
 ## Result snapshot
 
@@ -23,7 +23,7 @@ The project definition of a **country** is any territory assigned an ISO 3166-1 
 | Countries with a traceable physical or scholarly documented durian-prohibition sign | 6: ID, KH, MY, SG, TH, VN | This is a verified-occurrence register, not a claim that no other countries have such signs |
 | Source-defined fruit rankings containing durian | 5 consumption/availability cases plus 1 China import-ranking proxy, across 6 countries | The sources use different universes and measures; their ranks are not internationally comparable |
 
-See [[Cultivation and native range]], [[Consumption and fruit rankings]], [[Diaspora import markets]], and [[Durian signage]] for the evidence, thresholds, and sources behind these counts.
+See [Cultivation and native range](<Cultivation and native range.md>), [Consumption and fruit rankings](<Consumption and fruit rankings.md>), [Diaspora import markets](<Diaspora import markets.md>), and [Durian signage](<Durian signage.md>) for the evidence, thresholds, and sources behind these counts.
 
 ## Symbol referent
 
@@ -86,15 +86,15 @@ Priority is given to signs that regulate behaviour in transport, accommodation, 
 
 ## File guide
 
-- [[Cultivation and native range]] — botanical ranges, commercial-production tiers, and unresolved leads.
-- [[Consumption and fruit rankings]] — population-reach classifications and the defensible source-specific rankings.
-- [[Diaspora import markets]] — the 2023 fresh-trade screen, diaspora populations, and local-region codes.
-- [[Durian signage]] — verified functional sign occurrences, venue context, provenance, and rights.
-- [[Durian visual use]] — relationship between functional, marketing, and inline-text evidence, including preliminary logo findings.
-- [[Sources]] — source register with stable local IDs and access dates.
-- [[Durian countries.base]] — filterable country-level index.
+- [Cultivation and native range](<Cultivation and native range.md>) — botanical ranges, commercial-production tiers, and unresolved leads.
+- [Consumption and fruit rankings](<Consumption and fruit rankings.md>) — population-reach classifications and the defensible source-specific rankings.
+- [Diaspora import markets](<Diaspora import markets.md>) — the 2023 fresh-trade screen, diaspora populations, and local-region codes.
+- [Durian signage](<Durian signage.md>) — verified functional sign occurrences, venue context, provenance, and rights.
+- [Durian visual use](<Durian visual use.md>) — relationship between functional, marketing, and inline-text evidence, including preliminary logo findings.
+- [Sources](Sources.md) — source register with stable local IDs and access dates.
+- [Durian countries](<Durian countries.base>) — filterable country-level index.
 - `Countries/CC.md` — one record per included territory, named by its uppercase ISO 3166-1 alpha-2 code; the `title` property stores `Country Name (CC)`.
-- [[Geographic evidence research for symbol proposals]] — reusable method and refinement log for future symbol subjects.
+- [Geographic evidence research for symbol proposals](<../../../Methods/Geographic evidence research for symbol proposals.md>) — reusable method and refinement log for future symbol subjects.
 
 This division keeps interpretation in prose while allowing genuinely cross-cutting facts to be filtered by country. It avoids forcing individual photographs, sources, or incomparable rankings into a relational-looking structure.
 
@@ -118,7 +118,7 @@ China’s import demand dominates the monetary trade data, but it should not ecl
 
 ## Recommended next research
 
-1. **Catalogue the existing sign-photo collection.** When the project owner can share it, preserve originals, record provenance and rights, code venue, wording, visual form, and independence, and identify evidential and publication gaps before commissioning or broadly collecting more images.
+1. **Catalogue the existing sign-photo collection.** When the collection becomes available, preserve originals, record provenance and rights, code venue, wording, visual form, and independence, and identify evidential and publication gaps before commissioning or broadly collecting more images.
 2. **Verify the signage leads.** Seek traceable physical examples in BN, HK, LA, PH, and TW, then expand to other Southeast Asian countries without assuming occurrence.
 3. **Document symbol form and marketing convergence.** Code each sign for whole-fruit silhouette, cut fruit, colour, spikes, stalk, slash, enclosing circle, accompanying `Language Name (language_code)`, and whether the fruit remains recognizable at small size. Search trademark databases, packaging archives, and brand portfolios for independent durian marks, including pictorial substitutions for letters such as “O” and punctuation-like uses.
 4. **Compare prohibition-overlay precedents.** Build a bounded repertoire of Unicode characters known to appear on real signage with a circle, diagonal slash or cross overlay, including cigarettes, mobile phones and skateboards. Distinguish the encoded base character, overlay convention, venue and function, and evidence of public recognition.
@@ -129,7 +129,7 @@ China’s import demand dominates the monetary trade data, but it should not ecl
 9. **Test plain-text need and counterarguments after the photo audit.** Assess whether documented functions require public interchange in plain text, whether existing text or characters suffice, whether visual use is merely illustrative, and which findings would change the working judgement.
 10. **Build any additional rights-cleared sign corpus justified by the gap audit.** Commission or request missing photographs from relevant transit operators, hotels, libraries, hospitals, and building managers. Capture the whole sign in context, exact coordinates, date, photographer, and written permission.
 11. **Preserve negative and uncertain findings.** Record ministry enquiries and searches that find no commercial crop or no sign. They will make future “all countries” claims auditable.
-12. **Reuse and improve the method.** Apply [[Geographic evidence research for symbol proposals]] to the next subject under evaluation, append lessons to its refinement log, and review whether earlier data need reclassification.
+12. **Reuse and improve the method.** Apply [Geographic evidence research for symbol proposals](<../../../Methods/Geographic evidence research for symbol proposals.md>) to the next subject under evaluation, append lessons to its refinement log, and review whether earlier data need reclassification.
 
 ## Review status
 

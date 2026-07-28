@@ -31,4 +31,4 @@ Specialist first-person reporting documents smallholder sales and local seasonal
 
 ## Sources
 
-[C17](../Sources.md#C17)
+[C17](../Sources.md#c17)

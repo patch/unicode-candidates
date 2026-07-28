@@ -31,4 +31,4 @@ Government agronomy and historical FAO output establish a minor crop. Department
 
 ## Sources
 
-[C06](../Sources.md#C06), [C11](../Sources.md#C11), [N13](../Sources.md#N13)
+[C06](../Sources.md#c06), [C11](../Sources.md#c11), [N13](../Sources.md#n13)

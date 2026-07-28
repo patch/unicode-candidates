@@ -35,4 +35,4 @@ The fresh-import value is below the main threshold, but England and Greater Lond
 
 ## Sources
 
-[T02](../Sources.md#T02), [D11](../Sources.md#D11)
+[T02](../Sources.md#t02), [D11](../Sources.md#d11)

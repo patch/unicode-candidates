@@ -36,4 +36,4 @@ Fresh imports pass the screen. Chinese community geography supports Lombardy and
 
 ## Sources
 
-[T02](../Sources.md#T02), [D07](../Sources.md#D07)
+[T02](../Sources.md#t02), [D07](../Sources.md#d07)

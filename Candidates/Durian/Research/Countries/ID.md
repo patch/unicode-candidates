@@ -36,4 +36,4 @@ Indonesia is in both native-range mappings, is a major producer, and has officia
 
 ## Sources
 
-[R01](../Sources.md#R01), [R02](../Sources.md#R02), [C03](../Sources.md#C03), [N02](../Sources.md#N02), [T02](../Sources.md#T02), [S10](../Sources.md#S10)
+[R01](../Sources.md#r01), [R02](../Sources.md#r02), [C03](../Sources.md#c03), [N02](../Sources.md#n02), [T02](../Sources.md#t02), [S10](../Sources.md#s10)

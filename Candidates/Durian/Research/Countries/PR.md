@@ -29,4 +29,4 @@ Extension and producer reporting establish limited commercial/wholesale cultivat
 
 ## Sources
 
-[C16](../Sources.md#C16)
+[C16](../Sources.md#c16)

@@ -37,9 +37,9 @@ For biological subjects, describe the scientific taxa involved, but derive the p
 
 ### 2. Fix identifiers and units
 
-Use durable identifiers as primary keys. A **territory** follows Unicode CLDR usage and may be a macroregion, country, dependent territory, or subdivision. Territory and language names use Unicode CLDR English (`en`) forms. Prefer a territory’s `alt="short"` name when present, except when it is itself a two-letter abbreviation; use the unqualified name in that case. This rule gives Hong Kong, Myanmar, and Macao, while retaining United States and United Kingdom ([M03](../Research/Sources.md#M03)).
+Use durable identifiers as primary keys. A **territory** follows Unicode CLDR usage and may be a macroregion, country, dependent territory, or subdivision. Territory and language names use Unicode CLDR English (`en`) forms. Prefer a territory’s `alt="short"` name when present, except when it is itself a two-letter abbreviation; use the unqualified name in that case. This rule gives Hong Kong, Myanmar, and Macao, while retaining United States and United Kingdom ([M03](../Research/Sources.md#m03)).
 
-The `country_code` property stores the ISO 3166-1 alpha-2 code assigned to an included country or dependent territory ([M01](../Research/Sources.md#M01)). Country codes are uppercase. Language codes are lowercase: use ISO 639-1 alpha-2 when assigned and fall back to ISO 639-3 alpha-3 otherwise. Store the result as `language_code` ([M04](../Research/Sources.md#M04)). For subdivisions, use ISO 3166-2 codes where applicable and identify every alternate code namespace explicitly.
+The `country_code` property stores the ISO 3166-1 alpha-2 code assigned to an included country or dependent territory ([M01](../Research/Sources.md#m01)). Country codes are uppercase. Language codes are lowercase: use ISO 639-1 alpha-2 when assigned and fall back to ISO 639-3 alpha-3 otherwise. Store the result as `language_code` ([M04](../Research/Sources.md#m04)). For subdivisions, use ISO 3166-2 codes where applicable and identify every alternate code namespace explicitly.
 
 In prose, use `Country Name (CC)` and `Language Name (ll/lll)` where both the label and identifier improve clarity. Macroregion codes such as `035` need not be displayed unless the macroregion is being treated as data. After a standard has been defined in an asset, “country code” or “language code” is usually sufficient. Avoid ambiguous shorthand such as “ISO entities”.
 
@@ -206,9 +206,9 @@ Use ordinary Markdown for:
 - sign narratives and provenance;
 - limitations, contradictions, and decisions.
 
-Use a Base or table only when records have stable repeated fields and useful filters, such as country-code-keyed status. Follow the current official Bases syntax for those views ([M02](../Research/Sources.md#M02)). Do not force sources or unique evidence items into a table if that hides qualifications.
+Use a Base or table only when records have stable repeated fields and useful filters, such as country-code-keyed status. Follow the current official Bases syntax for those views ([M02](../Research/Sources.md#m02)). Do not force sources or unique evidence items into a table if that hides qualifications.
 
-In an Obsidian vault with inline titles enabled, do not repeat an identical H1 below frontmatter. Use ordinary relative Markdown links for source citations so that they remain portable and do not introduce wiki-link alias delimiters into tables. Reserve wiki links for navigational relationships between vault notes where Obsidian’s note-resolution behaviour is useful.
+In an Obsidian vault with inline titles enabled, do not repeat an identical H1 below frontmatter. Use ordinary relative Markdown links for source citations and navigational relationships so they remain portable across Obsidian and GitHub and do not introduce wiki-link alias delimiters into tables.
 
 ### 12. Validate and freeze a research release
 
@@ -277,12 +277,12 @@ A negative or weaker case is still a valid research result and may support a use
 - Renamed the country primary-key property to `country_code`; coded lookup records use the country code as the filename and store `Country Name (CC)` in the `title` property.
 - Replaced informal descriptions of quotation-mark shapes with Unicode character names and code points.
 - Expanded the rights ladder to include Creative Commons, separately licensed stock, permission, and reviewable non-free reference use.
-- Recorded Obsidian title, table-link, and vault-relative Base-filter pitfalls discovered during review; source citations use ordinary relative Markdown links, while Bases use `this.file.folder` where a query should follow its own folder.
+- Recorded Obsidian title, table-link, and vault-relative Base-filter pitfalls discovered during review; source and note links use ordinary relative Markdown links, while Bases use `this.file.folder` where a query should follow its own folder.
 
 ### 2026-07-22 — pre-commit consistency review
 
 - Distinguished territories with documented market output from active projects intended to establish commercial production; do not hide that evidential difference inside an umbrella count.
-- Standardized source citations as portable relative Markdown links while retaining wiki links for useful note-to-note navigation.
-- Revalidated the country-record schema, source-key coverage, Markdown tables, inline-title treatment, and Base folder query before treating the research set as commit-ready. The project owner confirmed on 22 July 2026 that the revised Base returns records in Obsidian.
+- Standardized source citations and note navigation as portable relative Markdown links.
+- Revalidated the country-record schema, source-key coverage, Markdown tables, inline-title treatment, and Base folder query before treating the research set as commit-ready. The revised Base was confirmed to return records in Obsidian on 22 July 2026.
 
 Future research should append concise refinements here when a method changes, including why it changed and which earlier results may need review.

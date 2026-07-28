@@ -39,4 +39,4 @@ USDA directly verifies a tiny commercial Hawai‘i crop. Imports and large Chine
 
 ## Sources
 
-[C15](../Sources.md#C15), [T02](../Sources.md#T02), [D01](../Sources.md#D01)
+[C15](../Sources.md#c15), [T02](../Sources.md#t02), [D01](../Sources.md#d01)

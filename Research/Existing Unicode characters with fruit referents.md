@@ -26,7 +26,7 @@ At the Unicode Standard, Version 17.0.0 cut-off, the defined review finds **41 e
 
 For proposal work, the principal comparison set is the **29 contemporary emoji-capable characters plus the lime sequence (🍋‍🟩)**. The three legacy terminal symbols are weak supplementary comparisons, and the nine historical Aegean signs are weaker still. They remain documented because they satisfy the stated repertoire rule, not because they are likely precedents for a final proposal.
 
-Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode’s emoji repertoire represents lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. ([U19](Sources.md#U19), [U20](Sources.md#U20), [U21](Sources.md#U21), [U22](Sources.md#U22), [U23](Sources.md#U23))
+Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode’s emoji repertoire represents lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. ([U19](Sources.md#u19), [U20](Sources.md#u20), [U21](Sources.md#u21), [U22](Sources.md#u22), [U23](Sources.md#u23))
 
 The encoded characters therefore cover 33 referent categories; adding the sequence-only lime category brings the represented total to 34.
 
@@ -34,7 +34,7 @@ This is the complete result within the corpus and inclusion rules below. It is n
 
 ## Definitions and inclusion rules
 
-The **botanical** classification treats a fruit as a ripened ovary with its seeds and recognizes accessory tissue, aggregate and multiple fruits, dry fruits, and fruit-bearing structures. The **culinary** classification follows common food grouping and use rather than plant morphology. ‘Fruit’, ‘vegetable’, ‘nut’, ‘pulse’ and ‘grain’ are therefore parallel culinary categories, not botanical opposites. Botanical types and difficult cases follow university botany and extension sources; culinary labels use FAO groupings designed around foods’ roles in diets and common dietary categories. ([F01](Sources.md#F01), [F02](Sources.md#F02), [F03](Sources.md#F03), [F04](Sources.md#F04), [F05](Sources.md#F05))
+The **botanical** classification treats a fruit as a ripened ovary with its seeds and recognizes accessory tissue, aggregate and multiple fruits, dry fruits, and fruit-bearing structures. The **culinary** classification follows common food grouping and use rather than plant morphology. ‘Fruit’, ‘vegetable’, ‘nut’, ‘pulse’ and ‘grain’ are therefore parallel culinary categories, not botanical opposites. Botanical types and difficult cases follow university botany and extension sources; culinary labels use FAO groupings designed around foods’ roles in diets and common dietary categories. ([F01](Sources.md#f01), [F02](Sources.md#f02), [F03](Sources.md#f03), [F04](Sources.md#f04), [F05](Sources.md#f05))
 
 A character or sequence is included when its encoded identity, established non-phonetic commodity-sign value, or standardized emoji identity directly denotes:
 
@@ -83,13 +83,13 @@ This is the principal proposal-facing comparison. Each row contains one extended
 | 🫛 | `U+1FADB PEA POD` | Pea pod | Encoded character; default emoji presentation | Fruit: a dry legume containing seeds | Vegetable |
 | 🌾 | `U+1F33E EAR OF RICE` (CLDR short name ‘sheaf of rice’) | Rice sheaf | Encoded character; default emoji presentation | Qualified fruit-bearing structure: each rice grain is a caryopsis | Cereal grain |
 
-Unicode Emoji subgroup labels match neither classification. ‘food-fruit’ includes TOMATO, OLIVE and COCONUT, while ‘food-vegetable’ includes AVOCADO, AUBERGINE, EAR OF MAIZE, both peppers, CUCUMBER, PEANUTS, CHESTNUT and PEA POD; EAR OF RICE is under ‘plant-other’. These are chart-ordering categories, not botanical or culinary determinations. ([U20](Sources.md#U20))
+Unicode Emoji subgroup labels match neither classification. ‘food-fruit’ includes TOMATO, OLIVE and COCONUT, while ‘food-vegetable’ includes AVOCADO, AUBERGINE, EAR OF MAIZE, both peppers, CUCUMBER, PEANUTS, CHESTNUT and PEA POD; EAR OF RICE is under ‘plant-other’. These are chart-ordering categories, not botanical or culinary determinations. ([U20](Sources.md#u20))
 
-Botanical terminology in the table follows the structural classifications in [F01](Sources.md#F01) and [F02](Sources.md#F02). Fig, avocado, coconut, mango, peanuts, chestnuts and the cereal grains were separately checked in [F03](Sources.md#F03) and [F04](Sources.md#F04). The culinary column deliberately retains disagreements between FAO food groups and Unicode CLDR/emoji ordering rather than treating either as a biological authority. ([F05](Sources.md#F05), [U20](Sources.md#U20))
+Botanical terminology in the table follows the structural classifications in [F01](Sources.md#f01) and [F02](Sources.md#f02). Fig, avocado, coconut, mango, peanuts, chestnuts and the cereal grains were separately checked in [F03](Sources.md#f03) and [F04](Sources.md#f04). The culinary column deliberately retains disagreements between FAO food groups and Unicode CLDR/emoji ordering rather than treating either as a biological authority. ([F05](Sources.md#f05), [U20](Sources.md#u20))
 
 ### Presentation variants of HOT PEPPER
 
-Of the 29 emoji-capable encoded characters, 28 have `Emoji_Presentation=Yes` and normally display in emoji style. HOT PEPPER has `Emoji=Yes` but `Emoji_Presentation=No`. Its standardized variation sequences request text or emoji style; they are presentations of the same encoded hot-pepper character, not further fruit characters. Each sequence is shown on its own row. ([U20](Sources.md#U20))
+Of the 29 emoji-capable encoded characters, 28 have `Emoji_Presentation=Yes` and normally display in emoji style. HOT PEPPER has `Emoji=Yes` but `Emoji_Presentation=No`. Its standardized variation sequences request text or emoji style; they are presentations of the same encoded hot-pepper character, not further fruit characters. Each sequence is shown on its own row. ([U20](Sources.md#u20))
 
 | Character sequence | Code-point sequence | Requested presentation |
 |---|---|---|
@@ -126,7 +126,7 @@ These nine non-emoji script characters qualify under the deliberately broad bota
 | 𐂐 | `U+10090 LINEAR B IDEOGRAM B122 OLIVE` | Olive | Commodity ideogram | Fruit: drupe | Mixed: fruit in FAO grouping; often a savoury ingredient or condiment in ordinary use |
 | 𐙋 | `U+1064B LINEAR A SIGN AB122` | Olive | Sign annotated ‘olives’ | Fruit: drupe | Mixed: fruit in FAO grouping; often a savoury ingredient or condiment in ordinary use |
 
-The Aegean inclusions are narrow exceptions to the script-character exclusion. Unicode describes Linear B ideograms as logographs used mainly as counters for commodities, documents a separate ideogram B030 ‘figs’ use for the encoded NI syllable, names the wheat, barley and olive ideograms, and glosses the dedicated B127 KAPO monogram as ‘fruit’. The corresponding Linear A signs are officially annotated ‘figs’, ‘grain’ and ‘olives’. Their qualifying function is therefore a separately documented commodity sign, not the ordinary sequential spelling of a fruit name. ([U22](Sources.md#U22))
+The Aegean inclusions are narrow exceptions to the script-character exclusion. Unicode describes Linear B ideograms as logographs used mainly as counters for commodities, documents a separate ideogram B030 ‘figs’ use for the encoded NI syllable, names the wheat, barley and olive ideograms, and glosses the dedicated B127 KAPO monogram as ‘fruit’. The corresponding Linear A signs are officially annotated ‘figs’, ‘grain’ and ‘olives’. Their qualifying function is therefore a separately documented commodity sign, not the ordinary sequential spelling of a fruit name. ([U22](Sources.md#u22))
 
 ## Boundary and exclusion register
 
@@ -149,7 +149,7 @@ The result uses four independent passes:
 3. search Unicode names, aliases and NamesList annotations with a broad fruit and botanical vocabulary, then inspect surrounding block annotations and cross-references; and
 4. reverse-check the accepted set against CLDR 48.2 English annotations, official code charts and the historical-script descriptions, retaining a boundary register for false positives.
 
-This method makes the completeness claim reproducible for the defined standard corpus. It cannot prove the absence of undocumented symbolic use attached to an arbitrary script character, and representative glyphs are not prescriptive. The reusable workflow is recorded at [[Comparative Unicode repertoire research]].
+This method makes the completeness claim reproducible for the defined standard corpus. It cannot prove the absence of undocumented symbolic use attached to an arbitrary script character, and representative glyphs are not prescriptive. The reusable workflow is recorded at [Comparative Unicode repertoire research](<../Methods/Comparative Unicode repertoire research.md>).
 
 ## Interpretation for the durian project
 

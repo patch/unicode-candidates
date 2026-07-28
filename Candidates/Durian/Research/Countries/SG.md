@@ -36,4 +36,4 @@ Singapore is in the native genus range through *D. singaporensis* but not the na
 
 ## Sources
 
-[R01](../Sources.md#R01), [R03](../Sources.md#R03), [N06](../Sources.md#N06), [T02](../Sources.md#T02), [S01](../Sources.md#S01), [S02](../Sources.md#S02)
+[R01](../Sources.md#r01), [R03](../Sources.md#r03), [N06](../Sources.md#n06), [T02](../Sources.md#t02), [S01](../Sources.md#s01), [S02](../Sources.md#s02)

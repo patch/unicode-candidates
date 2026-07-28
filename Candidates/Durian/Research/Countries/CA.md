@@ -37,4 +37,4 @@ Fresh imports and the geography of Chinese, Filipino, and Vietnamese populations
 
 ## Sources
 
-[T02](../Sources.md#T02), [D02](../Sources.md#D02)
+[T02](../Sources.md#t02), [D02](../Sources.md#d02)

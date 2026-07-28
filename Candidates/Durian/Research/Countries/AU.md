@@ -38,4 +38,4 @@ Northern Queensland and the Darwin area have government-confirmed commercial gro
 
 ## Sources
 
-[C13](../Sources.md#C13), [T02](../Sources.md#T02), [D03](../Sources.md#D03)
+[C13](../Sources.md#c13), [T02](../Sources.md#t02), [D03](../Sources.md#d03)

@@ -31,4 +31,4 @@ Official agricultural surveys establish an expanding crop and regional seasonal 
 
 ## Sources
 
-[C08](../Sources.md#C08), [N12](../Sources.md#N12), [S09](../Sources.md#S09)
+[C08](../Sources.md#c08), [N12](../Sources.md#n12), [S09](../Sources.md#s09)

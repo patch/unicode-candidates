@@ -32,4 +32,4 @@ Large fresh imports and agricultural guidance support a territory-wide market cl
 
 ## Sources
 
-[T04](../Sources.md#T04), [C22](../Sources.md#C22)
+[T04](../Sources.md#t04), [C22](../Sources.md#c22)

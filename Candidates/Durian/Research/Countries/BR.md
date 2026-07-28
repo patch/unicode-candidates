@@ -32,4 +32,4 @@ A nursery reports occasional home and commercial orchards in Bahia and Pará. No
 
 ## Sources
 
-[C20](../Sources.md#C20)
+[C20](../Sources.md#c20)

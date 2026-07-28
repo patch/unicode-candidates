@@ -36,4 +36,4 @@ Official demographics and direct Paris Asian-grocery reporting make Île-de-Fran
 
 ## Sources
 
-[T02](../Sources.md#T02), [D04](../Sources.md#D04), [D05](../Sources.md#D05)
+[T02](../Sources.md#t02), [D04](../Sources.md#d04), [D05](../Sources.md#d05)

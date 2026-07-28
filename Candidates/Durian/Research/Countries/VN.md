@@ -31,4 +31,4 @@ last_reviewed: 2026-07-22
 
 ## Sources
 
-[R02](../Sources.md#R02), [C05](../Sources.md#C05), [S08](../Sources.md#S08)
+[R02](../Sources.md#r02), [C05](../Sources.md#c05), [S08](../Sources.md#s08)

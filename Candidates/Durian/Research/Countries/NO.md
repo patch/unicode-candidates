@@ -34,4 +34,4 @@ Fresh imports pass the screen and official statistics show Filipino, Thai, Vietn
 
 ## Sources
 
-[T02](../Sources.md#T02), [D08](../Sources.md#D08)
+[T02](../Sources.md#t02), [D08](../Sources.md#d08)

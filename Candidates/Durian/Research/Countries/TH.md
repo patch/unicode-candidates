@@ -38,4 +38,4 @@ Thailand is in the native genus range, while *D. zibethinus* is listed as introd
 
 ## Sources
 
-[R01](../Sources.md#R01), [R02](../Sources.md#R02), [C01](../Sources.md#C01), [N03](../Sources.md#N03), [T02](../Sources.md#T02), [S03](../Sources.md#S03), [S04](../Sources.md#S04), [S05](../Sources.md#S05)
+[R01](../Sources.md#r01), [R02](../Sources.md#r02), [C01](../Sources.md#c01), [N03](../Sources.md#n03), [T02](../Sources.md#t02), [S03](../Sources.md#s03), [S04](../Sources.md#s04), [S05](../Sources.md#s05)

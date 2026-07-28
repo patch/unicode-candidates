@@ -32,4 +32,4 @@ Myanmar is in the native genus range, while *D. zibethinus* is listed as introdu
 
 ## Sources
 
-[R01](../Sources.md#R01), [R02](../Sources.md#R02), [C10](../Sources.md#C10), [N11](../Sources.md#N11)
+[R01](../Sources.md#r01), [R02](../Sources.md#r02), [C10](../Sources.md#c10), [N11](../Sources.md#n11)

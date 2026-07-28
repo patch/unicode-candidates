@@ -29,4 +29,4 @@ Australia maintains official phytosanitary requirements for fresh durian exporte
 
 ## Sources
 
-[C24](../Sources.md#C24)
+[C24](../Sources.md#c24)

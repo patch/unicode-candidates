@@ -1,6 +1,6 @@
 ---
 title: Shared research sources
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-28
 tags:
   - sources
   - research-register
@@ -9,9 +9,9 @@ tags:
 
 IDs are local citation keys. Descriptions state what a source is used for; they are not blanket endorsements of every claim on the page.
 
-## Unicode repertoire comparison
+## Unicode repertoire, process, and naming
 
-The sources in this section were accessed on **22 July 2026**.
+Sources U19–U23 were accessed on **22 July 2026**. Sources U24–U27 were accessed on **28 July 2026**.
 
 ### U19
 
@@ -32,6 +32,22 @@ Unicode Consortium, [Chapter 8, ‘Europe-II’](https://www.unicode.org/version
 ### U23
 
 Rebecca Bettencourt and Doug Ewell for the Terminals Working Group, *[Proposal to disunify Symbols for Legacy Computing from emoji](https://www.unicode.org/L2/L2023/23252-legacy-disunification.pdf)*, L2/23-252, 14 October 2023. Primary proposal history for the separately encoded APPLE SYMBOL, CHERRY SYMBOL and STRAWBERRY SYMBOL. It explains that the source-set characters had previously been unified with emoji and were separated because using emoji characters as non-emoji terminal graphics was considered inappropriate. The proposal reports rare contemporary use by specialists and hobbyists; it is not evidence of a general-purpose fruit-symbol convention.
+
+### U24
+
+Unicode Consortium, [*Guidelines for Submitting Unicode Emoji Proposals*](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current guidance states that the Consortium no longer accepts proposals for flags and that flags corresponding to assigned ISO 3166-1 alpha-2 region codes are added automatically without proposals. It also directs widely used symbols that do not require colour towards the character-proposal process. The [Script Encoding Working Group proposal guidelines](https://sew.unicode.org/guidelines) likewise state that the group does not accept flag proposals.
+
+### U25
+
+Jennifer Daniel for the Unicode Emoji Subcommittee, [‘The Past and Future of Flag Emoji’](https://blog.unicode.org/2022/03/the-past-and-future-of-flag-emoji.html), 28 March 2022, updated 12 December 2024. Official explanatory background for the decision to stop processing flag proposals, the automatic treatment of flags based on ISO 3166-1 alpha-2 codes, and the distinction between valid subdivision-flag sequences and emoji recommended for general interchange.
+
+### U26
+
+Unicode Consortium, Unicode 17.0 [Egyptian Hieroglyphs names list](https://www.unicode.org/charts/nameslist/n_13000.html), [Unikemet data](https://www.unicode.org/Public/17.0.0/ucd/Unikemet.txt), and [UAX #57, *Unicode Egyptian Hieroglyph Database (Unikemet)*](https://www.unicode.org/reports/tr57/). The names list identifies 𓂀 (`U+13080 EGYPTIAN HIEROGLYPH D010`) as a logogram for the udjat eye. Unikemet describes an eye with the markings of a falcon’s head. Unlike entries explicitly marked `kEH_NoMirror=Y`, D010 has the property’s default value of `N`; taken together with UAX #57, this means mirroring is not prohibited. The official data checked does not identify the character specifically as the Eye of Horus or Eye of Ra.
+
+### U27
+
+Unicode Consortium, [Section 4.8, ‘Name’, in *The Unicode Standard*, Version 17.0](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-4/#G1353). Formal Unicode character names are immutable identifiers and contain only uppercase Latin letters, digits, spaces, and hyphen-minuses. This formal syntax does not require a research project to typeset provisional working names in uppercase.
 
 ## Comparative fruit classification
 

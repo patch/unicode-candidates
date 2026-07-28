@@ -347,7 +347,7 @@ Unicode Script Encoding Working Group, [Submission Guidelines and Process](https
 
 ### U08
 
-Unicode Consortium, historical [`emoji/selection.html`](http://unicode.org/emoji/selection.html) URL cited in L2/18-027. On 22 July 2026 it contained only a meta-refresh to `proposals.html`; use [U06](Sources.md#U06) for current guidance and [U15](Sources.md#U15) for an archived period copy.
+Unicode Consortium, historical [`emoji/selection.html`](http://unicode.org/emoji/selection.html) URL cited in L2/18-027. On 22 July 2026 it contained only a meta-refresh to `proposals.html`; use [U06](Sources.md#u06) for current guidance and [U15](Sources.md#u15) for an archived period copy.
 
 ### U09
 
@@ -387,4 +387,4 @@ Unicode Consortium, retired *Emoji Proposal Status: Public Requests* spreadsheet
 
 ### U18
 
-Unicode Consortium, archived submission instructions: [20 September 2017 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20170920023858/http://unicode.org/emoji/selection.html), [10 September 2017 *How to Submit Proposal Documents* capture](https://web.archive.org/web/20170910224413/http://www.unicode.org/pending/docsubmit.html), and [26 November 2018 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20181126022252/http://www.unicode.org/emoji/proposals.html). The 2017 and 2018 instructions directed completed proposals through Unicode’s document-submission route; the document page explains that accepted documents receive a registry number but also reserves the right to reject documents for posting. Historical process evidence only: it does not establish that either durian submission was accepted for the public registry. Accessed 22 July 2026. The [28 November 2022 instructions](Sources.md#U13) instead used a Google Form requesting a link to the proposal PDF and did not expose that link through the public status sheet.
+Unicode Consortium, archived submission instructions: [20 September 2017 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20170920023858/http://unicode.org/emoji/selection.html), [10 September 2017 *How to Submit Proposal Documents* capture](https://web.archive.org/web/20170910224413/http://www.unicode.org/pending/docsubmit.html), and [26 November 2018 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20181126022252/http://www.unicode.org/emoji/proposals.html). The 2017 and 2018 instructions directed completed proposals through Unicode’s document-submission route; the document page explains that accepted documents receive a registry number but also reserves the right to reject documents for posting. Historical process evidence only: it does not establish that either durian submission was accepted for the public registry. Accessed 22 July 2026. The [28 November 2022 instructions](Sources.md#u13) instead used a Google Form requesting a link to the proposal PDF and did not expose that link through the public status sheet.

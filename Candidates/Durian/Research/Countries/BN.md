@@ -36,4 +36,4 @@ Brunei is in both the genus and *D. zibethinus* native-range mappings, has offic
 
 ## Sources
 
-[R01](../Sources.md#R01), [R02](../Sources.md#R02), [C07](../Sources.md#C07), [N09](../Sources.md#N09), [T02](../Sources.md#T02), [S12](../Sources.md#S12)
+[R01](../Sources.md#r01), [R02](../Sources.md#r02), [C07](../Sources.md#c07), [N09](../Sources.md#n09), [T02](../Sources.md#t02), [S12](../Sources.md#s12)

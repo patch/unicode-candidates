@@ -36,4 +36,4 @@ Fresh imports pass the diaspora-market screen. Filipino and other Southeast Asia
 
 ## Sources
 
-[T02](../Sources.md#T02), [D10](../Sources.md#D10)
+[T02](../Sources.md#t02), [D10](../Sources.md#d10)

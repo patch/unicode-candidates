@@ -15,29 +15,29 @@ tags:
 
 | Country code | Reach | Evidence and interpretation | Confidence |
 |---|---|---|---|
-| BN | National | Government broadcasting shows active seasonal roadside trade; national reporting describes durian as a favourite across social groups ([N09](Sources.md#N09)). | High |
-| CN | National, fast-growing | Government reporting describes very large domestic demand; 2023 fresh imports reached about 1.426 million tonnes ([N07](Sources.md#N07)). | High |
-| HK | Territory-wide | 2023 fresh imports were US$404.6 million, 90% supplied by Thailand; in a compact territory this is strong at-large market evidence, although re-exports are possible ([T02](Sources.md#T02)). | Medium-high |
-| ID | National with producing-region strength | Official food statistics report household consumption and large domestic production ([N02](Sources.md#N02)). | High |
-| MO | Territory-wide | 2023 fresh imports were US$7.7 million for a small territory; the at-large classification is an inference and needs a household-consumption source ([T02](Sources.md#T02)). | Medium |
-| MY | National | Official apparent consumption was 16.6 kg per person in 2023 ([N01](Sources.md#N01)). | High |
-| SG | National | National food-consumption data include durian, food-safety guidance addresses consumers, and Malaysian cultivars are widely supplied ([N06](Sources.md#N06)). | High |
-| TH | National | A 5,433-person nationwide 2026 survey ranked durian first among seasonal fruits selected by respondents ([N03](Sources.md#N03)). | High |
-| TW | Territory-wide | Agricultural guidance describes recurring demand and imports; UN trade data reported US$23.5 million and 8.465 million kg of fresh imports in 2023 under “Other Asia, nes” ([T04](Sources.md#T04)). | Medium-high |
-| VN | National with producing-region strength | Very large production, domestic marketing, and national statistical coverage show a broad established food market ([C05](Sources.md#C05)). | High |
+| BN | National | Government broadcasting shows active seasonal roadside trade; national reporting describes durian as a favourite across social groups ([N09](Sources.md#n09)). | High |
+| CN | National, fast-growing | Government reporting describes very large domestic demand; 2023 fresh imports reached about 1.426 million tonnes ([N07](Sources.md#n07)). | High |
+| HK | Territory-wide | 2023 fresh imports were US$404.6 million, 90% supplied by Thailand; in a compact territory this is strong at-large market evidence, although re-exports are possible ([T02](Sources.md#t02)). | Medium-high |
+| ID | National with producing-region strength | Official food statistics report household consumption and large domestic production ([N02](Sources.md#n02)). | High |
+| MO | Territory-wide | 2023 fresh imports were US$7.7 million for a small territory; the at-large classification is an inference and needs a household-consumption source ([T02](Sources.md#t02)). | Medium |
+| MY | National | Official apparent consumption was 16.6 kg per person in 2023 ([N01](Sources.md#n01)). | High |
+| SG | National | National food-consumption data include durian, food-safety guidance addresses consumers, and Malaysian cultivars are widely supplied ([N06](Sources.md#n06)). | High |
+| TH | National | A 5,433-person nationwide 2026 survey ranked durian first among seasonal fruits selected by respondents ([N03](Sources.md#n03)). | High |
+| TW | Territory-wide | Agricultural guidance describes recurring demand and imports; UN trade data reported US$23.5 million and 8.465 million kg of fresh imports in 2023 under “Other Asia, nes” ([T04](Sources.md#t04)). | Medium-high |
+| VN | National with producing-region strength | Very large production, domestic marketing, and national statistical coverage show a broad established food market ([C05](Sources.md#c05)). | High |
 
 ### Substantial regional population
 
 | Country code | Region/population | Evidence and interpretation | Confidence |
 |---|---|---|---|
-| KH | Kampot and other producing regions; national seasonal market | Agricultural expansion is explicitly linked to demand, with durian promoted as a seasonal domestic crop ([N12](Sources.md#N12)). | Medium |
-| LA | Southern producing provinces and connected urban markets | Lao reporting describes strong market demand arising from widespread consumption ([N10](Sources.md#N10)). | Medium-high |
-| LK | Humid-zone producing districts and seasonal national market | Department of Agriculture research calls durian a widely grown, popular seasonal fruit ([N13](Sources.md#N13)). | Medium-high |
-| MM | Mon, Kayin, Tanintharyi and urban wholesale markets | Government reporting says the market is mainly domestic and documents surges in Yangon supply ([N11](Sources.md#N11)). | High |
-| PH | Davao Region and Mindanao | Official production and food-availability statistics establish a substantial regional food culture; 2020 national net food disposable was 0.67 kg per person ([N04](Sources.md#N04)). | High |
-| TZ | Zanzibar | Farm and roadside-sale reporting documents local seasonal consumption rather than an expatriate-only niche ([C17](Sources.md#C17)). | Medium |
+| KH | Kampot and other producing regions; national seasonal market | Agricultural expansion is explicitly linked to demand, with durian promoted as a seasonal domestic crop ([N12](Sources.md#n12)). | Medium |
+| LA | Southern producing provinces and connected urban markets | Lao reporting describes strong market demand arising from widespread consumption ([N10](Sources.md#n10)). | Medium-high |
+| LK | Humid-zone producing districts and seasonal national market | Department of Agriculture research calls durian a widely grown, popular seasonal fruit ([N13](Sources.md#n13)). | Medium-high |
+| MM | Mon, Kayin, Tanintharyi and urban wholesale markets | Government reporting says the market is mainly domestic and documents surges in Yangon supply ([N11](Sources.md#n11)). | High |
+| PH | Davao Region and Mindanao | Official production and food-availability statistics establish a substantial regional food culture; 2020 national net food disposable was 0.67 kg per person ([N04](Sources.md#n04)). | High |
+| TZ | Zanzibar | Farm and roadside-sale reporting documents local seasonal consumption rather than an expatriate-only niche ([C17](Sources.md#c17)). | Medium |
 
-Japan and South Korea have meaningful and growing general-market imports, but the current evidence supports **emerging niche** rather than population-at-large consumption. India’s Kerala market is also a producing-region niche. Australia, Canada, Europe, New Zealand, the United Arab Emirates, and the United States are handled in [[Diaspora import markets]] because the best current evidence is diaspora-oriented or mixed.
+Japan and South Korea have meaningful and growing general-market imports, but the current evidence supports **emerging niche** rather than population-at-large consumption. India’s Kerala market is also a producing-region niche. Australia, Canada, Europe, New Zealand, the United Arab Emirates, and the United States are handled in [Diaspora import markets](<Diaspora import markets.md>) because the best current evidence is diaspora-oriented or mixed.
 
 ## What can and cannot be ranked
 
@@ -45,7 +45,7 @@ No common international source was found that gives annual per-person consumptio
 
 ### Malaysia — apparent consumption of selected fruits, 2023
 
-Malaysia’s Department of Statistics Supply and Utilization Accounts measure apparent consumption, not self-reported preference ([N01](Sources.md#N01)).
+Malaysia’s Department of Statistics Supply and Utilization Accounts measure apparent consumption, not self-reported preference ([N01](Sources.md#n01)).
 
 | Rank within published selected fruits | Fruit | kg/person/year |
 |---:|---|---:|
@@ -62,7 +62,7 @@ Result: durian ranks **second of eight published selected fruits**. “Selected�
 
 ### Indonesia — household consumption of listed fruits, 2023
 
-The Ministry of Agriculture’s food-statistics compendium reports a survey-defined list in kg/person/year ([N02](Sources.md#N02)).
+The Ministry of Agriculture’s food-statistics compendium reports a survey-defined list in kg/person/year ([N02](Sources.md#n02)).
 
 | Rank within listed fruits | Fruit | kg/person/year |
 |---:|---|---:|
@@ -82,7 +82,7 @@ Result: durian ranks **seventh of eleven listed fruits**. The lower per-person m
 
 ### Thailand — nationwide reported choice, 2026
 
-Thailand’s Trade Policy and Strategy Office surveyed 5,433 people. Percentages are respondents selecting fruits they regularly or seasonally eat; they are not mass per person ([N03](Sources.md#N03)).
+Thailand’s Trade Policy and Strategy Office surveyed 5,433 people. Percentages are respondents selecting fruits they regularly or seasonally eat; they are not mass per person ([N03](Sources.md#n03)).
 
 **Regular fruits**
 
@@ -112,7 +112,7 @@ Result: durian ranks **first among the five reported seasonal fruits**. It was n
 
 ### Philippines — selected-fruit availability, 2018
 
-This provisional reconstruction uses Philippine Statistics Authority supply-utilization publications from the same statistical framework. The broad food report provides daily net food disposable for selected fruits; the durian series provides 0.66 kg/person/year for 2018 ([N04](Sources.md#N04), [N05](Sources.md#N05)).
+This provisional reconstruction uses Philippine Statistics Authority supply-utilization publications from the same statistical framework. The broad food report provides daily net food disposable for selected fruits; the durian series provides 0.66 kg/person/year for 2018 ([N04](Sources.md#n04), [N05](Sources.md#n05)).
 
 | Rank within combined selected set | Fruit | Approx. kg/person/year |
 |---:|---|---:|
@@ -128,7 +128,7 @@ Result: durian ranks **sixth of seven selected fruits** in this constructed view
 
 ### Singapore — total-diet survey fresh-fruit entries, 2021
 
-The Singapore Total Diet Study reports mean chronic consumption in g/kg bodyweight from a 24-hour-recall survey of 2,014 participants ([N06](Sources.md#N06)). Among the fresh whole-fruit entries mapped for this review, durian is tied with jackfruit:
+The Singapore Total Diet Study reports mean chronic consumption in g/kg bodyweight from a 24-hour-recall survey of 2,014 participants ([N06](Sources.md#n06)). Among the fresh whole-fruit entries mapped for this review, durian is tied with jackfruit:
 
 | Rank | Fruit | g/kg bodyweight |
 |---:|---|---:|
@@ -157,7 +157,7 @@ Result: durian is **tied nineteenth in this mapped fresh-fruit subset**. A one-d
 
 ### China — imported fresh fruit by value, 2023
 
-This is an **import rank**, not a consumption rank. It is included because no comparable all-fruit consumption table containing durian was found and because imports are central to China’s durian supply ([N08](Sources.md#N08)).
+This is an **import rank**, not a consumption rank. It is included because no comparable all-fruit consumption table containing durian was found and because imports are central to China’s durian supply ([N08](Sources.md#n08)).
 
 | Import-value rank | Fruit | 2023 import value | Quantity |
 |---:|---|---:|---:|
