@@ -13,13 +13,11 @@ This note records the current project decisions and intentions needed by collabo
 
 Research whether a durian character has a sound case for encoding, including evidence and reasoning both for and against it, and prepare a proposal if the evidence continues to support that conclusion. My present judgement favours encoding, particularly because of durian’s repeated use on signage in Southeast Asia, but the research remains open to disconfirming evidence and better interpretations.
 
-Character research is not presumed advocacy. A future unencoded subject may be investigated from a neutral starting point and conclude in favour of encoding, against encoding, or that the evidence remains unresolved. Useful findings may still become a website page even when no proposal is pursued.
-
 ## Submission strategy
 
-Prepare the character case through the Unicode Script Encoding Working Group’s character-proposal process. Treat emoji re-review as a separate, later step. The current published record shows that a durian emoji submission dated 24 July 2022 was subsequently declined, while current emoji guidance excludes proposals declined within the previous four years from re-review. Public guidance does not define which event starts that period or how the rule applies to decisions made when the published waiting period was two years. The project must therefore retain the plausible date interpretations rather than infer an exact eligibility date without confirmation from the Emoji Standard & Research Working Group.
+Prepare the character case through the Unicode Script Encoding Working Group’s character-proposal process. Treat emoji re-review as a separate, later step whose eligibility timing remains unresolved under the public record; the evidence and date interpretations are documented at [Unicode history and proposal status](<Research/Unicode history and proposal status.md>).
 
-Once emoji re-review is confirmed eligible, the intended emoji proposal may cross-reference any public L2 document assigned to the character proposal. The two paths should share evidence without implying that either process guarantees the other outcome. See [Unicode history and proposal status](<Research/Unicode history and proposal status.md>).
+Once emoji re-review is confirmed eligible, the intended emoji proposal may cross-reference any public L2 document assigned to the character proposal. The two paths should share evidence without implying that either process guarantees the other outcome.
 
 ## Research status
 
