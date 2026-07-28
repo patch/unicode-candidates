@@ -59,6 +59,7 @@ Use the latest official Unicode Consortium resources for current process, criter
 
 ## Maintaining this guidance
 
-- When the user gives a durable project preference, decision, or workflow direction that would help future work, update this file without a separate request.
+- Update this file without a separate request only when a user direction would help future work and is durable: the user identifies it as durable or standing guidance, confirms it after discussion or iteration, or clearly makes a settled project decision whose future applicability is evident. Do not promote exploratory discussion, hypotheses, provisional preferences, one-task instructions, or ideas still being tested.
+- When durability is materially ambiguous, ask or preserve the uncertainty rather than silently creating policy. This does not displace requirements to record operative decisions in the relevant current project or candidate note.
 - Keep always-loaded guidance concise. Put task procedures, research findings, source records, and proposal content in their relevant resources and route to them from here only when needed.
 - Mention material changes to this file in the final handoff for the task that prompted them.
