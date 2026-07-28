@@ -1,7 +1,7 @@
 ---
 title: Geographic evidence research for symbol proposals
 method_status: reusable working method
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-28
 tags:
   - method
   - unicode-research
@@ -190,12 +190,14 @@ Record rights using categories that preserve the relevant distinction:
 
 - public domain;
 - Creative Commons, with exact licence, attribution, adaptation, and share-alike requirements;
-- separately licensed stock, including asset ID, licence, acquisition date, and redistribution limits;
+- separately licensed stock, including provider and asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, permitted derivatives, and redistribution limits;
 - permission granted, with scope and evidence of permission;
 - non-free reference, with any proposed low-resolution critical use and fair-use or fair-dealing rationale documented for review;
 - rights unknown or not publishable.
 
 The project’s CC BY-SA 4.0 licence for original work does not override third-party rights or automatically make every compatible-looking asset redistributable.
+
+Apply [Evidence storage and publication](<../Project/Evidence storage and publication.md>) to public assets, private originals, and safe public records for privately held material.
 
 ### 11. Store according to information shape
 
@@ -284,5 +286,9 @@ A negative or weaker case is still a valid research result and may support a use
 - Distinguished territories with documented market output from active projects intended to establish commercial production; do not hide that evidential difference inside an umbrella count.
 - Standardized source citations and note navigation as portable relative Markdown links.
 - Revalidated the country-record schema, source-key coverage, Markdown tables, inline-title treatment, and Base folder query before treating the research set as commit-ready. The revised Base was confirmed to return records in Obsidian on 22 July 2026.
+
+### 2026-07-28 — stock-licence review
+
+- Replaced the generic stock-licence field with an acquisition- and use-specific record after reviewing the current Shutterstock agreement, and routed public/private storage decisions to the project evidence-governance note.
 
 Future research should append concise refinements here when a method changes, including why it changed and which earlier results may need review.

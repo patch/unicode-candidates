@@ -1,6 +1,6 @@
 ---
 title: Durian visual use
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-28
 tags:
   - durian
   - visual-evidence
@@ -46,7 +46,7 @@ For each marketing or inline-text example, record:
 - independence from previously documented examples;
 - source provenance and publication rights.
 
-Search trademark offices, packaging-award archives, design-studio case studies, retail photographs, company websites, and Shutterstock. Search for replacements of round letters—especially LATIN CAPITAL LETTER O (`U+004F`) and LATIN SMALL LETTER O (`U+006F`)—as well as spiky substitutions for other letters, punctuation-like terminal marks, and rebus constructions. Treat stock libraries as both a discovery source and, where useful, a separately licensable source; record Shutterstock asset IDs and licence terms before acquisition.
+Search trademark offices, packaging-award archives, design-studio case studies, retail photographs, company websites, and Shutterstock. Search for replacements of round letters—especially LATIN CAPITAL LETTER O (`U+004F`) and LATIN SMALL LETTER O (`U+006F`)—as well as spiky substitutions for other letters, punctuation-like terminal marks, and rebus constructions. Treat stock libraries as both a discovery source and, where useful, a separately licensable source; apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and record the provider, asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, and permitted derivatives before acquisition.
 
 ## Evidence-strength rule
 

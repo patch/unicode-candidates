@@ -1,6 +1,6 @@
 ---
 title: Durian non-marketing signage
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-28
 tags:
   - durian
   - signage
@@ -53,7 +53,7 @@ For every new sign:
 - record photographer/creator, capture date, source URL, access date, and chain of custody;
 - distinguish “visible on a public web page” from “licensed for reuse”;
 - record whether the asset is public domain, Creative Commons licensed, separately licensed stock, permission-cleared, a non-free reference, rights unknown, or not publishable;
-- record Shutterstock asset IDs and the applicable licence when an asset is licensed through a project subscription;
+- for stock material, apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and record the provider and asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, and whether the licence permits the exact derivative;
 - obtain written venue and photographer permission where a later proposal may reproduce it;
 - photograph both a legible close view and a wider contextual view;
 - transcribe exact wording and translate it, retaining uncertainty;
