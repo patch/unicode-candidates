@@ -4,3 +4,4 @@ Candidate-specific folders contain contributed research, evidence, and planning 
 
 - [Candidate inventory](../Candidates.md)
 - [Durian overview](Durian/Overview.md)
+  - [Evidence to encoding-question map](<Durian/Research/Evidence to encoding-question map.md>)

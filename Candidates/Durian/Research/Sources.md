@@ -1,6 +1,6 @@
 ---
 title: Durian sources
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-29
 tags:
   - sources
   - research-register
@@ -343,7 +343,7 @@ Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://
 
 ### U07
 
-Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and criteria: existing usage by a community, repertoire stability, and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit.
+Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and eligibility: a proposed addition must be a character, must not already be encoded and must not duplicate an existing character sequence; possible equivalents must be examined. The three basic criteria are existing usage by a community, repertoire stability and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit. Rechecked 29 July 2026. On that date, the current [Unicode pipeline](https://www.unicode.org/alloc/Pipeline.html), last updated 27 July 2026, and the [Archive of Notices of Non-Approval](https://www.unicode.org/alloc/nonapprovals.html) contained no durian character entry.
 
 ### U08
 
