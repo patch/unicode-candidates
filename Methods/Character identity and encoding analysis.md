@@ -105,6 +105,7 @@ For each occurrence, record:
 - source, date, place or community, language or notation, and access or capture date;
 - exact context, with enough surrounding material to interpret the mark;
 - whether the occurrence is functional, non-marketing, marketing, brand, decorative, illustrative, or integrated with ordinary text;
+- for platform emoji, reaction, and rich-media material, whether the source establishes only platform capability, public asset or search availability, a local inventory, a provider metric, rich-media sharing, or a context-bearing inline or reaction occurrence, and whether the item is an encoded character or sequence, custom image, alias, sticker, or proprietary built-in reaction;
 - the claimed reading or function, and whether it is stated by the source, inferred by the project, or confirmed by a user or specialist;
 - whether an existing character, sequence, word, image, or protocol could replace it without loss in that context;
 - independence from the creator, commissioning organization, font, source set, or previously copied example;
@@ -227,6 +228,8 @@ Evaluate the strongest workable alternative rather than listing weak substitutes
 | Markup or higher-level protocol | Structure, styling, semantics, layout, and rich notation | May not survive plain-text extraction or be available across the demonstrated interchange contexts |
 | Image, icon, or logo asset | Exact appearance, colour, composition, and branding | Is not searchable or editable as the proposed textual unit without separate metadata |
 | Private-use character or icon-font mapping | Efficient exchange inside a coordinated system | Unicode semantics are defined only by private agreement; unrelated recipients cannot infer them |
+| Custom emoji or reaction asset | A compact, named image usable inline or as a reaction inside a platform, server, or workspace | Identity depends on a local asset, shortcode or provider ID, platform support, access rights, and prior agreement; directory availability alone does not show public-interchange need |
+| Sticker, GIF, or emote asset | Animated or exact visual expression distributed through rich-media search, a picker, an API, or a pack | Farther from plain text than custom emoji; identity depends on the media file, tags, placement, and platform, while search visibility does not establish a textual unit |
 | Local transliteration or transcription convention | Reproducible scholarly or community text | May be adequate for the specialist corpus but not preserve the original character identity |
 
 For each alternative, name:
@@ -332,6 +335,10 @@ An emoji character or emoji sequence is plain text, but emoji treatment does not
 
 Popularity, subject importance, repertoire similarity, visual appeal, category completion, or the existence of a pictogram does not independently establish character-encoding need. Current emoji guidance uses its own multi-factor selection framework; do not import one favourable emoji factor as if it satisfied the character criteria.
 
+Unicode emoji characters and standardized emoji sequences are plain text. A platform’s “custom emoji” may instead be a named image asset handled by a higher-level protocol; its entry, inline display, and reaction behaviour may align with emoji without making the asset plain text. Stickers, GIFs, and emotes are normally still farther removed: rich-media objects selected through search, a picker, an API, or a pack. Using any of these in a reaction position does not change its encoding status.
+
+Keep platform capability, directory or sticker-search availability, installation, provider-defined metrics, inline use, rich-media sharing, and actual reaction occurrences distinct; see [Custom emoji, reaction, and sticker sources](<../Research/Custom emoji, reaction, and sticker sources.md>).
+
 ### 12. Seek disconfirming evidence
 
 For each model, record observations that would materially weaken or overturn it.
@@ -427,4 +434,6 @@ These examples illustrate distinctions in the method; they are not a Durian iden
 
 Append a dated refinement only after applying this method reveals a reusable change. State the trigger, the change, why it improves the analysis, and which earlier outputs may need review. Do not record routine editing, candidate conclusions, or a refinement that has not actually occurred.
 
-No refinements have yet been recorded.
+### 29 July 2026: custom emoji, reaction, and sticker evidence
+
+Registering public custom-emoji directories and sticker search revealed a reusable ambiguity between platform capability, asset or search availability, and actual inline, sharing, or reaction use. The method now distinguishes those evidence levels and places Unicode emoji plain text, platform custom emoji, and richer sticker, GIF, or emote assets in separate representation layers. This prevents a directory or search result from being mistaken for encoding evidence while retaining its value for discovering variants, local conventions, representative forms, and context-bearing occurrences.

@@ -52,6 +52,38 @@ When a strong evidence source may cease to be available for new licensing:
 
 Licensing an item early can preserve an otherwise temporary acquisition opportunity, but it does not establish permission for an unidentified future use or move the supplied asset into the public project archive.
 
+## Source entries: custom-emoji directories and sticker search services
+
+### Availability
+
+As of 29 July 2026, the following public sources are realistic discovery routes for emoji-like representations used in closed platform ecosystems:
+
+- [Slackmojis](https://slackmojis.com/) describes itself as an unofficial directory of custom Slack emoji. It supplies public item pages, shortcodes, related results, and popular and recent listings.
+- [EmojiBox](https://www.emojibox.app/) provides a public market of custom Slack emoji contributed by teams that chose to share theirs and from public packs. Its optional Slack app and browser extension can also index a connected workspace, but no connection is required or authorized merely because the public source is registered here.
+- [Emoji.gg](https://emoji.gg/) is a comparable user-contributed directory for Discord, Slack, and other platforms. It supplies item pages, uploader names, download-based ordering, packs, and item-level licence labels.
+- [GIPHY Stickers](https://giphy.com/stickers) is a search and distribution service for transparent animated image assets used in messaging, storytelling, and photo editing. It is a useful source of representative forms, credited creators or channels, tags, and service-local view metrics, but stickers are rich media rather than plain text or platform custom emoji.
+
+The services’ advertised or displayed corpus totals are dynamic and not necessarily defined alike. EmojiBox’s landing page and public market displayed different totals when checked, and the meaning of visible popularity numbers was not established. Record the exact interface, total, sort order, metric label, and capture date before using any quantitative value.
+
+These services can reveal that an image asset has been made available, help find visual variants and aliases, and lead to stronger contextual evidence. A directory or sticker-search result does not by itself prove that the asset was installed, shared, used inline, used as a reaction, independently created, correctly labelled, or needed for public interchange in plain text. Apply [Custom emoji, reaction, and sticker sources](<../Research/Custom emoji, reaction, and sticker sources.md>) before interpreting a result.
+
+Official platform documentation is a separate source type. Documentation for [Slack](https://slack.com/help/articles/202931348-Use-emoji-and-reactions), [Discord](https://support.discord.com/hc/en-us/articles/12102061808663-Reactions-and-Super-Reactions-FAQ), [Mattermost](https://docs.mattermost.com/end-user-guide/collaborate/react-with-emojis-gifs.html), [Zulip](https://zulip.com/help/emoji-reactions), and [Telegram](https://core.telegram.org/api/reactions) confirms varying support for emoji reactions, including custom emoji in some systems. It establishes platform capability, not use of a particular candidate.
+
+### Licensing, access, and privacy issues to check
+
+Treat directory images as cite-only leads unless an item-level rights review supports another use:
+
+- Slackmojis’ [terms](https://slackmojis.com/terms) were last updated on 1 June 2023 and checked on 29 July 2026. A download button does not establish a project-compatible redistribution licence; preserve the item URL and seek a creator, source, or permission basis before reproducing an image.
+- EmojiBox’s [terms](https://www.emojibox.app/terms), last updated 9 May 2026 and checked on 29 July 2026, say that contributors retain their rights and grant EmojiBox the licence needed to operate its private and public services. Do not treat that provider-facing licence as a downstream licence to the project. The terms also restrict disruptive scraping and re-hosting of the catalogue.
+- Emoji.gg’s [licence guide](https://emoji.gg/licenses) and [terms](https://emoji.gg/terms), checked on 29 July 2026, describe uploader-selected licences. Record the exact item licence, creator, stable item ID, attribution, and restrictions; a general “Basic” or “Streamer” licence is not equivalent to an open redistribution licence, while an item expressly marked CC BY 4.0 or another permissive licence still requires its own compliance review.
+- GIPHY’s [User Terms of Service](https://support.giphy.com/hc/en-us/articles/360020027752-GIPHY-User-Terms-of-Service), effective 8 April 2024 and checked on 29 July 2026, say that contributors retain their content while granting GIPHY broad service-related rights. That grant does not provide a downstream project licence. The terms generally restrict copying, publication, distribution, display, commercial exploitation, and automated scraping unless the content is public domain, separately permitted, or otherwise lawfully usable; retain public links and metadata by default rather than copying a sticker.
+
+Do not install an app or extension, authorize OAuth access, join a private community, query a private workspace, or export workspace content without the project owner’s explicit authorization and a proportionate security, privacy, platform-terms, and contributor-rights review. A consented workspace inventory or usage count may be researchable, but it can expose messages, names, channel data, or internal conventions and therefore belongs under the evidence-storage policy.
+
+### Actual use
+
+No image from these services is recorded as acquired, incorporated, or published by the project. Public item pages or search surfaces for Durian, Urinal, Inverted Cross, Eye of Providence, Ouroboros Symbol, Three Arrows Symbol, Mangosteen Symbol, Eye of Ra, and Squatter Symbol are cited in the shared research note. This records availability, search visibility, or a provider metric only; it does not clear the images for reproduction or establish actual messaging use.
+
 ## Source entry: Shutterstock
 
 ### Availability
