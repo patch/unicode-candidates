@@ -5,7 +5,7 @@ description: Scope an approval-gated, bounded Unicode candidate-research task, s
 
 # Next Research
 
-Run an approval-gated, bounded research cycle that chooses one task and the most appropriate execution lane. Apply `AGENTS.md`, including its selective context routing, throughout. The result may support, weaken, or leave unresolved a candidate case. Keep the central model responsible for project continuity, standards reasoning, interpretation, verification, and canonical integration.
+Run an approval-gated, bounded research cycle that chooses one task and the most appropriate execution lane. Apply `AGENTS.md`, including its selective context routing, throughout. The result may support, weaken, or leave unresolved a candidate case. Keep the central model responsible for project continuity, standards reasoning, interpretation, independent source verification, and canonical integration. Preserve the human expert-review and project-owner approval gates assigned by [External model research intake](<../../../Methods/External model research intake.md>).
 
 ## Choose the mode
 
@@ -42,7 +42,7 @@ Assess:
 - whether reproducible transformations or calculations matter more than open-ended interpretation;
 - privacy, rights, account, cost, contact, and tool-access constraints;
 - what context the lane needs and what can safely be supplied; and
-- which decisions must remain with the project owner and central model.
+- which decisions must remain with the project owner and which analytical or integration duties remain with the central model.
 
 | Lane | Choose when | Do not use it as |
 | --- | --- | --- |
@@ -57,7 +57,7 @@ Assess:
 
 Apply these constraints:
 
-1. Keep ordinary project reasoning, direct source checking, Unicode standards interpretation, and canonical writing in the central lane.
+1. Keep ordinary project reasoning, direct source checking, ordinary Unicode standards interpretation, and canonical writing in the central lane.
 2. Choose the fewest lanes that can answer the approved question. Do not send a task to another model merely to repeat work or add apparent consensus.
 3. Treat a mixed workflow as an ordered dependency: name the output passed between stages and keep the central model at the beginning and end.
 4. Minimize supplied context. Prefer an exact file list or bounded extract to a repository dump, and classify private or restricted material before any external upload.
@@ -144,7 +144,7 @@ Initial approval covers the planned stages; seek fresh approval before a materia
 
 Before reporting back:
 
-1. Verify returned evidence proportionately. For external-model work, apply every applicable intake gate and integrate only checked underlying sources, never the report as factual authority. For scripts, inspect inputs, rules, outputs, and material calculations. For human, specialist, private, or visual evidence, preserve provenance, qualifications, rights, and the boundary between evidence and judgement.
+1. Verify returned evidence proportionately. For external-model work, apply every applicable intake gate: the central lane may perform the gates the intake method assigns to it, but it cannot replace required human expert review or project-owner approval. Integrate only checked underlying sources, never the report as factual authority. For scripts, inspect inputs, rules, outputs, and material calculations. For human, specialist, private, or visual evidence, preserve provenance, qualifications, rights, and the boundary between evidence and judgement.
 2. Integrate candidate-specific findings into the corresponding candidate project notes and source records, updating affected summaries, data, and review dates where necessary.
 3. Put cross-candidate findings in shared research and reusable methodological lessons in methods. Store a substantive finding about another candidate with that candidate, or add a scoped lead if its project has not begun.
 4. Re-rank the canonical project-wide future-research list when one exists. Otherwise update relevant local leads without creating a competing project-wide ranking.
