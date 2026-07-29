@@ -73,7 +73,7 @@ The project will accumulate a larger archive of images than will appear in the f
 
 Research from this and other character-proposal projects may become source material for corresponding pages on my personal website, whether or not a proposal is approved.
 
-Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party reference material remains excluded from that blanket licence and must retain its own rights record. Creative Commons works, separately licensed Shutterstock material, permission-cleared material, and narrowly used non-free references require different handling under [Evidence storage and publication](<../../Project/Evidence storage and publication.md>); the evidence archive must not imply that everything stored locally can be redistributed.
+Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party reference material remains excluded from that blanket licence and must retain its own rights record. Creative Commons works, separately licensed stock, permission-cleared material, and narrowly used non-free references require different handling under [Evidence storage and publication](<../../Project/Evidence storage and publication.md>); [Content sources and licensing](<../../Project/Content sources and licensing.md>) records acquisition preferences and provider-specific checks. The evidence archive must not imply that everything stored locally can be redistributed.
 
 ## Version control
 

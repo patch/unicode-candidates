@@ -1,6 +1,6 @@
 ---
 title: Evidence storage and publication
-last_reviewed: 2026-07-28
+last_reviewed: 2026-07-29
 tags:
   - project
   - governance
@@ -31,7 +31,7 @@ Anything committed here should be treated as publicly and durably disclosed thro
 The private archive holds material that may be inspected for research but is not approved for public redistribution or disclosure, including:
 
 - non-free originals and rights-unknown copies retained where lawful;
-- restricted Shutterstock and other stock assets;
+- restricted stock and other account-licensed assets;
 - private correspondence, permission evidence, purchase or subscription records, and account-linked licence documents;
 - unpublished field material;
 - precise locations, contact details, personally identifying information, and other sensitive data; and
@@ -51,7 +51,7 @@ Record, at a proportionate level:
 - creator or source, provenance and chain of custody, source reference, and relevant event, capture, acquisition, and access dates;
 - country, locality, venue, and context at the most precise level safe to disclose;
 - separate rights, privacy, and publication statuses, including the basis for any restriction;
-- the exact licence or permission summary, required attribution, stock provider and asset ID, or non-free-reference status as applicable;
+- the exact licence or permission summary, required attribution, provider and stable asset ID, or non-free-reference status as applicable;
 - identifiers for any public derivatives and their relationship to the private original; and
 - file format, byte size, and a named checksum such as SHA-256 where they materially improve integrity checking and are safe to disclose.
 
@@ -69,24 +69,9 @@ For Creative Commons and other licensed material, record the rights holder or cr
 
 For permission-cleared material, identify the covered evidence IDs and retain the primary permission record privately. The public summary should state the grantor, permitted uses and publication channels, adaptation and attribution conditions, duration or withdrawal terms if stated, and any unresolved limit without exposing private correspondence.
 
-For stock material, record the provider and stable asset ID publicly when safe. Keep account, order, download, subscription, and full licence evidence privately where it contains confidential or personal information. Access under a Shutterstock or other stock licence is not permission to place the supplied original in a public Git or LFS store. Assess the exact licensed use, any editorial limitation, the proposal or website destination, and redistribution restrictions before publishing a permitted derivative or incorporation.
+For stock and other account-licensed material, record the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, and intended publication destination. Keep account-linked, payment, order, purchase, subscription, and full licence evidence private. Access, purchase, subscription, or download does not establish permission to redistribute the supplied asset or place a restricted original in public Git or Git LFS. Assess each derivative, incorporation, and publication destination separately against the governing terms.
 
-### Shutterstock-specific controls
-
-The current [Shutterstock Terms of Service and licence agreements](https://www.shutterstock.com/license), effective 19 January 2026 and accessed 28 July 2026, state that amendments apply to prospective purchases. Shutterstock’s [licence history](https://www.shutterstock.com/license-history), accessed 28 July 2026, says that the terms in force at purchase govern an existing purchase and, for an automatically renewed subscription or pack, the terms in force on the most recent payment date govern downloaded content. “Shutterstock-licensed” is therefore not a sufficient rights record, and the current terms are an operational reference rather than a substitute for the agreement governing a particular acquisition.
-
-For each Shutterstock asset:
-
-- preserve the asset ID, contributor or agency, content class, exact licence and product or plan, licensee, account or seat entitlement, purchase and latest payment or renewal dates, licensing and download dates, order or invoice, and the terms in force for the download;
-- distinguish a date observed in an invoice or account record from one inferred from a plan expiry. For an inferred date, record the calculation, confidence, and whether the displayed time zone is known, then replace or confirm it when primary billing evidence becomes available;
-- preserve the item page and attached metadata, including an editorial designation, special restrictions, stated model or property releases, required credit, use limits, and any need for additional clearance arising from modification or context;
-- map every intended proposal, website, social-media, or other publication to a permitted use. Treat an authorized incorporation into a final work separately from prohibited resale, redistribution, access, sharing, or transfer of the supplied content;
-- restrict access to the licensed file and its use to people covered by the account entitlement. Do not infer that a plan is Unlimited merely because it is a subscription: apply Unlimited-plan restrictions only when the governing product and terms identify it as Unlimited. Separately record the licensed context for Editorial content and any actual Unlimited-plan content, because the current terms make each subject to single-use rules and prohibit a new Unlimited-plan use after expiry without a further qualifying download;
-- apply the required adjacent contributor and Shutterstock credit to publishing, commentary, and other editorial contexts. Editorial content always requires credit under the current terms and may carry additional context, cover, medium, print-run, or geographic restrictions;
-- do not infer that a video licence permits a still image. The current terms restrict stills derived from Video to specified in-context promotion of a derivative work, while watermarked low-resolution Comp Video is for evaluation and cannot enter public or final material; and
-- do not use licensed content or a derivative as artificial-intelligence or machine-learning training data. Use an AI-enabled editing tool only where it does not train on the content or derivative and the other licence conditions remain satisfied.
-
-If the licensee receives the notice described in the current terms, or learns that content is subject to a threatened or actual claim covered by that provision, the removal obligation takes precedence over archival retention: remove the content from systems and storage devices and cease future use where possible. Preserve a private incident record containing the asset ID, prior checksum, governing terms, notice or discovery, deletion date, affected uses, and replacement decision, but not the removed content.
+For source availability, acquisition planning, or provider-specific issues, additionally apply [Content sources and licensing](<Content sources and licensing.md>) and the relevant item-level evidence record.
 
 A proposed low-resolution use of non-free material for identification, criticism, or commentary remains an item- and destination-specific fair-use or fair-dealing review question. Low resolution, cropping, attribution, or critical purpose is not automatic permission. Keep the original private; document the necessity, extent, context, rights uncertainty, and review outcome before any public reproduction.
 

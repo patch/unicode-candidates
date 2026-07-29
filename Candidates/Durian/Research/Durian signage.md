@@ -53,7 +53,7 @@ For every new sign:
 - record photographer/creator, capture date, source URL, access date, and chain of custody;
 - distinguish “visible on a public web page” from “licensed for reuse”;
 - record whether the asset is public domain, Creative Commons licensed, separately licensed stock, permission-cleared, a non-free reference, rights unknown, or not publishable;
-- for stock material, apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and record the provider and asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, and whether the licence permits the exact derivative;
+- for stock material, apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and the relevant provider section in [Content sources and licensing](<../../../Project/Content sources and licensing.md>);
 - obtain written venue and photographer permission where a later proposal may reproduce it;
 - photograph both a legible close view and a wider contextual view;
 - transcribe exact wording and translate it, retaining uncertainty;
@@ -61,4 +61,4 @@ For every new sign:
 
 ## Why the corpus is not yet publication-ready
 
-The two Wikimedia examples have immediately intelligible reuse routes, and both have limitations: the Thai hotel image is old, while the Singapore image requires attribution and share-alike compliance. Other examples remain useful occurrence evidence even where rights are unclear or restrictive. A low-resolution non-free reproduction for critical commentary may be considered under a documented fair-use or fair-dealing rationale, but that is a rights-review decision rather than automatic clearance. The best next investment is a small commissioned, Shutterstock-licensed, Creative Commons, or permission-cleared field corpus across several venue types and territories.
+The two Wikimedia examples have immediately intelligible reuse routes, and both have limitations: the Thai hotel image is old, while the Singapore image requires attribution and share-alike compliance. Other examples remain useful occurrence evidence even where rights are unclear or restrictive. A low-resolution non-free reproduction for critical commentary may be considered under a documented fair-use or fair-dealing rationale, but that is a rights-review decision rather than automatic clearance. The best next investment is a small field corpus assembled from commissioned, separately licensed stock, Creative Commons, or permission-cleared photographs across several venue types and territories.

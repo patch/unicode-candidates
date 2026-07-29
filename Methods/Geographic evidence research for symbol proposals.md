@@ -192,14 +192,14 @@ Record rights using categories that preserve the relevant distinction:
 
 - public domain;
 - Creative Commons, with exact licence, attribution, adaptation, and share-alike requirements;
-- separately licensed stock, including provider and asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, permitted derivatives, and redistribution limits;
+- separately licensed stock, with the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, intended destination, and separate derivative and publication review;
 - permission granted, with scope and evidence of permission;
 - non-free reference, with any proposed low-resolution critical use and fair-use or fair-dealing rationale documented for review;
 - rights unknown or not publishable.
 
 The project’s CC BY-SA 4.0 licence for original work does not override third-party rights or automatically make every compatible-looking asset redistributable.
 
-Apply [Evidence storage and publication](<../Project/Evidence storage and publication.md>) to public assets, private originals, and safe public records for privately held material.
+Apply [Evidence storage and publication](<../Project/Evidence storage and publication.md>) to public assets, private originals, and safe public records for privately held material. Apply [Content sources and licensing](<../Project/Content sources and licensing.md>) when comparing acquisition routes or checking a provider.
 
 ### 11. Store according to information shape
 
@@ -291,10 +291,14 @@ A negative or weaker case is still a valid research result and may support a use
 
 ### 2026-07-28 — stock-licence review
 
-- Replaced the generic stock-licence field with an acquisition- and use-specific record after reviewing the current Shutterstock agreement, and routed public/private storage decisions to the project evidence-governance note.
+- Replaced the generic stock-licence field with an acquisition- and use-specific record, and routed public/private storage decisions to the project evidence-governance note.
 
 ### 2026-07-29 — citation-key granularity review
 
 - Routed source groups through a conservative project-wide policy: retain practical background bundles, separate independently citable documents when they support materially distinct proposal-facing claims, and require exact document-and-location records for formal use.
+
+### 2026-07-29 — content-source governance
+
+- Retained provider-neutral stock fields in this method and routed potential-source availability and provider-specific checks to [Content sources and licensing](<../Project/Content sources and licensing.md>); actual use remains item-specific.
 
 Future research should append concise refinements here when a method changes, including why it changed and which earlier results may need review.

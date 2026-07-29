@@ -18,6 +18,7 @@ Treat this file as the always-on project charter. Before substantive work, read 
 | Changed or unavailable web evidence | [Recovering changed and unavailable web sources](<Methods/Recovering changed and unavailable web sources.md>) |
 | Research received from Gemini, NotebookLM, ChatGPT, or another external model | [External model research intake](<Methods/External model research intake.md>), then the method for the subject matter |
 | Rights, privacy, evidence storage, publication, or redistribution | [LICENCE.md](LICENCE.md), [Evidence storage and publication](<Project/Evidence storage and publication.md>), the relevant evidence record, and any candidate-specific contributor-rights note |
+| Potential content sources, provider-specific licensing, or acquisition planning | Load the general rights row, then [Content sources and licensing](<Project/Content sources and licensing.md>) and only the relevant provider or asset record |
 
 Use the latest official Unicode Consortium resources for current process, criteria, templates, status, and submission requirements. Read older guidance and past proposals only as historical evidence unless current official guidance confirms their continued applicability.
 
@@ -50,7 +51,7 @@ Use the latest official Unicode Consortium resources for current process, criter
 - Preserve original evidence unchanged. Store crops, annotations, resized images, and other derivatives separately and link them to the original.
 - Record available provenance for each evidence item: source or creator, URL or origin, access or capture date, location and context, and rights or permission status. Separate evidential value from permission to publish.
 - Distinguish functional or non-marketing use, marketing or brand use, and inline integration with ordinary text. Functional use is normally stronger evidence of an independent communicative convention, but repeated independent marketing use can remain relevant.
-- Do not assume locally stored material can be published. Record exact licences, attribution and share-alike duties, compatibility, permissions, and redistribution limits. For Shutterstock material, record the asset ID and applicable licence. Treat limited non-free reproduction as a documented rights-review question, not automatic permission or legal advice.
+- Do not assume locally stored material can be published. Record exact licences, attribution and share-alike duties, compatibility, permissions, and redistribution limits. For stock material, record the provider, stable asset ID, and governing licence or agreement. Treat limited non-free reproduction as a documented rights-review question, not automatic permission or legal advice.
 - Record durable findings from official Unicode resources in the relevant project note with a citation and access date. Check current official guidance before presenting a process claim as settled.
 
 ## Version control

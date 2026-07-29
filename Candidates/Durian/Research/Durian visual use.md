@@ -1,6 +1,6 @@
 ---
 title: Durian visual use
-last_reviewed: 2026-07-28
+last_reviewed: 2026-07-29
 tags:
   - durian
   - visual-evidence
@@ -46,7 +46,7 @@ For each marketing or inline-text example, record:
 - independence from previously documented examples;
 - source provenance and publication rights.
 
-Search trademark offices, packaging-award archives, design-studio case studies, retail photographs, company websites, and Shutterstock. Search for replacements of round letters—especially LATIN CAPITAL LETTER O (`U+004F`) and LATIN SMALL LETTER O (`U+006F`)—as well as spiky substitutions for other letters, punctuation-like terminal marks, and rebus constructions. Treat stock libraries as both a discovery source and, where useful, a separately licensable source; apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and record the provider, asset ID, content and licence type, product or plan, licensee entitlement, purchase and latest payment or renewal dates, licensing and download dates, intended use, required credit, special restrictions, and permitted derivatives before acquisition.
+Search trademark offices, packaging-award archives, design-studio case studies, retail photographs, company websites, and relevant stock libraries. Search for replacements of round letters—especially LATIN CAPITAL LETTER O (`U+004F`) and LATIN SMALL LETTER O (`U+006F`)—as well as spiky substitutions for other letters, punctuation-like terminal marks, and rebus constructions. Treat stock libraries as both a discovery source and, where useful, a separately licensable source; apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and [Content sources and licensing](<../../../Project/Content sources and licensing.md>) before acquisition.
 
 ## Evidence-strength rule
 
@@ -54,4 +54,4 @@ One commissioned logo proves only that a designer found a durian form legible in
 
 ## Rights
 
-The research record may cite or retain a low-resolution reference to non-free branding for identification and critical commentary, subject to a documented fair-use or fair-dealing assessment. That is not a declaration that reproduction is automatically lawful. Creative Commons, commissioned, permission-cleared, Shutterstock-licensed, and non-free references must remain separately labelled; none becomes part of the project’s CC BY-SA 4.0 licence unless its terms permit that treatment.
+The research record may cite or retain a low-resolution reference to non-free branding for identification and critical commentary, subject to a documented fair-use or fair-dealing assessment. That is not a declaration that reproduction is automatically lawful. Creative Commons, commissioned, permission-cleared, separately licensed stock, and non-free references must remain separately labelled; none becomes part of the project’s CC BY-SA 4.0 licence unless its terms permit that treatment.
