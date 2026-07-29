@@ -343,7 +343,7 @@ Unicode Consortium, [Emoji Proposals Status](https://unicode.org/emoji/emoji-pro
 
 ### U06
 
-Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current source for the 2026 submission window, the four-year restriction on re-review of declined emoji, proposal format, selection factors, and direction to use the character process for a widely used symbol that does not require colour.
+Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current source for the 2026 submission window, the four-year restriction on re-review of declined emoji, proposal format, selection factors, prescribed Frequency evidence, image-rights requirements, automatic-decline categories, and direction to use the character process for a widely used symbol that does not require colour. Rechecked 29 July 2026.
 
 ### U07
 

@@ -21,7 +21,7 @@ Keep three levels distinct in every output:
 
 | Level | What belongs here |
 |---|---|
-| **Current official guidance** | Definitions, eligibility rules, submission criteria, required proposal material, process, and property terminology stated in current Unicode Consortium or Script Encoding Working Group material |
+| **Current official guidance** | Definitions, eligibility rules, submission criteria, required proposal material, process, and property terminology stated in current Unicode Consortium material, including Script Encoding Working Group and Emoji Standard & Research Working Group guidance |
 | **Project analysis** | Reusable questions, comparison models, evidence classifications, falsification tests, and review procedures developed by this project |
 | **Candidate judgement** | The proposed identity, semantic boundary, evidence weighting, unification decision, repertoire contents, likely properties, route, and final recommendation for one candidate |
 
@@ -32,9 +32,36 @@ The official baseline, checked on 29 July 2026, is as follows:
 - The current guidance requires comparison with possible existing equivalents and visually similar characters. A proposal is also expected to address character properties and ordering; at least the applicable `UnicodeData.txt` values are required through the submission process. ([Unicode properties in character proposals](https://www.unicode.org/pending/properties.html))
 - The current process accepts a single proposal PDF through the Script Encoding Working Group submission form. The form collects proposed property data, ISO/IEC 10646 summary information, and, where applicable, a font; the working group will not recommend a proposal without a suitably licensed font. The form contains more detailed requirements and must be rechecked before submission.
 - Unicode character names identify characters but do not necessarily express their full meaning. Once a character is encoded, its Unicode Name property value will not change, so naming errors cannot normally be repaired by renaming the character. ([Unicode Character Encoding Stability Policies](https://www.unicode.org/policies/stability_policy.html))
-- The Script Encoding Working Group does not accept emoji or flag proposals. The current [emoji-proposal guidance](https://www.unicode.org/emoji/proposals.html), last updated 20 May 2026, defines a separate process and selection factors; it directs a widely used symbol that does not require colour towards the character-proposal process.
+- The Script Encoding Working Group does not accept emoji or flag proposals. The current [emoji-proposal guidance](https://www.unicode.org/emoji/proposals.html), last updated 20 May 2026, defines a separate process and multi-factor selection framework; it directs a widely used symbol that does not require colour towards the character-proposal process. Its inclusion factors include Usage level, supported by prescribed Frequency evidence, while its exclusion factors include Transient and Already representable. It also automatically declines several proposed identities, including signage, while noting that symbols used on signage may be encoded for reasons unconnected with emoji use.
 
 The sections below are the project’s analytical extension of that official baseline. They do not create new Unicode requirements. Every conclusion produced by applying them remains candidate-specific editorial judgement unless an official source is cited for it.
+
+### Route and analytical labels for evidence maps
+
+Use one shared label system when mapping evidence to official processes, project questions and candidate-specific adverse interpretations. In this system, **Character** and **Emoji** identify proposal routes, not disjoint kinds of encoded entity. Character refers to the general character-proposal route handled through the Script Encoding Working Group. Emoji refers to the specialized emoji-proposal route reviewed by the Emoji Standard & Research Working Group. Emoji characters and emoji sequences remain plain text.
+
+The labels are project navigation aids. They do not create Unicode terminology or convert project questions into official requirements. Keep the labels short and put the specific official factor, category or requirement in the application text:
+
+| Label | Definition |
+|---|---|
+| **Character eligibility** | Official character-status, already-encoded, sequence-duplication and possible-equivalent checks that precede the three basic criteria |
+| **Character usage** | The official basic Usage criterion requiring existing use by a community, independently of a creator where applicable |
+| **Character stability** | The official basic Stability criterion requiring a stable character or repertoire that is not in active development |
+| **Character need for interchange** | The official basic Need for interchange criterion requiring public interchange of information in plain text |
+| **Character proposal requirement** | Officially requested proposal material or technical data that is not one of the three basic criteria |
+| **Emoji eligibility** | Current submission-window, re-review waiting-period, public-availability, completeness and other threshold rules not captured by a more specific label |
+| **Emoji inclusion factor** | A current official factor weighing in favour of emoji selection; identify the applicable factor in the following prose, such as Usage level or Distinctiveness |
+| **Emoji exclusion factor** | A current official factor weighing against emoji selection; identify the applicable factor in the following prose, such as Already representable or Transient |
+| **Emoji automatic-decline category** | A current proposal subject or condition listed under “Automatically Declined”; identify the applicable heading or clear listed subcategory in the following prose, such as Signage |
+| **Emoji proposal requirement** | Officially requested emoji-proposal material that is not itself a selection factor; identify the requirement in the following prose, such as Image Rights & Licenses |
+| **Project analytical question** | A reusable question or distinction developed by this project rather than an official Unicode requirement |
+| **Candidate counterargument** | The strongest credible candidate-specific adverse or non-encoding interpretation to which the evidence is relevant |
+
+Use bold noun phrases to bound labels. Square brackets are reserved for Markdown links and citations. Do not use an em dash, parenthetical qualifier or internal colon to extend a label. The colon after the bold label separates it from its application. Name any specific factor, category or requirement in the following prose, retaining the source’s spelling and capitalization for an exact official name. For example:
+
+> **Relevance:** **Character usage:** direct support; **Emoji inclusion factor:** Usage level, but only as indirect background; **Project analytical question:** geographic breadth; **Candidate counterargument:** subject importance is not symbol use.
+
+Where an evidence class bears differently on the routes, state the direction separately as **Character:** and **Emoji:**. Omit a route that is not materially implicated rather than importing one route’s favourable or adverse effect into the other. An emoji usage-level assessment concerns frequency of the concept or term under the current prescribed method; it is not equivalent to evidence that a character is already used by a community. Conversely, existing functional symbol use does not by itself satisfy the Emoji Usage level factor.
 
 ## Decision frame
 
