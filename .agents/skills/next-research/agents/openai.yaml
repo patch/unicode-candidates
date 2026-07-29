@@ -1,4 +1,4 @@
 interface:
   display_name: "Next Research"
-  short_description: "Plan bounded Unicode character research"
-  default_prompt: "Use $next-research to select or scope the next bounded Unicode character-research task before execution."
+  short_description: "Plan Unicode research and its execution lane"
+  default_prompt: "Use $next-research to select or scope the next bounded Unicode character-research task and its most appropriate execution lane."
