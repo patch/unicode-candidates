@@ -37,7 +37,7 @@ Working candidate names use title case. All-uppercase names are reserved for for
 
 ## Encoded precedents
 
-| Character | Code point | Unicode name | Phase | Outcome and continuing relevance |
+| Character | Code point | Character name | Phase | Outcome and continuing relevance |
 | --- | --- | --- | --- | --- |
 | 🥥 | `U+1F965` | COCONUT | `concluded` | An emoji-first precedent proposed by Heikki Luukkonen in [L2/16-273](https://www.unicode.org/L2/L2016/16273-coconut-emoji.pdf) and released in Unicode 10.0 in 2017. Retained for later fruit-candidate comparisons. |
 

@@ -119,7 +119,7 @@ These pages establish affordances. Candidate research still needs a public or co
 
 Future platform expansion should distinguish:
 
-1. a fixed built-in reaction repertoire, including whether each reaction maps to a Unicode character or sequence or uses a proprietary platform-native identity;
+1. a fixed built-in reaction set, including whether each reaction maps to a Unicode character or sequence or uses a proprietary platform-native identity;
 2. custom user or organization emoji that can be used as reactions;
 3. Unicode emoji available through an ordinary picker;
 4. stickers, emotes, GIFs, badges, and other rich-media systems that the platform does not treat as emoji reactions; and

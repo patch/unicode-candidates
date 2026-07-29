@@ -34,7 +34,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 | Marketing and brand use | Mixed | Mainly adverse if identity depends on a logo or brand; not usage-level evidence | Limited supplementary evidence | Small corpus, deployment and public-comprehension evidence |
 | Inline letter or punctuation substitution | Supports non-encoding for the documented occurrences | Mainly adverse if identity depends on branded artwork or included text | Clear for the underlying `O`, full-stop and letter–image analyses; weak for a wider convention | Independent uses in which the durian unit, rather than the replaced character, must be preserved |
 | Production, trade, consumption and cultural importance | Contextual only | Potentially supportive background for Usage level, Frequency research and Transient analysis; not direct factor evidence | Often strong for the contextual fact; low Character relevance and indirect Emoji relevance | No prescribed frequency evidence or evidential bridge to character use |
-| Contemporary fruit and emoji repertoire | Mixed | Mixed: material to Already representable, Breaks new ground, Completeness and Faulty comparison | Strong and versioned for the bounded repertoire | Candidate-specific equivalence, sequence and factor analysis |
+| Contemporary fruit characters and emoji sequences | Mixed | Mixed: material to Already representable, Breaks new ground, Completeness and Faulty comparison | Strong and versioned for the bounded character-and-sequence corpus | Candidate-specific equivalence, sequence and factor analysis |
 | Legacy terminal fruit symbols | Contextual only | Contextual only; weak and potentially faulty comparison | Strong source-set finding; weak analogy | No comparable durian source-encoding or emoji-selection requirement |
 | Historical Aegean fruit or commodity signs | Contextual only | Contextual only; different notation and selection problem | Strong historical identification; very weak analogy | Different script, notation and interchange needs |
 | Previous emoji submissions and committee history | Contextual only | Procedurally material to eligibility; merits remain unknown | Strong for the recoverable chronology; weak for merits | Missing submissions, response letters, eligibility clarification and 2022 item-specific reason |
@@ -51,7 +51,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Provisional generic durian identity and boundary
 
 - **Finding or class:** The present hypothesis is one generic durian-fruit unit across suitable whole-fruit or durian-pictogram renderings. A prohibition circle or slash, sign wording, venue layout, a particular brand treatment and species-level taxonomy remain outside the proposed identity.
-- **Canonical source:** [Durian overview](../Overview.md), especially “Decision-changing evidence”; [Durian geographic survey](<Durian geographic survey.md>), especially “Symbol referent”; and [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
+- **Authoritative project source:** [Durian overview](../Overview.md), especially “Decision-changing evidence”; [Durian geographic survey](<Durian geographic survey.md>), especially “Symbol referent”; and [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
 - **Relevance:** **Character eligibility:** character-versus-image identity; **Emoji inclusion factor:** Distinctiveness, specifically whether the concept can remain recognizable across platform renderings; **Project analytical question:** semantic boundary, identity across glyphs and decomposition of physical signs.
 - **Direction:** **Character:** mixed. **Emoji:** mixed. The boundary makes both route hypotheses testable, but it is currently project-authored rather than an attested community definition or evidence that the Emoji factor is met.
 - **Current strength:** Coherent and appropriately narrow as an analytical hypothesis; unverified as a user-recognized textual unit.
@@ -65,7 +65,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Repeated functional prohibition signage
 
 - **Finding or class:** Traceable signs use a durian image or name to prohibit the fruit in transport, accommodation and building contexts.
-- **Canonical source:** [Durian signage](<Durian signage.md>) and the itemized [signage and policy source records](Sources.md#signage-and-policy).
+- **Authoritative project source:** [Durian signage](<Durian signage.md>) and the itemized [signage and policy source records](Sources.md#signage-and-policy).
 - **Relevance:** **Character usage:** repeated functional use; **Character stability:** recurrence of a regulatory meaning; **Emoji automatic-decline category:** Signage, as an identity boundary only, because evidence found on a sign does not necessarily make the proposed entity signage; **Project analytical question:** function-bearing use; **Candidate counterargument:** physical signs may still be icons or illustrations.
 - **Direction:** **Character:** potentially supportive, contingent on character identity. The evidence may support Usage and Stability if the recurring base unit is established as a character, but it presently supports continued character analysis rather than encoding directly. **Emoji:** contextual and boundary-sensitive; the occurrences do not supply the prescribed usage-level evidence, and an identity defined as signage would be adverse.
 - **Current strength:** Strong for verified function-bearing occurrence and a repeated regulatory meaning within the bounded corpus; moderate for the inference that the base pictogram is a reusable abstract unit; no direct strength for character status or interchange.
@@ -79,7 +79,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Geographic breadth of observed symbol use
 
 - **Finding or class:** Verified or scholarly documented prohibition occurrences currently cover Indonesia, Cambodia, Malaysia, Singapore, Thailand and Vietnam.
-- **Canonical source:** [Durian geographic survey](<Durian geographic survey.md>) and [Durian signage](<Durian signage.md>).
+- **Authoritative project source:** [Durian geographic survey](<Durian geographic survey.md>) and [Durian signage](<Durian signage.md>).
 - **Relevance:** **Character usage:** potentially relevant distribution beyond one organization or territory if the recurring unit is established as a character; **Emoji inclusion factor:** Usage level, for which the occurrence register is an indirect lead for geographic and language coverage but does not meet the prescribed Frequency evidence; **Project analytical question:** independent distribution and corpus bias.
 - **Direction:** **Character:** potentially supportive, contingent on character identity. The evidence distributes the visual convention; it does not decide whether the recurring object is a character or whether the occurrences are independent. **Emoji:** indirect research lead only, not current factor evidence.
 - **Current strength:** Moderate for distribution of a recurring Southeast Asian visual convention; limited for prevalence, community size, independence or Character relevance because several territories have only one reviewed occurrence and venue types are uneven.
@@ -93,7 +93,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Form convergence and recognizability
 
 - **Finding or class:** Signs and the preliminary inline examples suggest that designers can reduce durian to a compact spiky-fruit form, but the project has not yet coded invariant and variable features across the main corpus.
-- **Canonical source:** [Durian signage](<Durian signage.md>), [Durian visual use](<Durian visual use.md>) and the unresolved questions in the [Durian overview](../Overview.md).
+- **Authoritative project source:** [Durian signage](<Durian signage.md>), [Durian visual use](<Durian visual use.md>) and the unresolved questions in the [Durian overview](../Overview.md).
 - **Relevance:** **Character stability:** form and identity across occurrences; **Character proposal requirement:** comparison with visually similar characters; **Emoji inclusion factor:** Distinctiveness, specifically recognition of the paradigm at typical emoji sizes; **Project analytical question:** representative-glyph independence and form variation.
 - **Direction:** **Character:** mixed. **Emoji:** mixed. Both routes need stronger form evidence, although they ask different questions of it.
 - **Current strength:** Preliminary. The examples make convergence plausible, but there is no complete form inventory, independence analysis or recognition study.
@@ -107,7 +107,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Marketing and brand use
 
 - **Finding or class:** Preliminary research records a university design project, a deployed transnational commercial wordmark and a United States trademark lead using durian-like forms.
-- **Canonical source:** [Durian visual use](<Durian visual use.md>) and [V01–V03](Sources.md#marketing-and-inline-visual-use).
+- **Authoritative project source:** [Durian visual use](<Durian visual use.md>) and [V01–V03](Sources.md#marketing-and-inline-visual-use).
 - **Relevance:** **Character usage:** weak evidence at most; **Emoji automatic-decline category:** Logos and brands, adverse if the proposed identity or requested artwork is brand-bound; **Project analytical question:** visual conventionalization; **Candidate counterargument:** logo, illustration and brand-asset models.
 - **Direction:** **Character:** mixed. **Emoji:** mainly adverse for the documented brand-bound occurrences and not evidence of Usage level.
 - **Current strength:** Limited supplementary evidence. The corpus is small, includes one student or university design project, and does not establish public comprehension independent of each brand.
@@ -121,7 +121,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Inline letter or punctuation substitution
 
 - **Finding or class:** A durian form replaces LATIN CAPITAL LETTER O (`U+004F`) in “Ducoff”; a durian-like star functions as FULL STOP (`U+002E`) in “Forbidden”; and a trademark lead combines a spiky band with LATIN SMALL LETTER D (`U+0064`).
-- **Canonical source:** [Durian visual use](<Durian visual use.md>) and [V01–V03](Sources.md#marketing-and-inline-visual-use).
+- **Authoritative project source:** [Durian visual use](<Durian visual use.md>) and [V01–V03](Sources.md#marketing-and-inline-visual-use).
 - **Relevance:** **Character eligibility:** character-versus-glyph distinction; **Emoji automatic-decline category:** Logos and brands, concerning brand-bound artwork; **Emoji automatic-decline category:** Includes text, as boundary control if the requested emoji identity incorporates lettering; **Project analytical question:** inline integration; **Candidate counterargument:** existing-character and logo explanations.
 - **Direction:** **Character:** supports non-encoding for the documented occurrences. **Emoji:** adverse only if those exact brand or text-bearing designs define the requested identity; otherwise contextual.
 - **Current strength:** Clear for the designers’ stated letter or punctuation roles in V01 and V02; weak as evidence of a broader durian textual convention.
@@ -135,7 +135,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Production, trade, consumption and cultural importance
 
 - **Finding or class:** The geographic survey documents a compact native range, market cultivation or active commercial projects in 19 territories, at-large consumption in 16, and a wider import and cultural footprint.
-- **Canonical source:** [Durian geographic survey](<Durian geographic survey.md>), [Cultivation and native range](<Cultivation and native range.md>), [Consumption and fruit rankings](<Consumption and fruit rankings.md>) and [Diaspora import markets](<Diaspora import markets.md>).
+- **Authoritative project source:** [Durian geographic survey](<Durian geographic survey.md>), [Cultivation and native range](<Cultivation and native range.md>), [Consumption and fruit rankings](<Consumption and fruit rankings.md>) and [Diaspora import markets](<Diaspora import markets.md>).
 - **Relevance:** **Character usage:** contextual only because importance and exposure are not character use; **Emoji inclusion factor:** Usage level, for which this is indirect background for geographic and linguistic search design rather than prescribed Frequency evidence; **Emoji exclusion factor:** Transient, to which documented cultural persistence may be relevant while current economic magnitude alone is insufficient; **Project analytical question:** referent scope and exposed communities.
 - **Direction:** **Character:** contextual only. **Emoji:** potentially supportive background, pending evidence collected under the current Frequency method.
 - **Current strength:** Often strong for the bounded biological, production or consumption fact, with source-specific qualifications; low Character relevance and indirect Emoji relevance.
@@ -146,24 +146,24 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **Unresolved dependency:** Recheck figures before formal publication. For a later Emoji review, use the findings to select relevant languages, regions and historically meaningful terms, then collect the prescribed reproducible Frequency evidence; do not expand background statistics without a named analytical purpose.
 - **Likely proposal use:** **Character:** one concise context paragraph supporting the broad popular referent. **Emoji:** search design and qualified persistence context alongside, not instead of, the required Frequency evidence. Detailed ranks and trade tables are unnecessary.
 
-### Contemporary fruit and emoji repertoire
+### Contemporary fruit characters and emoji sequences
 
 - **Finding or class:** At Unicode 17.0.0, the bounded review finds 29 contemporary emoji-capable fruit-referent characters and the RGI lime sequence 🍋‍🟩 (`U+1F34B U+200D U+1F7E9` — LEMON, ZERO WIDTH JOINER, LARGE GREEN SQUARE). No durian representation was found in that corpus.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and the versioned Unicode 17.0 and Emoji 17.0 source families [U19](<../../../Research/Sources.md#u19>) and [U20](<../../../Research/Sources.md#u20>).
-- **Relevance:** **Character eligibility:** bounded existing-representation check; **Emoji exclusion factor:** Already representable, asking whether an existing emoji or sequence covers Durian; **Emoji inclusion factor:** Breaks new ground, asking whether Durian adds a materially new concept; **Emoji inclusion factor:** Completeness, as possible repertoire context subject to the fixed-set limitation; **Emoji exclusion factor:** Faulty comparison, because existing fruit emoji do not justify another item; **Project analytical question:** route and comparison-set selection.
+- **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and the versioned Unicode 17.0 and Emoji 17.0 source families [U19](<../../../Research/Sources.md#u19>) and [U20](<../../../Research/Sources.md#u20>).
+- **Relevance:** **Character eligibility:** bounded existing-representation check; **Emoji exclusion factor:** Already representable, asking whether an existing emoji or sequence covers Durian; **Emoji inclusion factor:** Breaks new ground, asking whether Durian adds a materially new concept; **Emoji inclusion factor:** Completeness, as possible set context subject to the fixed-set limitation; **Emoji exclusion factor:** Faulty comparison, because existing fruit emoji do not justify another item; **Project analytical question:** route and comparison-set selection.
 - **Direction:** **Character:** mixed. **Emoji:** mixed. The absence of a Durian representation removes one objection, while category resemblance and completeness remain weak or potentially adverse arguments.
-- **Current strength:** Strong, reproducible and versioned for the defined repertoire; limited for the Character decision and material but non-dispositive for Emoji selection.
+- **Current strength:** Strong, reproducible and versioned for the defined character-and-sequence corpus; limited for the Character decision and material but non-dispositive for Emoji selection.
 - **Exact proposition it can support:** Within the Unicode 17.0.0 fruit-referent corpus, durian is not represented and belongs to a readily intelligible contemporary fruit comparison neighbourhood.
-- **What it cannot establish:** Plain-text need, a new-character precedent, Distinctiveness, Usage level or a right to fill an open-ended repertoire gap.
+- **What it cannot establish:** Plain-text need, a new-character precedent, Distinctiveness, Usage level or a right to fill an open-ended set gap.
 - **Contradictions or alternatives:** Lime shows that a fruit subject can be represented by a standardized sequence; it neither represents durian nor establishes that a sequence or separate character is appropriate for durian. Emoji representation and the character-proposal route answer distinct selection questions.
 - **Verification and rights:** The result is based on versioned official Unicode data and has no dependency on reproducing third-party sign photographs.
-- **Unresolved dependency:** Complete the Durian-specific existing-character and sequence analysis; assess Already representable and Breaks new ground separately for Emoji; and recheck the then-current Unicode repertoire before either submission.
+- **Unresolved dependency:** Complete the Durian-specific existing-character and sequence analysis; assess Already representable and Breaks new ground separately for Emoji; and recheck the then-current Unicode character repertoire and emoji sequence data before either submission.
 - **Likely proposal use:** **Character:** a short, carefully bounded comparison and no-existing-fruit-referent statement. **Emoji:** the core Already representable and Breaks new ground comparison, with Completeness and precedent claims tightly limited. Avoid a long category inventory.
 
 ### Legacy terminal fruit symbols
 
 - **Finding or class:** APPLE SYMBOL 𜺽 (`U+1CEBD`), CHERRY SYMBOL 𜺾 (`U+1CEBE`) and STRAWBERRY SYMBOL 𜺿 (`U+1CEBF`) are explicitly non-emoji characters disunified to preserve a legacy terminal source set.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U21](<../../../Research/Sources.md#u21>)–[U23](<../../../Research/Sources.md#u23>).
+- **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U21](<../../../Research/Sources.md#u21>)–[U23](<../../../Research/Sources.md#u23>).
 - **Relevance:** **Project analytical question:** repertoire comparison and character-versus-emoji distinction; **Candidate counterargument:** legacy source-set encoding is not precedent for a new modern pictogram; **Emoji exclusion factor:** Faulty comparison, because historical encoding does not justify current emoji selection.
 - **Direction:** **Character:** contextual only. **Emoji:** contextual only and potentially a faulty comparison.
 - **Current strength:** Strong for their encoded identity and source-set history; weak as an analogy to Durian.
@@ -177,7 +177,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Historical Aegean fruit or commodity signs
 
 - **Finding or class:** The bounded review records nine Linear A or Linear B fruit, grain or commodity signs under its inclusion rule.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U22](<../../../Research/Sources.md#u22>).
+- **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U22](<../../../Research/Sources.md#u22>).
 - **Relevance:** **Project analytical question:** repertoire comparison and historical counterexample control; **Candidate counterargument:** historical notation answers a different interchange need; **Emoji exclusion factor:** Faulty comparison, because historical commodity signs are not emoji-selection precedent.
 - **Direction:** **Character:** contextual only. **Emoji:** contextual only and potentially a faulty comparison.
 - **Current strength:** Strong for the historical sign identifications within Unicode; very weak as an analogy to a modern Durian symbol.
@@ -191,7 +191,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Previous emoji submissions and committee history
 
 - **Finding or class:** The public record supports one expired 2017 item, one 2018 item ultimately recorded as a duplicate, and one standalone 2022 decline whose item-specific reason has not been recovered.
-- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the exact current or archived source record cited for each event.
+- **Authoritative project source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the exact current or archived source record cited for each event.
 - **Relevance:** **Character proposal requirement:** prior related documents where identifiable; **Emoji eligibility:** the unresolved re-review waiting period; **Project analytical question:** route distinction and adverse-history reconstruction; **Candidate counterargument:** earlier adverse outcomes may be mistaken for three merits findings.
 - **Direction:** **Character:** contextual only. **Emoji:** procedurally material to eligibility, but neutral on present merits.
 - **Current strength:** Strong for the documented chronology and limits; weak for any inference about the merits under either route.
@@ -205,7 +205,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Visual distinctiveness and possible confusion
 
 - **Finding or class:** A 2015 Unicode Mail List exchange raised possible small monochrome confusion with lychee, while other participants considered durian distinctive and contrasted sharp durian tips with round lychee tips.
-- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the later 2015 mail-list exchange [U19](Sources.md#u19), supplemented only cautiously by [Durian visual use](<Durian visual use.md>).
+- **Authoritative project source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the later 2015 mail-list exchange [U19](Sources.md#u19), supplemented only cautiously by [Durian visual use](<Durian visual use.md>).
 - **Relevance:** **Character proposal requirement:** comparison with visually similar characters; **Emoji inclusion factor:** Distinctiveness, specifically recognition at typical emoji sizes without foreknowledge; **Project analytical question:** recognizability and confusability.
 - **Direction:** **Character:** mixed. **Emoji:** mixed and directly relevant to Distinctiveness.
 - **Current strength:** Weak and preliminary. The exchange identifies a real question and possible discriminating feature but is not a recognition study, Emoji Distinctiveness test or committee finding.
@@ -219,7 +219,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Plain-text public-interchange need
 
 - **Finding or class:** No reviewed project evidence currently identifies users who enter, exchange, quote, search, index, parse or archive a durian symbol as plain text independently of sign artwork or brand design.
-- **Canonical source:** The strongest non-encoding model and unresolved questions in the [Durian overview](../Overview.md), tested under [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
+- **Authoritative project source:** The strongest non-encoding model and unresolved questions in the [Durian overview](../Overview.md), tested under [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
 - **Relevance:** **Character need for interchange:** the central unresolved Character-route requirement; **Project analytical question:** named users, systems, operations and losses. There is no corresponding Emoji criterion, so this gap must not be transferred to the Emoji route.
 - **Direction:** **Character:** current gap; supports deferral pending a bounded interchange audit. The project has not demonstrated the official need-for-interchange criterion, which is sufficient reason not to draft or submit a Character proposal now but is not affirmative evidence that no such workflow exists. **Emoji:** not applicable as a selection test.
 - **Current strength:** Strong as a gap in the present Character case and therefore as a reason not to draft or submit that proposal; it is not evidence that such workflows do not exist and does not decide Emoji selection. It would become affirmative support for non-encoding only if a well-bounded investigation found that the recurring uses are artwork-dependent and that existing words, images, metadata, characters, sequences or higher-level systems adequately preserve every demonstrated workflow.
@@ -233,7 +233,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Existing characters and ordinary text
 
 - **Finding or class:** The Unicode 17.0.0 fruit-referent review found no character representing durian. Ordinary text can write “durian” or state a rule, while the documented inline designs are directly expressible with LATIN CAPITAL LETTER O (`U+004F`), FULL STOP (`U+002E`) or LATIN SMALL LETTER D (`U+0064`) according to their stated roles.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), [Durian visual use](<Durian visual use.md>) and the [Durian overview](../Overview.md).
+- **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), [Durian visual use](<Durian visual use.md>) and the [Durian overview](../Overview.md).
 - **Relevance:** **Character eligibility:** possible equivalence; **Character need for interchange:** adequacy of ordinary-text alternatives; **Project analytical question:** semantic and behavioural substitutability. Emoji or emoji-sequence representation is assessed separately below.
 - **Direction:** **Character:** mixed. **Emoji:** limited relevance in this class.
 - **Current strength:** Strong within the bounded fruit repertoire and for the known brand cases; incomplete as a standalone matrix of every semantically or visually plausible Unicode character.
@@ -247,7 +247,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Existing or possible character sequences
 
 - **Finding or class:** The bounded Unicode 17.0 fruit and emoji review found no standardized character sequence representing durian. The lime sequence represents lime, not durian; ordinary letter sequences can spell the word and phrases can state the prohibition.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), the [Durian overview](../Overview.md) and [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
+- **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), the [Durian overview](../Overview.md) and [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
 - **Relevance:** **Character eligibility:** duplicate-representation rule; **Character need for interchange:** sequence adequacy; **Emoji exclusion factor:** Already representable, asking whether another emoji or sequence already represents Durian; **Project analytical question:** semantic identity and technical behaviour of candidate sequences.
 - **Direction:** **Character:** mixed. **Emoji:** mixed and directly relevant to Already representable.
 - **Current strength:** Strong for the absence of a durian representation in the bounded standardized fruit/emoji corpus; incomplete for every compositional, combining-mark, shaped or ad hoc sequence model.
@@ -255,13 +255,13 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **What it cannot establish:** Completion of the official sequence check, that a visually similar ad hoc sequence represents the same abstract entity, or that spelling “durian” is inadequate in a named workflow.
 - **Contradictions or alternatives:** A standardized sequence can represent a subject without a separate character, as lime demonstrates; an invented visual approximation does not automatically carry the required semantics.
 - **Verification and rights:** The standardized-sequence finding is reproducible from official versioned Unicode data.
-- **Unresolved dependency:** Write and test every plausible candidate sequence by literal form, code points, names, semantics, normalization, fallback, searching and segmentation where material; separately apply the Emoji Already representable standard.
+- **Unresolved dependency:** Write and test every plausible candidate sequence by literal form, code points, character names, semantics, normalization, fallback, searching and segmentation where material; separately apply the Emoji Already representable standard.
 - **Likely proposal use:** **Character:** concise eligibility and interchange analysis. **Emoji:** core Already representable analysis. Use either only after the candidate-specific sequence test is complete.
 
 ### Images, words, metadata and higher-level systems
 
 - **Finding or class:** Exact sign or brand appearance can be preserved as an image or icon asset; the known rules can be expressed in words; metadata, markup or a sign-management system can associate the asset with a category or prohibition; private-use or icon-font mappings can serve coordinated closed systems.
-- **Canonical source:** The strongest non-encoding model in the [Durian overview](../Overview.md) and the alternative-representation framework in [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
+- **Authoritative project source:** The strongest non-encoding model in the [Durian overview](../Overview.md) and the alternative-representation framework in [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
 - **Relevance:** **Character need for interchange:** adequacy of non-character representations; **Emoji automatic-decline category:** Exact images, adverse if the request depends on exact artwork; **Emoji automatic-decline category:** Signage, adverse only if the sign rather than the generic fruit is the proposed identity; **Candidate counterargument:** the documented need concerns appearance, layout or closed-system exchange rather than a new textual unit.
 - **Direction:** **Character:** supports non-encoding for presently documented functions. **Emoji:** adverse only for an exact-image, brand-bound or signage identity; otherwise this is not an Emoji interchange test.
 - **Current strength:** Strong fit to the observed physical signs and brand assets; untested against any demonstrated requirement to preserve the generic unit outside those artefacts.
@@ -274,8 +274,8 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Pending private photo-corpus audit
 
-- **Finding or class:** The project owner’s existing private Durian sign-photo collection has not yet been catalogued and assessed in the canonical research record.
-- **Canonical source:** [Durian overview](../Overview.md), [Durian geographic survey](<Durian geographic survey.md>) and candidate [AGENTS.md](../AGENTS.md).
+- **Finding or class:** The project owner’s existing private Durian sign-photo collection has not yet been catalogued and assessed in the authoritative project research record.
+- **Authoritative project source:** [Durian overview](../Overview.md), [Durian geographic survey](<Durian geographic survey.md>) and candidate [AGENTS.md](../AGENTS.md).
 - **Relevance:** **Character usage:** independent occurrences; **Character stability:** form and meaning across occurrences; **Emoji inclusion factor:** Distinctiveness, for which the corpus may supply form evidence only; **Emoji inclusion factor:** Usage level, for which the corpus does not supply prescribed Frequency evidence; **Project analytical question:** provenance, independence, semantic boundary and falsification.
 - **Direction:** **Character:** contextual only until audited. **Emoji:** contextual to form and Distinctiveness only, not Frequency.
 - **Current strength:** None for the unseen contents. The collection’s existence establishes a research dependency, not favourable evidence.
@@ -289,7 +289,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Rights-cleared versus reference-only evidence
 
 - **Finding or class:** Evidential value and permission to reproduce are separate. Two current Wikimedia sign examples have identifiable Creative Commons reuse routes; most other located sign and brand images are licensed stock, rights-unverified or reference-only. A contributor permission record exists but does not replace item-level review.
-- **Canonical source:** [Durian signage](<Durian signage.md>), [Durian visual use](<Durian visual use.md>), [Contributor rights](<Contributor rights.md>), [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>), [Content sources and licensing](<../../../Project/Content sources and licensing.md>) where applicable, and the current official route guidance [U06](Sources.md#u06) and [U07](Sources.md#u07).
+- **Authoritative project source:** [Durian signage](<Durian signage.md>), [Durian visual use](<Durian visual use.md>), [Contributor rights](<Contributor rights.md>), [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>), [Content sources and licensing](<../../../Project/Content sources and licensing.md>) where applicable, and the current official route guidance [U06](Sources.md#u06) and [U07](Sources.md#u07).
 - **Relevance:** **Character proposal requirement:** the CLA, font and character-IP obligations are official, while rights to reproduce third-party sign evidence remain a separate publication review rather than a basic Character criterion; **Emoji proposal requirement:** Image Rights & Licenses, under which example images need the specified ownership, public-domain or open-source basis; **Emoji automatic-decline category:** Lack of required rights or license for images, because failure to meet those image requirements results in automatic decline; **Project analytical question:** verification, auditability and publication.
 - **Direction:** **Character:** contextual only. **Emoji:** material to proposal and image-evidence acceptability, but not selection merit by itself.
 - **Current strength:** Strong for the present rights-status distinctions; incomplete for the unaudited private corpus and any future derivative, proposal image or destination-specific use.

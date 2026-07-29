@@ -11,6 +11,7 @@ Treat this file as the always-on project charter. Before substantive work, read 
 | Task | Additional context |
 | --- | --- |
 | Project scope, status, structure, or priorities | [Project overview](<Project/Project overview.md>), [Candidate lifecycle](<Project/Candidate lifecycle.md>), and the [candidate inventory](Candidates.md) as applicable |
+| Unicode terminology audit, a material terminology distinction, or a term not settled by this charter | [Unicode terminology profile](<Methods/Unicode terminology profile.md>) |
 | Candidate-specific work | The nearest candidate `AGENTS.md`, then its overview or relevant research note; do not load every candidate file |
 | Abstract-character identity, plain-text need, unification, sequences, or non-character representation | [Character identity and encoding analysis](<Methods/Character identity and encoding analysis.md>) |
 | Geographic, country/language-data, biological-referent, diaspora, signage, or evidence-corpus research | [Geographic evidence research for symbol proposals](<Methods/Geographic evidence research for symbol proposals.md>) |
@@ -24,6 +25,7 @@ Use the latest official Unicode Consortium resources for current process, criter
 
 ## Scope, terminology, and organization
 
+- Follow the project’s [Unicode terminology profile](<Methods/Unicode terminology profile.md>) for every term it covers. Load it for a material terminology distinction, an audit, or a term not settled by this charter rather than for routine repetitions of established usage. Define project-specific working terms explicitly where the profile and its official sources are silent, without conflicting with Unicode terminology.
 - This project evaluates the case for and against encoding prospective Unicode characters and repertoires. Inclusion records a subject for research, not official Unicode status or a presumption that a proposal should be submitted. A result may support encoding, oppose it, defer a decision, or remain unresolved.
 - Keep the character-proposal and emoji-proposal routes distinct while linking shared evidence. Emoji characters and emoji sequences are plain text; emoji treatment does not encode a second abstract character. Do not imply that every candidate needs or qualifies for both routes.
 - Distinguish a single prospective character, a repertoire of inseparable characters, and a related set of independently researchable characters. Give independently viable candidates separate folders even when one study or later proposal may group them; in particular, keep All Gender Symbol and Urinal separate.
@@ -42,7 +44,7 @@ Use the latest official Unicode Consortium resources for current process, criter
 - Use Obsidian Bases only for genuinely useful structured filtering or comparison. Prefer ordinary Markdown for narrative research, source notes, and evidence records whose qualifications do not fit stable repeated fields.
 - Use title case for working candidate and project names. Reserve all-uppercase names for formally assigned Unicode character names and explicit proposal-style repertoire or property data; typography does not make a working name official.
 - Name standards precisely on first use, then use an unambiguous short form. For geographic and language naming, codes, coded filenames, and `country_code`, follow the geographic method rather than restating its data contract here.
-- In a table of Unicode characters or sequences, display one extended grapheme cluster per row and include the literal form, code-point notation, and name. On first prose reference, include the literal form unless a table on the page already shows it; retain notation and names because rendering varies.
+- In a table of Unicode characters or sequences, display one extended grapheme cluster per row and include the literal form, code-point notation, and character name or names. On first prose reference, include the literal form unless a table on the page already shows it; retain notation and names because rendering varies.
 - In public materials, use the registered-mark symbol only in the trademark notice and mention the Unicode Logo only if the project actually displays it.
 
 ## Research and evidence

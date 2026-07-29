@@ -37,4 +37,4 @@ Record the character-proposal and emoji-proposal routes separately when both app
 
 Freeze each submitted artefact, its source, and its evidence manifest at the submitted commit. Continue developing the underlying research collection and create a new version for any revision.
 
-Acceptance and publication are distinct. Continue monitoring an accepted character through allocation, beta review, and release; names, properties, or code points may remain changeable before publication. Archive broader working resources only when the project is internally concluded, while continuing to permit provenance corrections and clearly marked errata.
+Acceptance and publication are distinct. Continue monitoring an accepted character through allocation, beta review, and release; character names, properties, or code points may remain changeable before publication. Archive broader working resources only when the project is internally concluded, while continuing to permit provenance corrections and clearly marked errata.

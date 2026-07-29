@@ -27,11 +27,11 @@ Keep three levels distinct in every output:
 
 The official baseline, checked on 29 July 2026, is as follows:
 
-- The Unicode Standard defines an abstract character as a unit of information used to organize, control, or represent textual data; it has no concrete form and is not a glyph. The Standard distinguishes character identity from rendered glyphs and defines plain text as a sequence of character codes. ([Unicode 17.0, Chapter 3, D7](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/#G2212); [Chapter 2, §§2.2.3 and 2.2.5](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-2/))
+- The Unicode Standard defines an abstract character as a unit of information used to organize, control, or represent textual data; it has no concrete form and is not a glyph. The Standard distinguishes character identity from rendered glyphs and defines plain text as a sequence of code points. ([Unicode 17.0, Chapter 3, D7](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/#G2212); [Chapter 2, §§2.2.3 and 2.2.5](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-2/))
 - The current [Script Encoding Working Group submission guidance](https://sew.unicode.org/guidelines) requires a proposed addition to be a character and not already encoded. It states that a character expressible as an existing character sequence would be a duplicate representation and is not suitable for encoding. Its three basic criteria are existing use by a community independent of the script creator where applicable, a repertoire whose characters are stable and not in active development, and need for public interchange in plain text. The guidance deliberately leaves the exact amount and form of evidence to case-by-case review and warns that meeting all three criteria does not guarantee acceptance.
 - The current guidance requires comparison with possible existing equivalents and visually similar characters. A proposal is also expected to address character properties and ordering; at least the applicable `UnicodeData.txt` values are required through the submission process. ([Unicode properties in character proposals](https://www.unicode.org/pending/properties.html))
 - The current process accepts a single proposal PDF through the Script Encoding Working Group submission form. The form collects proposed property data, ISO/IEC 10646 summary information, and, where applicable, a font; the working group will not recommend a proposal without a suitably licensed font. The form contains more detailed requirements and must be rechecked before submission.
-- Unicode character names identify characters but do not necessarily express their full meaning. Once a character is encoded, its Unicode Name property value will not change, so naming errors cannot normally be repaired by renaming the character. ([Unicode Character Encoding Stability Policies](https://www.unicode.org/policies/stability_policy.html))
+- Unicode character names identify characters but do not necessarily express their full meaning. Once a character is encoded, its character name will not change, so naming errors cannot normally be repaired by renaming the character. ([Unicode Character Encoding Stability Policies](https://www.unicode.org/policies/stability_policy.html))
 - The Script Encoding Working Group does not accept emoji or flag proposals. The current [emoji-proposal guidance](https://www.unicode.org/emoji/proposals.html), last updated 20 May 2026, defines a separate process and multi-factor selection framework; it directs a widely used symbol that does not require colour towards the character-proposal process. Its inclusion factors include Usage level, supported by prescribed Frequency evidence, while its exclusion factors include Transient and Already representable. It also automatically declines several proposed identities, including signage, while noting that symbols used on signage may be encoded for reasons unconnected with emoji use.
 
 The sections below are the project’s analytical extension of that official baseline. They do not create new Unicode requirements. Every conclusion produced by applying them remains candidate-specific editorial judgement unless an official source is cited for it.
@@ -177,7 +177,7 @@ For each plausible equivalent, compare:
 
 | Dimension | Questions |
 |---|---|
-| Encoded identity | What do the Unicode name, annotations, properties, block context, and standard text establish? |
+| Encoded identity | What do the character name, annotations, properties, block context, and standard text establish? |
 | Attested semantics | Do users give the existing and proposed forms the same reading or function? |
 | Substitutability | Are they interchanged in actual text without loss, or only visually confusable? |
 | Glyph range | Does the requested form fit a documented glyph range of the existing character? |
@@ -192,10 +192,10 @@ Do not use the mere existence of superficially similar encoded characters as pre
 
 ### 6. Test representation by an existing sequence
 
-Write every candidate sequence explicitly by literal form, code points, and names. Identify its type:
+Write every candidate sequence explicitly by literal form, code points, and character names. Identify its type:
 
 - ordinary character sequence;
-- base plus combining mark;
+- base character plus combining mark;
 - standardized variation sequence;
 - emoji modifier or emoji ZWJ sequence;
 - named character sequence;
@@ -227,7 +227,7 @@ Evaluate the strongest workable alternative rather than listing weak substitutes
 | Font, ligature, or stylistic alternate | Desired appearance from an existing string | Semantics usually remain those of the underlying string and depend on the font or renderer |
 | Markup or higher-level protocol | Structure, styling, semantics, layout, and rich notation | May not survive plain-text extraction or be available across the demonstrated interchange contexts |
 | Image, icon, or logo asset | Exact appearance, colour, composition, and branding | Is not searchable or editable as the proposed textual unit without separate metadata |
-| Private-use character or icon-font mapping | Efficient exchange inside a coordinated system | Unicode semantics are defined only by private agreement; unrelated recipients cannot infer them |
+| Private-use character or icon-font mapping | Efficient exchange inside a coordinated system | The character’s semantics are defined only by private agreement; unrelated recipients cannot infer them |
 | Custom emoji or reaction asset | A compact, named image usable inline or as a reaction inside a platform, server, or workspace | Identity depends on a local asset, shortcode or provider ID, platform support, access rights, and prior agreement; directory availability alone does not show public-interchange need |
 | Sticker, GIF, or emote asset | Animated or exact visual expression distributed through rich-media search, a picker, an API, or a pack | Farther from plain text than custom emoji; identity depends on the media file, tags, placement, and platform, while search visibility does not establish a textual unit |
 | Local transliteration or transcription convention | Reproducible scholarly or community text | May be adequate for the specialist corpus but not preserve the original character identity |
@@ -276,19 +276,19 @@ Maintain three separate name fields where useful:
 
 1. **working project name** — an editorial retrieval label;
 2. **attested names and aliases** — community, language, scholarly, standard, or source-set terms with provenance; and
-3. **possible Unicode name** — a proposal-stage identifier subject to official review.
+3. **possible character name** — a proposal-stage identifier subject to official review.
 
 Test naming risks:
 
 - a name that prescribes one glyph rather than the abstract identity;
 - a biological, historical, religious, political, gender, or technical scope narrower or broader than attested use;
 - an English label mistaken for a universal community name;
-- collision or confusion with an existing Unicode name, formal alias, CLDR short name, or different established concept;
+- collision or confusion with an existing character name, formal alias, CLDR short name, or different established concept;
 - a name that treats a working reconstruction or disputed reading as settled;
 - an eponym, brand, trademark, or current institutional terminology likely to obscure generic use; and
 - multiple repertoire names that conceal unification or one name that collapses distinct characters.
 
-Because an encoded Unicode name is stable and may not express the full semantics, do not attempt to make it a complete definition. Put qualifications in proposal prose, names-list annotations, aliases where officially appropriate, or later descriptive text. Final naming remains candidate-specific and committee-reviewed.
+Because an encoded character name is stable and may not express the full semantics, do not attempt to make it a complete definition. Put qualifications in proposal prose, names-list annotations, aliases where officially appropriate, or later descriptive text. Final naming remains candidate-specific and committee-reviewed.
 
 ### 10. Describe expected behaviour before assigning properties
 

@@ -28,7 +28,7 @@ Sources U19–U23 were accessed on **22 July 2026**. Sources U24–U27 were acce
 
 ### U19
 
-Unicode Consortium, [*The Unicode Standard, Version 17.0.0*](https://www.unicode.org/versions/Unicode17.0.0/), published 9 September 2025, with the versioned Unicode Character Database files [`UnicodeData.txt`](https://www.unicode.org/Public/17.0.0/ucd/UnicodeData.txt), [`NamesList.txt`](https://www.unicode.org/Public/17.0.0/ucd/NamesList.txt), [`NameAliases.txt`](https://www.unicode.org/Public/17.0.0/ucd/NameAliases.txt) and [`Blocks.txt`](https://www.unicode.org/Public/17.0.0/ucd/Blocks.txt). Authoritative repertoire cut-off, assigned character names, annotations and block boundaries. Version 17.0.0 supersedes earlier standards; draft Unicode 18 data is outside the review.
+Unicode Consortium, [*The Unicode Standard, Version 17.0.0*](https://www.unicode.org/versions/Unicode17.0.0/), published 9 September 2025, with the versioned Unicode Character Database files [`UnicodeData.txt`](https://www.unicode.org/Public/17.0.0/ucd/UnicodeData.txt), [`NamesList.txt`](https://www.unicode.org/Public/17.0.0/ucd/NamesList.txt), [`NameAliases.txt`](https://www.unicode.org/Public/17.0.0/ucd/NameAliases.txt) and [`Blocks.txt`](https://www.unicode.org/Public/17.0.0/ucd/Blocks.txt). Authoritative repertoire cut-off, character names, annotations and block boundaries. Version 17.0.0 supersedes earlier standards; draft Unicode 18 data is outside the review.
 
 ### U20
 

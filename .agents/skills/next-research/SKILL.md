@@ -5,7 +5,7 @@ description: Scope an approval-gated, bounded Unicode candidate-research task, s
 
 # Next Research
 
-Run an approval-gated, bounded research cycle that chooses one task and the most appropriate execution lane. Apply `AGENTS.md`, including its selective context routing, throughout. The result may support, weaken, or leave unresolved a candidate case. Keep the central model responsible for project continuity, standards reasoning, interpretation, independent source verification, and canonical integration. Preserve the human expert-review and project-owner approval gates assigned by [External model research intake](<../../../Methods/External model research intake.md>).
+Run an approval-gated, bounded research cycle that chooses one task and the most appropriate execution lane. Apply `AGENTS.md`, including its selective context routing, throughout. The result may support, weaken, or leave unresolved a candidate case. Keep the central model responsible for project continuity, standards reasoning, interpretation, independent source verification, and project integration. Preserve the human expert-review and project-owner approval gates assigned by [External model research intake](<../../../Methods/External model research intake.md>).
 
 ## Choose the mode
 
@@ -46,18 +46,18 @@ Assess:
 
 | Lane | Choose when | Do not use it as |
 | --- | --- | --- |
-| **Central ChatGPT/Sol or Codex reasoning and canonical integration** | The task is small or medium, depends on repository continuity, current official standards, close comparison, source verification, interpretation, or editorial judgement. This is the default and always owns final integration. | A reason to omit specialist review or deterministic analysis when the evidence genuinely requires either |
+| **Central ChatGPT/Sol or Codex reasoning and project integration** | The task is small or medium, depends on repository continuity, current official standards, close comparison, source verification, interpretation, or editorial judgement. This is the default and always owns final integration. | A reason to omit specialist review or deterministic analysis when the evidence genuinely requires either |
 | **Gemini Deep Research** | Bounded discovery requires broad open-web coverage across many terms, languages, scripts, jurisdictions, or obscure and difficult-to-locate sources, and a source-map or lead set is the useful deliverable. | An authority for verified facts, Unicode interpretation, candidate decisions, or direct repository editing |
 | **NotebookLM** | The question must be answered against a deliberately selected, versioned source corpus and passage-level comparison, contradiction mapping, or corpus-bounded synthesis is more important than open-web discovery. | A completeness claim beyond the supplied corpus or a substitute for opening and checking the originals |
 | **Scripted or structured-data analysis** | Versioned data, stable rules, repeated transformations, enumeration, deduplication, counts, reconciliation, or reproducible tests dominate the task. | A substitute for defining semantic boundaries, evaluating source authority, or making candidate judgements |
 | **Private-evidence or image-corpus review** | Permitted local material, original-resolution inspection, provenance-aware visual coding, OCR triage, or comparison of an existing private collection is central. | Permission to upload restricted material, alter originals, publish private metadata, or treat image classification as character analysis |
 | **Human fieldwork, source acquisition, or permission work** | The needed evidence is first-hand, unindexed, paywalled, privately held, location-dependent, or available only through contact, purchase, capture, interview, or a rights grant. Use only with the user’s authority and available resources. | An actionable selection-mode task when the required access, authority, or resources are unavailable |
 | **Specialist consultation** | A precisely stated question requires disciplinary, linguistic, community, legal, palaeographic, technical, or other expertise that project methods cannot responsibly supply. State which decision the answer could change. | A vague request for endorsement or a replacement for evidence that the project can check directly |
-| **Mixed workflow** | Two or more genuinely distinct stages depend on different lanes, such as scripted corpus extraction followed by central interpretation, or broad discovery followed by source verification and canonical analysis. Order the stages and minimize transfers. | Routine multi-model duplication, an unbounded second opinion, or automatic escalation of a small task |
+| **Mixed workflow** | Two or more genuinely distinct stages depend on different lanes, such as scripted corpus extraction followed by central interpretation, or broad discovery followed by source verification and project analysis. Order the stages and minimize transfers. | Routine multi-model duplication, an unbounded second opinion, or automatic escalation of a small task |
 
 Apply these constraints:
 
-1. Keep ordinary project reasoning, direct source checking, ordinary Unicode standards interpretation, and canonical writing in the central lane.
+1. Keep ordinary project reasoning, direct source checking, ordinary Unicode standards interpretation, and project writing in the central lane.
 2. Choose the fewest lanes that can answer the approved question. Do not send a task to another model merely to repeat work or add apparent consensus.
 3. Treat a mixed workflow as an ordered dependency: name the output passed between stages and keep the central model at the beginning and end.
 4. Minimize supplied context. Prefer an exact file list or bounded extract to a repository dump, and classify private or restricted material before any external upload.
@@ -80,7 +80,7 @@ Present:
 - the expected deliverable from each lane;
 - source, provenance, citation, adverse-evidence, and verification requirements;
 - stopping conditions and the limits of the bounded pass;
-- how each result will return through the user to the central model and then to the canonical project; and
+- how each result will return through the user to the central model and then to the project record; and
 - a request for approval or optional changes.
 
 Keep this proposal compact enough for a user with limited capacity. Make clear that approval covers both the bounded task and the stated lane, including the context to be supplied. Do not begin substantive research, send a handoff, upload context, contact anyone, acquire material, or run the substantive analysis before approval.
@@ -117,7 +117,7 @@ When Gemini Deep Research, NotebookLM, or another external model is selected, in
 
 ## Return path
 
-Return the prompt, raw report, source or activity list, and disclosed tool details to the user. The user will bring them back to the central model for intake, source verification, interpretation, and possible canonical integration.
+Return the prompt, raw report, source or activity list, and disclosed tool details to the user. The user will bring them back to the central model for intake, source verification, interpretation, and possible project integration.
 ```
 
 For NotebookLM, inventory the exact supplied corpus and forbid extrapolation beyond it. For Gemini Deep Research, define the open-web discovery surfaces, languages, and search record expected. Do not place private or restricted material in either handoff unless the proposal explicitly classifies the service and upload as appropriate and the user approves it.
@@ -127,7 +127,7 @@ For NotebookLM, inventory the exact supplied corpus and forbid extrapolation bey
 Execute only the approved question, lane order, and context boundary:
 
 - In the central lane, research the approved question and directly material evidential branches.
-- In an external-model lane, unless an approved, separately configured automation is part of the proposal, give the approved brief and context package to the user to run in that system. Pause that lane until the user returns the raw result and available source or activity list. Receive it through [External model research intake](<../../../Methods/External model research intake.md>) before any canonical use.
+- In an external-model lane, unless an approved, separately configured automation is part of the proposal, give the approved brief and context package to the user to run in that system. Pause that lane until the user returns the raw result and available source or activity list. Receive it through [External model research intake](<../../../Methods/External model research intake.md>) before any use in the project record.
 - In a scripted lane, freeze input versions and rules, preserve a reproducible method and validation record, and keep interpretation separate from computed output.
 - In a private-evidence or image-corpus lane, work only within the approved access and storage boundary, preserve originals unchanged, and record derivatives and provenance separately.
 - In a human or specialist lane, provide the approved acquisition instrument or exact consultation questions, then wait for the user to return the resulting evidence, response, rights record, or field notes with provenance.
@@ -147,7 +147,7 @@ Before reporting back:
 1. Verify returned evidence proportionately. For external-model work, apply every applicable intake gate: the central lane may perform the gates the intake method assigns to it, but it cannot replace required human expert review or project-owner approval. Integrate only checked underlying sources, never the report as factual authority. For scripts, inspect inputs, rules, outputs, and material calculations. For human, specialist, private, or visual evidence, preserve provenance, qualifications, rights, and the boundary between evidence and judgement.
 2. Integrate candidate-specific findings into the corresponding candidate project notes and source records, updating affected summaries, data, and review dates where necessary.
 3. Put cross-candidate findings in shared research and reusable methodological lessons in methods. Store a substantive finding about another candidate with that candidate, or add a scoped lead if its project has not begun.
-4. Re-rank the canonical project-wide future-research list when one exists. Otherwise update relevant local leads without creating a competing project-wide ranking.
+4. Re-rank the authoritative project-wide future-research list when one exists. Otherwise update relevant local leads without creating a competing project-wide ranking.
 5. Check internal links and inspect the final diff.
 
 In the final handoff, lead with the research conclusion. Identify the lane or lane sequence used, material reframing, important limitations, the effect on the encoding case, files changed, and any newly prioritized lead.

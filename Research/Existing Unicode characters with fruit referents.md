@@ -26,7 +26,7 @@ At the Unicode Standard, Version 17.0.0 cut-off, the defined review finds **41 e
 
 For proposal work, the principal comparison set is the **29 contemporary emoji-capable characters plus the lime sequence (🍋‍🟩)**. The three legacy terminal symbols are weak supplementary comparisons, and the nine historical Aegean signs are weaker still. They remain documented because they satisfy the stated repertoire rule, not because they are likely precedents for a final proposal.
 
-Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode’s emoji repertoire represents lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. The sequence is recorded in Emoji 17.0’s `emoji-zwj-sequences.txt` and `emoji-test.txt` files ([U20](Sources.md#u20)).
+Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode emoji data represent lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. The sequence is recorded in Emoji 17.0’s `emoji-zwj-sequences.txt` and `emoji-test.txt` files ([U20](Sources.md#u20)).
 
 The encoded characters therefore cover 33 referent categories; adding the sequence-only lime category brings the represented total to 34.
 
@@ -46,13 +46,13 @@ Ordinary script characters that spell a fruit name are excluded. A historical si
 
 ## Contemporary emoji comparison
 
-This is the principal proposal-facing comparison. Each row contains one extended grapheme cluster: either one encoded character or, for lime, one multi-character emoji sequence perceived as a single symbol. Literal forms are included for visual reference, but code points and names remain necessary because font and platform support vary.
+This is the principal proposal-facing comparison. Each row contains one extended grapheme cluster: either one encoded character or, for lime, one multi-character emoji sequence perceived as a single symbol. Literal forms are included for visual reference, but code points and character names remain necessary because font and platform support vary.
 
-The code-point identities and names resolve to the displayed entries in Unicode 17.0 `UnicodeData.txt` and `NamesList.txt` ([U19](Sources.md#u19)). Emoji properties, standardized presentation sequences and the RGI lime sequence resolve respectively to Emoji 17.0 `emoji-data.txt`, `emoji-variation-sequences.txt`, `emoji-zwj-sequences.txt` and `emoji-test.txt`; CLDR 48.2 supplies only the stated English annotation and ordering cross-checks ([U20](Sources.md#u20)). The source-group keys retain release packages, while each table row supplies the exact code point or sequence to inspect.
+The code points and character names resolve to the displayed entries in Unicode 17.0 `UnicodeData.txt` and `NamesList.txt` ([U19](Sources.md#u19)). Emoji properties, standardized presentation sequences and the RGI lime sequence resolve respectively to Emoji 17.0 `emoji-data.txt`, `emoji-variation-sequences.txt`, `emoji-zwj-sequences.txt` and `emoji-test.txt`; CLDR 48.2 supplies only the stated English annotation and ordering cross-checks ([U20](Sources.md#u20)). The source-group keys retain release packages, while each table row supplies the exact code point or sequence to inspect.
 
 ‘Qualified’ records that the familiar object contains botanical fruits or combines ovary and non-ovary tissue; it does not mean that one definition overrides the other.
 
-| Character or sequence | Code point(s) and name(s) | Referent | Encoding and presentation | Botanical classification | Common culinary classification |
+| Character or sequence | Code point(s) and character name(s) | Referent | Encoding and presentation | Botanical classification | Common culinary classification |
 |---|---|---|---|---|---|
 | 🍇 | `U+1F347 GRAPES` | Grapes | Encoded character; default emoji presentation | Fruit: a cluster of simple berries | Fruit |
 | 🍈 | `U+1F348 MELON` | Melon | Encoded character; default emoji presentation | Fruit: pepo, a modified berry | Fruit |
@@ -104,7 +104,7 @@ The lime sequence’s components retain their own encoded identities. LARGE GREE
 
 These three explicitly non-emoji characters came from a legacy terminal source set. They are interesting repertoire findings but weak comparisons for either a modern character proposal or an emoji re-review, so they are kept outside the principal table.
 
-| Character | Code point and name | Referent | Encoding and presentation | Botanical classification | Common culinary classification |
+| Character | Code point and character name | Referent | Encoding and presentation | Botanical classification | Common culinary classification |
 |---|---|---|---|---|---|
 | 𜺽 | `U+1CEBD APPLE SYMBOL` | Apple | Encoded legacy symbol; explicitly non-emoji | Qualified fruit: pome or accessory fruit | Fruit |
 | 𜺾 | `U+1CEBE CHERRY SYMBOL` | Cherry | Encoded legacy symbol; explicitly non-emoji | Fruit: drupe | Fruit |
@@ -118,7 +118,7 @@ The non-emoji labels and cross-references resolve to the Unicode 17.0 Symbols fo
 
 These nine non-emoji script characters qualify under the deliberately broad botanical rule because Unicode documents a non-phonetic commodity, logographic or monogrammatic value. They are the weakest proposal comparisons in this review and are unlikely to belong in a final proposal except for a narrowly qualified point.
 
-| Character | Code point and name | Referent | Established sign value | Botanical classification | Common culinary classification |
+| Character | Code point and character name | Referent | Established sign value | Botanical classification | Common culinary classification |
 |---|---|---|---|---|---|
 | 𐂓 | `U+10093 LINEAR B MONOGRAM B127 KAPO` | Generic fruit | Monogram glossed ‘fruit’ | Generic fruit value; no structure or taxon is specified | Fruit, but the Unicode gloss does not define the precise historical commodity scope |
 | 𐙉 | `U+10649 LINEAR A SIGN AB120` | Generic cereal grain | Sign annotated ‘grain’ | Qualified fruit: Unicode does not specify the cereal; cereal grains are caryopses | Cereal grain, not culinary fruit |
@@ -142,7 +142,7 @@ The Aegean inclusions are narrow exceptions to the script-character exclusion. U
 - BEANS (🫘, `U+1FAD8`) conventionally denotes loose edible seeds. PEA POD (🫛, `U+1FADB`) is separately encoded and included as the fruit.
 - JACK-O-LANTERN (🎃, `U+1F383`) is a derived lantern and Halloween symbol made from a pumpkin, not conventionally a fruit character.
 - POPCORN (🍿), rice dishes (🍘 🍙 🍚 🍛), PIE (🥧), drinks, juice containers and fruit garnishes are excluded as processed foods, generic containers or incidental ingredients whose encoded referent is not a fruit.
-- Private-use characters and arbitrary icon-font substitutions are excluded because they are not assigned Unicode characters and have no standard interchange semantics.
+- Private-use characters and arbitrary icon-font substitutions are excluded because their semantics depend on private agreement or font mapping rather than assignment by the Unicode Standard, so they do not provide standard interchange semantics for the represented fruit identity.
 
 ## Completeness method
 
@@ -150,14 +150,14 @@ The result uses four independent passes:
 
 1. freeze the versioned Unicode 17.0.0 `UnicodeData.txt`, `NamesList.txt`, name aliases and block data;
 2. review every Emoji 17.0 Food & Drink entry plus plant entries, then distinguish single characters, presentation sequences and ZWJ sequences from `emoji-test.txt` and the property files;
-3. search Unicode names, aliases and NamesList annotations with a broad fruit and botanical vocabulary, then inspect surrounding block annotations and cross-references; and
+3. search character names, aliases and NamesList annotations with a broad fruit and botanical vocabulary, then inspect surrounding block annotations and cross-references; and
 4. reverse-check the accepted set against CLDR 48.2 English annotations, official code charts and the historical-script descriptions, retaining a boundary register for false positives.
 
 This method makes the completeness claim reproducible for the defined standard corpus. It cannot prove the absence of undocumented symbolic use attached to an arbitrary script character, and representative glyphs are not prescriptive. The reusable workflow is recorded at [Comparative Unicode repertoire research](<../Methods/Comparative Unicode repertoire research.md>).
 
 ## Interpretation for the durian project
 
-The principal finding is the contemporary emoji neighbourhood: Unicode already represents many fruit subjects, including botanical fruits commonly treated as vegetables, nuts, pulses or grains, and lime has a standardized representation even though it is implemented as a sequence. This makes a durian referent semantically intelligible within the repertoire and is directly relevant to an emoji re-review.
+The principal finding is the contemporary emoji neighbourhood: Unicode already represents many fruit subjects, including botanical fruits commonly treated as vegetables, nuts, pulses or grains, and lime has a standardized representation even though it is implemented as a sequence. This makes a durian referent semantically intelligible within the combined character-and-sequence set and is directly relevant to an emoji re-review.
 
 Lime is an informative but probably inconsequential comparison for the character proposal. Its sequence confirms representation of the subject but neither supplies an adequate representation for durian nor establishes that another fruit should receive a character. The legacy terminal symbols and historical Aegean signs are still weaker: they arose from source-set and historical-script requirements unlike the prospective durian case and should not be presented as precedent that any additional fruit merits encoding.
 
@@ -165,7 +165,7 @@ None of these comparisons establishes plain-text need, widespread symbolic use, 
 
 ## Limits and next use
 
-- Literal character display is visually important but depends on font, shaping and platform support; code-point notation and names are the stable identifiers.
+- Literal character display is visually important but depends on font, shaping and platform support; code-point notation and character names are the stable identifiers.
 - Culinary categories vary by territory, language and preparation. The table records a defensible common English/international grouping, not a universal taxonomy.
 - COCONUT and PEANUTS are especially sensitive to whether the intended object is the whole fruit, its shell or pod, or the edible seed.
 - The maize and rice emoji represent fruit-bearing structures rather than isolated fruits; the Aegean wheat, barley and grain signs denote cereal commodities. Their inclusion follows the botanical status of cereal grains as fruits, not culinary usage.

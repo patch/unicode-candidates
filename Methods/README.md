@@ -7,3 +7,4 @@ These notes document reusable research procedures and refinements developed acro
 - [External model research intake](<External model research intake.md>)
 - [Geographic evidence research for symbol proposals](<Geographic evidence research for symbol proposals.md>)
 - [Recovering changed and unavailable web sources](<Recovering changed and unavailable web sources.md>)
+- [Unicode terminology profile](<Unicode terminology profile.md>)
