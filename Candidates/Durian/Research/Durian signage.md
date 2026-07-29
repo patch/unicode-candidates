@@ -1,6 +1,6 @@
 ---
 title: Durian non-marketing signage
-last_reviewed: 2026-07-28
+last_reviewed: 2026-07-29
 tags:
   - durian
   - signage
@@ -21,7 +21,7 @@ The examples span mass transit, hotel rules, and general building regulations. T
 | TH | Hotel in Hua Hin | 1998 photograph | “No durian” hotel rule/pictogram | Wikimedia Commons; CC BY-SA 2.5/GFDL. Exact contemporary venue status is not known ([S03](Sources.md#s03)) | Verified photographed physical sign; potentially reusable |
 | TH | Bangkok MRT platform entrance | January 2022 footage | Contemporary no-durian sign at metro access | Editorial stock footage; reference use only unless licensed ([S04](Sources.md#s04)) | Verified photographed physical sign; not cleared |
 | MY | Hotel in Malaysia | February 2006 photograph | Hotel prohibition sign including durian | Flickr user photograph; licence/permission must be checked at source ([S06](Sources.md#s06)) | Verified photographed physical sign; rights unverified |
-| MY | Kuala Terengganu hotel | September 2009 traveller photograph | A hotel rule sign prohibiting durian | TripAdvisor contributor image; rights unverified ([S06](Sources.md#s06)) | Verified photographed physical sign; reference only |
+| MY | Kuala Terengganu hotel | September 2009 traveller photograph | A hotel rule sign prohibiting durian | TripAdvisor contributor image; rights unverified ([S13](Sources.md#s13)) | Verified photographed physical sign; reference only |
 | VN | Hotel in Ho Chi Minh City | May 2024 traveller photograph | Hotel sign combining no smoking and no durian | 4travel user photograph; rights unverified ([S08](Sources.md#s08)) | Verified photographed physical sign; reference only |
 | KH | Building/accommodation in Phnom Penh | 2016 web account and photograph | Khmer (km) and English (en) regulation sign listing weapons, alcohol, drugs, durian, seafood, and pets | Author’s blog photograph; permission not established ([S09](Sources.md#s09)) | Verified photographed physical sign; reference only |
 | ID | Indonesian hotel-signage corpus | 2023 scholarly publication | “No Durian” is included in a documented hotel public-sign corpus | Academic article is citable; any reproduced sign image has separate rights and must be checked ([S10](Sources.md#s10)) | Verified scholarly documented occurrence |

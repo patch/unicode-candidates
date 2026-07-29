@@ -1,6 +1,6 @@
 ---
 title: Comparative Unicode repertoire research
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-29
 tags:
   - method
   - unicode
@@ -23,6 +23,8 @@ This method supports bounded claims about ‘all existing Unicode characters’ 
 7. **Classify from subject authorities.** Unicode establishes encoded identity and presentation properties, not botanical, zoological or culinary truth. Use appropriate domain authorities and retain qualified or mixed outcomes.
 8. **Cross-check counts.** Reconcile character count, unique-referent count, presentation status and sequence count before publication. Inspect the final note for duplicated code points and unaccounted candidates.
 
+Source records follow the shared [citation-key granularity policy](<../Research/Sources.md#citation-key-granularity>). A retained Unicode release or chart family is suitable for reproducible background research, but a proposal-facing comparison must identify the exact standard section, data file and entry, chart and code point, or proposal page that supports it.
+
 ## Completeness language
 
 Claim completeness only for the named, versioned corpus and inclusion rules. Do not claim exhaustive knowledge of every cultural meaning attached to arbitrary script characters, glyph variants or private fonts. A character name is discovery evidence, not by itself proof of real-world semantics; conversely, a representative glyph is informative but non-prescriptive.
@@ -31,3 +33,4 @@ Claim completeness only for the named, versioned corpus and inclusion rules. Do 
 
 - **2026-07-22:** Added separate counts for characters and referents after apple, cherry, strawberry, fig, grain and olive produced multiple encoded characters. Added an explicit historical-sign stratum and boundary register after NamesList searches recovered Aegean commodity signs, including a syllable with a separately documented ideogram value, and script-internal false positives. Extended the botanical pass to cereal commodity signs after recognizing that a grain is a caryopsis even though culinary classification keeps cereals apart from fruit. Added presentation-property and sequence checks after the lime ZWJ sequence demonstrated that an emoji referent need not be an encoded character.
 - **2026-07-22:** Reorganized the result by proposal relevance after review showed that contemporary emoji fruit are materially stronger comparisons than legacy terminal symbols or historical Aegean signs. Adopted one extended grapheme cluster per row, literal display backed by code-point notation and names, and separate treatment of the represented subject from the mechanism used to encode or sequence it.
+- **2026-07-29:** Applied the project-wide citation-key policy and required exact document-and-location resolution for proposal-facing repertoire comparisons.

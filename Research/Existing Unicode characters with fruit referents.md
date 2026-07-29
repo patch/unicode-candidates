@@ -4,7 +4,7 @@ research_status: bounded complete repertoire review
 unicode_cutoff: 17.0.0
 emoji_cutoff: 17.0
 cldr_version: 48.2
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-29
 tags:
   - unicode
   - fruit
@@ -26,7 +26,7 @@ At the Unicode Standard, Version 17.0.0 cut-off, the defined review finds **41 e
 
 For proposal work, the principal comparison set is the **29 contemporary emoji-capable characters plus the lime sequence (🍋‍🟩)**. The three legacy terminal symbols are weak supplementary comparisons, and the nine historical Aegean signs are weaker still. They remain documented because they satisfy the stated repertoire rule, not because they are likely precedents for a final proposal.
 
-Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode’s emoji repertoire represents lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. ([U19](Sources.md#u19), [U20](Sources.md#u20), [U21](Sources.md#u21), [U22](Sources.md#u22), [U23](Sources.md#u23))
+Lime is represented by the single extended grapheme cluster 🍋‍🟩, an RGI emoji ZWJ sequence, rather than by a separately encoded lime character. Its significance here is that Unicode’s emoji repertoire represents lime as a subject; the sequence mechanism is secondary. It is not counted among the 41 encoded characters. The sequence is recorded in Emoji 17.0’s `emoji-zwj-sequences.txt` and `emoji-test.txt` files ([U20](Sources.md#u20)).
 
 The encoded characters therefore cover 33 referent categories; adding the sequence-only lime category brings the represented total to 34.
 
@@ -47,6 +47,8 @@ Ordinary script characters that spell a fruit name are excluded. A historical si
 ## Contemporary emoji comparison
 
 This is the principal proposal-facing comparison. Each row contains one extended grapheme cluster: either one encoded character or, for lime, one multi-character emoji sequence perceived as a single symbol. Literal forms are included for visual reference, but code points and names remain necessary because font and platform support vary.
+
+The code-point identities and names resolve to the displayed entries in Unicode 17.0 `UnicodeData.txt` and `NamesList.txt` ([U19](Sources.md#u19)). Emoji properties, standardized presentation sequences and the RGI lime sequence resolve respectively to Emoji 17.0 `emoji-data.txt`, `emoji-variation-sequences.txt`, `emoji-zwj-sequences.txt` and `emoji-test.txt`; CLDR 48.2 supplies only the stated English annotation and ordering cross-checks ([U20](Sources.md#u20)). The source-group keys retain release packages, while each table row supplies the exact code point or sequence to inspect.
 
 ‘Qualified’ records that the familiar object contains botanical fruits or combines ovary and non-ovary tissue; it does not mean that one definition overrides the other.
 
@@ -109,6 +111,8 @@ These three explicitly non-emoji characters came from a legacy terminal source s
 | 𜺿 | `U+1CEBF STRAWBERRY SYMBOL` | Strawberry | Encoded legacy symbol; explicitly non-emoji | Qualified fruit: aggregate accessory structure | Fruit |
 
 Their only durable comparative point is narrow: character encoding and emoji presentation are separable. Their source-set history does not provide a close precedent for durian.
+
+The non-emoji labels and cross-references resolve to the Unicode 17.0 Symbols for Legacy Computing Supplement entries `U+1CEBD`–`U+1CEBF` and the corresponding Miscellaneous Symbols and Pictographs entries ([U21](Sources.md#u21)); the source-set and disunification rationale resolves to L2/23-252, especially its proposal summary and rationale ([U23](Sources.md#u23)).
 
 ## Historical Aegean commodity signs
 

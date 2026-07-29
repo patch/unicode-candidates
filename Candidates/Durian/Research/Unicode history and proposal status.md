@@ -1,6 +1,6 @@
 ---
 title: Unicode history and proposal status
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-29
 tags:
   - unicode
   - emoji
@@ -22,7 +22,7 @@ The character-proposal and emoji-proposal paths remain distinct. The emoji restr
 
 | Date | Event | What the source establishes | Evidential limits |
 |---|---|---|---|
-| 19 August 2015 | Public Unicode Mail List discussion | Emma Haneys suggested a durian for the fruit category. Marcel Schneider raised possible confusion with a lychee at small monochrome sizes; Andrew West considered durian distinctive; Schneider then distinguished sharp durian tips from round lychee tips. ([U01](Sources.md#u01)) | Informal public discussion, not a proposal or Unicode Technical Committee decision. |
+| 19 August 2015 | Public Unicode Mail List discussion | Emma Haneys suggested a durian for the fruit category ([U01](Sources.md#u01)). In a later thread message, Marcel Schneider preserved the exchange in which he raised possible confusion with a lychee at small monochrome sizes, Andrew West considered durian distinctive, and Schneider distinguished sharp durian tips from round lychee tips ([U19](Sources.md#u19)). | Informal public discussion, not a proposal or Unicode Technical Committee decision. |
 | 21 September 2017 | ‘Durian (A)’ submitted | Unicode’s current status spreadsheet records the item as ‘Expired’. ([U05](Sources.md#u05)) | The date column is ‘Date Submitted’, not the date of expiry. The public record does not identify the proposer or link the submitted document. |
 | 22 October 2017 | L2/17-393, *Feedback from WG2 email discussion list on PDAM 2.2* | In comments on proposed U+1F96D MANGO, Michael Everson requested a separate DURIAN ‘for completeness’. Andrew West referred to the 2015 exchange and argued that durian was visually more distinctive than mango. ([U02](Sources.md#u02)) | The document transmits comments from the ISO/IEC JTC 1/SC 2/WG 2 email list to the Unicode Technical Committee. It is not itself a durian proposal, a committee recommendation, or an approval. |
 | 26 October 2017 | L2/17-400, *Ad hoc recommendations for Emoji characters in Unicode 11+* | The Emoji Ad Hoc placed DURIAN in a grouped ‘Unicode 12+’ row. The row gives three alternative explanations: no full and well-formed proposal, receipt after the deadline, or insufficient distinctiveness for a recommendation. ([U03](Sources.md#u03)) | The document does not say which explanation applied to DURIAN. It is unsafe to report any one of the three as the reason. |

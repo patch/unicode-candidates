@@ -1,6 +1,6 @@
 ---
 title: Consumption and fruit rankings
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-29
 tags:
   - durian
   - consumption
@@ -15,13 +15,13 @@ tags:
 
 | Country code | Reach | Evidence and interpretation | Confidence |
 |---|---|---|---|
-| BN | National | Government broadcasting shows active seasonal roadside trade; national reporting describes durian as a favourite across social groups ([N09](Sources.md#n09)). | High |
+| BN | National | Radio Television Brunei shows active seasonal roadside trade; *Pelita Brunei* describes durian as a favourite across social groups ([N09](Sources.md#n09)). | High |
 | CN | National, fast-growing | Government reporting describes very large domestic demand; 2023 fresh imports reached about 1.426 million tonnes ([N07](Sources.md#n07)). | High |
 | HK | Territory-wide | 2023 fresh imports were US$404.6 million, 90% supplied by Thailand; in a compact territory this is strong at-large market evidence, although re-exports are possible ([T02](Sources.md#t02)). | Medium-high |
 | ID | National with producing-region strength | Official food statistics report household consumption and large domestic production ([N02](Sources.md#n02)). | High |
 | MO | Territory-wide | 2023 fresh imports were US$7.7 million for a small territory; the at-large classification is an inference and needs a household-consumption source ([T02](Sources.md#t02)). | Medium |
 | MY | National | Official apparent consumption was 16.6 kg per person in 2023 ([N01](Sources.md#n01)). | High |
-| SG | National | National food-consumption data include durian, food-safety guidance addresses consumers, and Malaysian cultivars are widely supplied ([N06](Sources.md#n06)). | High |
+| SG | National | The Singapore Total Diet Study includes durian, Singapore Food Agency guidance addresses consumers, and *Gardenwise* supplies Malaysian-cultivar context ([N06](Sources.md#n06)). | High |
 | TH | National | A 5,433-person nationwide 2026 survey ranked durian first among seasonal fruits selected by respondents ([N03](Sources.md#n03)). | High |
 | TW | Territory-wide | Agricultural guidance describes recurring demand and imports; UN trade data reported US$23.5 million and 8.465 million kg of fresh imports in 2023 under “Other Asia, nes” ([T04](Sources.md#t04)). | Medium-high |
 | VN | National with producing-region strength | Very large production, domestic marketing, and national statistical coverage show a broad established food market ([C05](Sources.md#c05)). | High |

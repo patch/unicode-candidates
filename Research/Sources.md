@@ -1,6 +1,6 @@
 ---
 title: Shared research sources
-last_reviewed: 2026-07-28
+last_reviewed: 2026-07-29
 tags:
   - sources
   - research-register
@@ -8,6 +8,19 @@ tags:
 ---
 
 IDs are local citation keys. Descriptions state what a source is used for; they are not blanket endorsements of every claim on the page.
+
+## Citation-key granularity
+
+A citation key normally identifies one independently citable document or evidence item. It may instead identify a **narrowly described source group** when several related documents jointly serve one background-research function—for example, one versioned standard with its data files, companion pages in one statistical release, or captures that document changes to the same web publication. The register must name every member used and distinguish their roles and limitations.
+
+Create separate keys when documents are independently citable and support different propositions, or when their authority, dates, rights, provenance, or evidential limitations differ materially. In particular:
+
+- a key must not imply that every member supports a claim when only one does; identify that member in the claim and register, cite it directly, or give it a separate key;
+- proposal-facing and other formal-publication claims must resolve to the exact document and supporting location, even when a source-group key is retained;
+- the supporting location should be recorded as precisely as the medium permits: page and section, table or figure, paragraph or heading, timestamp, image region, dataset release and table/series/query, code-point or data-file entry, or archival capture timestamp and archived-page location;
+- dynamic or negative findings should also record the version or review date, search boundary and search term or field where applicable.
+
+Do not split established keys merely to normalize their appearance. Split a current bundle only when its members already support materially distinct proposal-facing claims, the change has a clear immediate benefit, and all internal references can be migrated safely. Otherwise retain the bundle and record the condition that should trigger a later split. When a key has been published or is widely referenced, preserve a stable alias where the system permits it or add an explicit migration note stating which new key now carries each former member.
 
 ## Unicode repertoire, process, and naming
 
@@ -98,3 +111,19 @@ Library of Congress, [ISO 639 frequently asked questions](https://www.loc.gov/st
 - Trade interfaces derived from UN Comtrade are suitable for screening; raw reporter/partner data should replace them in a publication dataset.
 - Farm, nursery, travel, and stock-image pages can establish a lead or a physical occurrence, but rarely establish a national total.
 - A source can be credible evidence that a sign existed while still being unusable for image reproduction.
+
+## Bundled-key audit
+
+Reviewed on **29 July 2026**. “Retain” describes the present research use, not permanent permission to cite the group without identifying the supporting member.
+
+| Key or keys | Decision | Reason and future split condition |
+|---|---|---|
+| U19 | Retain | The Unicode 17.0 standard page and its versioned Unicode Character Database files form one release package. Name the exact data file and entry for a proposal-facing property or repertoire claim; split if a file begins to support an independent proposition. |
+| U20 | Retain | UTS #51 and its Emoji 17.0 data files form one versioned source family; CLDR 48.2 is explicitly only an annotation and ordering cross-check. Split CLDR from the emoji family if it supports an independent proposal or publication claim, and meanwhile name the relevant report section, file and entry. |
+| U21 | Retain | The two Unicode 17.0 code charts form a narrow contemporary-versus-legacy comparison. Proposal-facing use must identify the Symbols for Legacy Computing Supplement entries `U+1CEBD`–`U+1CEBF` or the relevant Miscellaneous Symbols and Pictographs entry; split if the charts support separate substantive claims. |
+| U22 | Retain | The core chapter and three Aegean code charts jointly define one bounded historical-sign comparison. Existing claims identify the relevant signs by code point; split if one document is used independently in a proposal rather than as background comparison. |
+| U24 | Retain | The current emoji and Script Encoding Working Group guidance jointly support one narrow flag-route background finding. Split if a claim turns on only one group’s remit, wording or revision date. |
+| U26 | Retain | The names list, Unikemet data and UAX #57 are needed together for the current D010 identity-and-mirroring analysis. Record the exact name-list entry, Unikemet field and UAX section before proposal use; split if any surface supports a separate proposition. |
+| F03–F05 | Retain | These are background botanical and culinary source groups assembled to classify difficult cases, not proposal evidence groups. Split an individual document when its specific taxon, definition or table becomes independently citable in a proposal or formal publication. |
+| M02 | Retain | The two Obsidian Help pages are one software-documentation family used only for the project method. Split only if version-specific behaviour requires separate records. |
+| M03 | Retain | The CLDR JSON and explanatory charts form one terminology and publication-data family. Cite the exact release, file, path or chart row for a published data claim; split subdivision, containment or display-name sources if they acquire independent uses. |

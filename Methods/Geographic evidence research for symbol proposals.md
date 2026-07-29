@@ -1,7 +1,7 @@
 ---
 title: Geographic evidence research for symbol proposals
 method_status: reusable working method
-last_reviewed: 2026-07-28
+last_reviewed: 2026-07-29
 tags:
   - method
   - unicode-research
@@ -114,6 +114,8 @@ For each claim, record:
 - whether an associated image is licensed to reproduce.
 
 One source can support several claims, and one claim may require several sources. A bibliography alone is not a claim-to-source map.
+
+Apply the shared source register’s [citation-key granularity policy](<../Research/Sources.md#citation-key-granularity>). In proposal-facing work, a source-group key does not replace an exact document-and-location citation.
 
 ### 7. Treat “all countries” as an auditable search
 
@@ -290,5 +292,9 @@ A negative or weaker case is still a valid research result and may support a use
 ### 2026-07-28 — stock-licence review
 
 - Replaced the generic stock-licence field with an acquisition- and use-specific record after reviewing the current Shutterstock agreement, and routed public/private storage decisions to the project evidence-governance note.
+
+### 2026-07-29 — citation-key granularity review
+
+- Routed source groups through a conservative project-wide policy: retain practical background bundles, separate independently citable documents when they support materially distinct proposal-facing claims, and require exact document-and-location records for formal use.
 
 Future research should append concise refinements here when a method changes, including why it changed and which earlier results may need review.

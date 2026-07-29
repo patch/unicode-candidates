@@ -17,7 +17,7 @@ The prospective entity under test is a **generic durian-fruit symbol that retain
 
 ## Official frame and analytical labels
 
-The official-guidance cut-off is **29 July 2026**. The current Script Encoding Working Group [Submission Guidelines and Process](https://sew.unicode.org/guidelines) were checked on that date, together with the [Unicode pipeline](https://www.unicode.org/alloc/Pipeline.html), last updated 27 July 2026, and the [Archive of Notices of Non-Approval](https://www.unicode.org/alloc/nonapprovals.html). Neither current list contained a durian character entry. The guidance is registered locally at [U07](Sources.md#u07).
+The official-guidance cut-off is **29 July 2026**. The current Script Encoding Working Group [Submission Guidelines and Process](https://sew.unicode.org/guidelines) were checked on that date ([U07](Sources.md#u07)), together with the [Unicode pipeline](https://www.unicode.org/alloc/Pipeline.html), last updated 27 July 2026 ([U20](Sources.md#u20)), and the [Archive of Notices of Non-Approval](https://www.unicode.org/alloc/nonapprovals.html) ([U21](Sources.md#u21)). Neither complete current list contained a ‘durian’ entry on that date.
 
 The map uses the following labels:
 
@@ -73,7 +73,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Repeated functional prohibition signage
 
 - **Finding or class:** Traceable signs use a durian image or name to prohibit the fruit in transport, accommodation and building contexts.
-- **Canonical source:** [Durian signage](<Durian signage.md>) and [S01–S10](Sources.md#signage-and-policy).
+- **Canonical source:** [Durian signage](<Durian signage.md>) and the itemized [signage and policy source records](Sources.md#signage-and-policy).
 - **Relevance:** [Official — usage] and [Official — stability]; [Project analysis] function-bearing use; [Counterargument] physical signs may still be icons or illustrations.
 - **Direction:** **Supports encoding.**
 - **Current strength:** Strong for verified functional occurrence and a repeated regulatory meaning within the bounded corpus; moderate for the inference that the base pictogram is a reusable abstract unit; no direct strength for interchange.
@@ -157,7 +157,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Contemporary fruit and emoji repertoire
 
 - **Finding or class:** At Unicode 17.0.0, the bounded review finds 29 contemporary emoji-capable fruit-referent characters and the RGI lime sequence 🍋‍🟩 (`U+1F34B U+200D U+1F7E9` — LEMON, ZERO WIDTH JOINER, LARGE GREEN SQUARE). No durian representation was found in that corpus.
-- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U19–U23](<../../../Research/Sources.md#unicode-repertoire-process-and-naming>).
+- **Canonical source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and the versioned Unicode 17.0 and Emoji 17.0 source families [U19](<../../../Research/Sources.md#u19>) and [U20](<../../../Research/Sources.md#u20>).
 - **Relevance:** [Official — eligibility] bounded existing-representation check; [Project analysis] character/emoji route and comparison-set selection.
 - **Direction:** **Mixed.**
 - **Current strength:** Strong, reproducible and versioned for the defined repertoire; limited for the wider encoding decision.
@@ -178,7 +178,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **Exact proposition it can support:** Unicode can encode non-emoji fruit-referent symbols where a legacy source-encoding and disunification requirement establishes the interchange need.
 - **What it cannot establish:** A modern generic fruit pictogram convention or a comparable legacy interchange requirement for Durian.
 - **Contradictions or alternatives:** Their exceptional source-set history is a reason not to generalize them into a rule that any fruit merits encoding.
-- **Verification and rights:** Verified from official code charts and proposal history.
+- **Verification and rights:** The non-emoji labels are at `U+1CEBD`–`U+1CEBF` in the Unicode 17.0 Symbols for Legacy Computing Supplement chart; the Miscellaneous Symbols and Pictographs chart supplies the reciprocal fruit-character cross-references, and L2/23-252 supplies the source-set and disunification history.
 - **Unresolved dependency:** None likely to change the Durian decision unless a comparable durian source encoding is discovered.
 - **Likely proposal use:** Usually omit; retain only for a narrowly qualified explanation that character encoding and emoji presentation are separable.
 
@@ -192,14 +192,14 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **Exact proposition it can support:** Unicode contains historical non-phonetic commodity signs whose identities and interchange needs arise within specific scripts and source traditions.
 - **What it cannot establish:** Modern durian usage, recognizability, stability or plain-text need.
 - **Contradictions or alternatives:** Their historical notational functions are materially different from a contemporary physical-sign pictogram and should not be treated as category precedent.
-- **Verification and rights:** Verified from the Unicode 17.0 core specification and code charts.
+- **Verification and rights:** Verified from Unicode 17.0 Chapter 8’s Linear B discussion and the code-chart entries for `U+1001B`, `U+1008E`–`U+10090`, `U+10093`, `U+1061D`, and `U+10649`–`U+1064B`.
 - **Unresolved dependency:** None likely to change the present decision.
 - **Likely proposal use:** Omit unless needed to rebut an overbroad claim about “all fruit symbols”.
 
 ### Previous emoji submissions and committee history
 
 - **Finding or class:** The public record supports one expired 2017 item, one 2018 item ultimately recorded as a duplicate, and one standalone 2022 decline whose item-specific reason has not been recovered.
-- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and [U01–U18](Sources.md#unicode-history-and-proposal-process).
+- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the exact current or archived source record cited for each event.
 - **Relevance:** [Official — proposal material] prior related documents where identifiable; [Project analysis] route distinction and adverse-history reconstruction.
 - **Direction:** **Contextual only.**
 - **Current strength:** Strong for the documented chronology and limits; weak for any inference about the merits of the current character case.
@@ -213,7 +213,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 ### Visual distinctiveness and possible confusion
 
 - **Finding or class:** A 2015 Unicode Mail List exchange raised possible small monochrome confusion with lychee, while other participants considered durian distinctive and contrasted sharp durian tips with round lychee tips.
-- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and [U01](Sources.md#u01), supplemented only cautiously by [Durian visual use](<Durian visual use.md>).
+- **Canonical source:** [Unicode history and proposal status](<Unicode history and proposal status.md>) and the later 2015 mail-list exchange [U19](Sources.md#u19), supplemented only cautiously by [Durian visual use](<Durian visual use.md>).
 - **Relevance:** [Official — proposal material] comparison with visually similar characters; [Project analysis] recognizability and confusability.
 - **Direction:** **Mixed.**
 - **Current strength:** Weak and preliminary. The exchange identifies a real question and possible discriminating feature but is not a recognition study or committee finding.

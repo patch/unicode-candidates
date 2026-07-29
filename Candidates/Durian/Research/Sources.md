@@ -7,7 +7,7 @@ tags:
   - durian
 ---
 
-All web sources were accessed on **21 July 2026** unless another access date is added later. IDs are local citation keys. Descriptions state what a source is used for; they are not blanket endorsements of every claim on the page.
+All web sources were accessed on **21 July 2026** unless another access date is added later. IDs are local citation keys. Descriptions state what a source is used for; they are not blanket endorsements of every claim on the page. Source groups and later key splits follow the shared [citation-key granularity policy](<../../../Research/Sources.md#citation-key-granularity>).
 
 ## Taxonomy and native range
 
@@ -273,7 +273,7 @@ Pond5 editorial footage, [No durian allowed sign at Bangkok MRT platform entranc
 
 ### S06
 
-Flickr, [Malaysia hotel durian sign](https://www.flickr.com/photos/m-s-d/3452290688/), photographed 16 February 2006; TripAdvisor, [Kuala Terengganu hotel sign](https://www.tripadvisor.in/LocationPhotoDirectLink-g298320-i21438567-Kuala_Terengganu_Terengganu.html), September 2009. Physical-sign occurrences; reuse rights unverified.
+Flickr, [Malaysia hotel durian sign](https://www.flickr.com/photos/m-s-d/3452290688/), photographed 16 February 2006. Physical-sign occurrence; reuse rights unverified. Before 29 July 2026, S06 also covered the independently authored TripAdvisor occurrence now registered as [S13](Sources.md#s13).
 
 ### S07
 
@@ -299,6 +299,10 @@ AirAsia Newsroom, [Philippines baggage/gift guidelines](https://newsroom.airasia
 
 Royal Brunei Airlines, [baggage prohibition and restriction](https://www.flyroyalbrunei.com/philippines/en/information/baggage-prohibition-restriction/). Official airline policy prohibiting durian; not physical-sign evidence.
 
+### S13
+
+TripAdvisor, [Kuala Terengganu hotel sign](https://www.tripadvisor.in/LocationPhotoDirectLink-g298320-i21438567-Kuala_Terengganu_Terengganu.html), September 2009. Independently authored traveller photograph of a physical hotel-rule sign; reuse rights unverified and the image is reference-only. Migrated from the former S06 bundle on 29 July 2026.
+
 ## Marketing and inline visual use
 
 ### V01
@@ -319,7 +323,7 @@ The sources in this section were accessed on **22 July 2026**.
 
 ### U01
 
-Unicode Mail List Archive, [Emma Haneys, ‘a suggestion new emoji’](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0165.html) and [the later exchange preserved by Marcel Schneider](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0184.html), 19 August 2015. The first message is the direct early public suggestion of a durian emoji; the later message preserves the discussion of durian–lychee visual distinctiveness. Informal discussion, not a proposal or committee decision.
+Unicode Mail List Archive, [Emma Haneys, ‘a suggestion new emoji’](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0165.html), 19 August 2015. Direct early public suggestion of a durian emoji; informal discussion, not a proposal or committee decision. Before 29 July 2026, U01 also covered the later visual-distinctiveness exchange now registered as [U19](Sources.md#u19).
 
 ### U02
 
@@ -343,7 +347,7 @@ Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://
 
 ### U07
 
-Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and eligibility: a proposed addition must be a character, must not already be encoded and must not duplicate an existing character sequence; possible equivalents must be examined. The three basic criteria are existing usage by a community, repertoire stability and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit. Rechecked 29 July 2026. On that date, the current [Unicode pipeline](https://www.unicode.org/alloc/Pipeline.html), last updated 27 July 2026, and the [Archive of Notices of Non-Approval](https://www.unicode.org/alloc/nonapprovals.html) contained no durian character entry.
+Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and eligibility: a proposed addition must be a character, must not already be encoded and must not duplicate an existing character sequence; possible equivalents must be examined. The three basic criteria are existing usage by a community, repertoire stability and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit. Rechecked 29 July 2026. Before that date, U07 also covered the current pipeline and non-approval archive checks now registered separately as [U20](Sources.md#u20) and [U21](Sources.md#u21).
 
 ### U08
 
@@ -388,3 +392,38 @@ Unicode Consortium, retired *Emoji Proposal Status: Public Requests* spreadsheet
 ### U18
 
 Unicode Consortium, archived submission instructions: [20 September 2017 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20170920023858/http://unicode.org/emoji/selection.html), [10 September 2017 *How to Submit Proposal Documents* capture](https://web.archive.org/web/20170910224413/http://www.unicode.org/pending/docsubmit.html), and [26 November 2018 *Submitting Emoji Proposals* capture](https://web.archive.org/web/20181126022252/http://www.unicode.org/emoji/proposals.html). The 2017 and 2018 instructions directed completed proposals through Unicode’s document-submission route; the document page explains that accepted documents receive a registry number but also reserves the right to reject documents for posting. Historical process evidence only: it does not establish that either durian submission was accepted for the public registry. Accessed 22 July 2026. The [28 November 2022 instructions](Sources.md#u13) instead used a Google Form requesting a link to the proposal PDF and did not expose that link through the public status sheet.
+
+### U19
+
+Unicode Mail List Archive, [later exchange preserved by Marcel Schneider](https://www.unicode.org/mail-arch/unicode-ml/y2015-m08/0184.html), 19 August 2015. Preserves Schneider’s small-monochrome lychee-confusion concern, Andrew West’s reply that durian is distinctive, and Schneider’s sharp-tip versus round-tip distinction. Informal discussion, not a recognition study, proposal or committee decision. Migrated from the former U01 bundle on 29 July 2026.
+
+### U20
+
+Unicode Consortium, [Unicode pipeline](https://www.unicode.org/alloc/Pipeline.html), last updated 27 July 2026 and checked 29 July 2026. No durian character entry appeared in the complete current pipeline listing; the bounded negative check used the term ‘durian’. Migrated from the former U07 bundle on 29 July 2026.
+
+### U21
+
+Unicode Consortium, [Archive of Notices of Non-Approval](https://www.unicode.org/alloc/nonapprovals.html), checked 29 July 2026. No durian character entry appeared in the complete current archive; the bounded negative check used the term ‘durian’. Migrated from the former U07 bundle on 29 July 2026.
+
+## Bundled-key audit
+
+Reviewed on **29 July 2026** under the shared [citation-key granularity policy](<../../../Research/Sources.md#citation-key-granularity>). “Retain” describes the current use; proposal-facing citations must still identify the supporting member and exact location.
+
+| Key or keys | Decision | Reason and future split condition |
+|---|---|---|
+| U01 | Split | U01 remains the initial suggestion; the later independently authored visual-confusion exchange moved to U19. Both internal citations were migrated, and the former scope is recorded under both keys. |
+| U07 | Split | U07 remains the current character-proposal guidance; the separately maintained pipeline and non-approval archive moved to U20 and U21. The guidance citation and both bounded negative-list checks now resolve independently. |
+| S06 | Split | S06 remains the 2006 Flickr photograph; the independently authored 2009 TripAdvisor occurrence, with distinct provenance and rights, moved to S13. The occurrence register and Malaysia record were migrated. |
+| C02, C07, C17, T02, N01, D03, D07, D08 | Retain | Each key currently represents one publication, dataset or publisher series with companion pages or editions used for a narrow background purpose. Cite the exact edition, table, query or page for publication; split when one member supports an independent substantive claim. |
+| C01, C04, C05, C08, C09, C10, C12, C14, C16, C18, C22 | Retain | These cultivation groups combine statistics with dated regional, forecast or context documents. They are background evidence in the present encoding map. Split before a member supplies its own proposal-facing claim or a published number whose date, authority or limitation must stand independently. |
+| C19 | Retain | The two commercial pages form one explicitly lead-only Costa Rica group. Split only if one is verified and promoted beyond lead status; do not cite the group as proof of sales or continuity. |
+| N06, N09 | Retain | These consumption/context groups combine distinct documents for compound background findings. A claim must name which member supports consumption, supply, guidance, roadside trade or cultural characterization; split if any member becomes proposal-facing. |
+| D02, D06, D10 | Retain | These are demographic and fieldwork-location groups, not evidence of symbol use or comprehension. Split before publishing a document-specific statistic or when a member is used independently outside the fieldwork-screening inference. |
+| S10 | Retain | The current proposal-facing Indonesian occurrence relies only on the *Anaphora* article; the training report is contextual corroboration and must not be cited through S10 as occurrence provenance. Split before the training report receives an independent claim. |
+| V03 | Retain | The secondary trademark interface and official search route form one lead-and-verification pair. Replace or split the key when an exact official status, drawing or record document is captured and cited. |
+| U04 | Retain | The L2 document supplies the substantive response; the document register only resolves its registration date and the printed-year discrepancy. A proposal-facing citation must point to the PDF passage; split if the register date becomes a separate claim. |
+| U05 | Retain | The status page, embedded spreadsheet and status key operate as one current publication interface. Record the exact row, column label, displayed status and access date for formal use; split if the sheet or key is cited independently. |
+| U13, U17 | Retain | Each key is an archival capture series documenting changes to the same publication or tracker. Timeline claims already identify the relevant date; formal use must also name the capture timestamp, sheet/tab or row, and status-key definition. |
+| U18 | Retain | The archived instructions form one bounded comparison of historical submission routes. Identify the exact capture for any period-specific claim; split if one instruction page becomes independently material to a proposal. |
+
+U12, U14 and U15 were also checked because their Wayback URLs contain an embedded original URL. Each record refers to one archival capture, not a multi-document bundle, so no granularity decision is required.
