@@ -12,6 +12,7 @@ Treat this file as the always-on project charter. Before substantive work, read 
 | --- | --- |
 | Project scope, status, structure, or priorities | [Project overview](<Project/Project overview.md>), [Candidate lifecycle](<Project/Candidate lifecycle.md>), and the [candidate inventory](Candidates.md) as applicable |
 | Candidate-specific work | The nearest candidate `AGENTS.md`, then its overview or relevant research note; do not load every candidate file |
+| Abstract-character identity, plain-text need, unification, sequences, or non-character representation | [Character identity and encoding analysis](<Methods/Character identity and encoding analysis.md>) |
 | Geographic, country/language-data, biological-referent, diaspora, signage, or evidence-corpus research | [Geographic evidence research for symbol proposals](<Methods/Geographic evidence research for symbol proposals.md>) |
 | Existing-character or repertoire comparison | [Comparative Unicode repertoire research](<Methods/Comparative Unicode repertoire research.md>) |
 | Changed or unavailable web evidence | [Recovering changed and unavailable web sources](<Methods/Recovering changed and unavailable web sources.md>) |
