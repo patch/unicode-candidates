@@ -32,7 +32,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 | Geographic breadth of observed symbol use | Potentially supportive, contingent on character identity | Indirect research lead for language and geographic frequency analysis | Moderate for distribution of the visual convention; limited for prevalence, independence or textual use | Character status, design lineage, venue imbalance and no prescribed Emoji frequency data |
 | Form convergence and recognizability | Mixed | Mixed and directly relevant to Distinctiveness | Preliminary only; no coded form corpus or recognition test | Private corpus audit, variant coding and small monochrome testing |
 | Marketing and brand use | Mixed | Mainly adverse if identity depends on a logo or brand; not usage-level evidence | Limited supplementary evidence | Small corpus, deployment and public-comprehension evidence |
-| Inline letter or punctuation substitution | Supports non-encoding for the documented occurrences | Mainly adverse if identity depends on branded artwork or included text | Clear for the underlying `O`, full-stop and letter–image analyses; weak for a wider convention | Independent uses in which the durian unit, rather than the replaced character, must be preserved |
+| Inline letter or punctuation substitution | Supports non-encoding for the documented occurrences | Mainly adverse if identity depends on branded artwork or included text | Clear for the underlying U+004F O <span style="font-variant:all-small-caps">LATIN CAPITAL LETTER O</span>, punctuation and letter–image analyses; weak for a wider convention | Independent uses in which the durian unit, rather than the replaced character, must be preserved |
 | Production, trade, consumption and cultural importance | Contextual only | Potentially supportive background for Usage level, Frequency research and Transient analysis; not direct factor evidence | Often strong for the contextual fact; low Character relevance and indirect Emoji relevance | No prescribed frequency evidence or evidential bridge to character use |
 | Contemporary fruit characters and emoji sequences | Mixed | Mixed: material to Already representable, Breaks new ground, Completeness and Faulty comparison | Strong and versioned for the bounded character-and-sequence corpus | Candidate-specific equivalence, sequence and factor analysis |
 | Legacy terminal fruit symbols | Contextual only | Contextual only; weak and potentially faulty comparison | Strong source-set finding; weak analogy | No comparable durian source-encoding or emoji-selection requirement |
@@ -120,14 +120,14 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Inline letter or punctuation substitution
 
-- **Finding or class:** A durian form replaces LATIN CAPITAL LETTER O (`U+004F`) in “Ducoff”; a durian-like star functions as FULL STOP (`U+002E`) in “Forbidden”; and a trademark lead combines a spiky band with LATIN SMALL LETTER D (`U+0064`).
+- **Finding or class:** A durian form replaces the <span style="font-variant:all-small-caps">LATIN CAPITAL LETTER O</span> in the all-capital “DUCOFF” wordmark; a durian-like star functions as U+002E . <span style="font-variant:all-small-caps">FULL STOP</span> in “Forbidden”; and a trademark lead combines a spiky band with U+0064 d <span style="font-variant:all-small-caps">LATIN SMALL LETTER D</span>.
 - **Authoritative project source:** [Durian visual use](<Durian visual use.md>) and [V01–V03](Sources.md#marketing-and-inline-visual-use).
 - **Relevance:** **Character eligibility:** character-versus-glyph distinction; **Emoji automatic-decline category:** Logos and brands, concerning brand-bound artwork; **Emoji automatic-decline category:** Includes text, as boundary control if the requested emoji identity incorporates lettering; **Project analytical question:** inline integration; **Candidate counterargument:** existing-character and logo explanations.
 - **Direction:** **Character:** supports non-encoding for the documented occurrences. **Emoji:** adverse only if those exact brand or text-bearing designs define the requested identity; otherwise contextual.
 - **Current strength:** Clear for the designers’ stated letter or punctuation roles in V01 and V02; weak as evidence of a broader durian textual convention.
 - **Exact proposition it can support:** Durian-like art can remain recognizable at approximately character scale while functioning as a stylistic rendition or hybrid of already encoded characters.
 - **What it cannot establish:** That the durian identity must be retained in the underlying text, that readers treat it as a separate character, or that letter and punctuation substitution is widespread.
-- **Contradictions or alternatives:** The same occurrences modestly support recognizability, but ordinary `O`, full stop or `d` preserves their explicit textual role.
+- **Contradictions or alternatives:** The same occurrences modestly support recognizability, but ordinary “O”, “.”, or “d” preserves their explicit textual role.
 - **Verification and rights:** The V01 and V02 roles are stated by their designers; deployment is not established for V01, and the images remain subject to their own rights.
 - **Unresolved dependency:** Find, if it exists, independent inline use where substituting the apparent underlying character loses information that users need to preserve.
 - **Likely proposal use:** **Character:** an adverse example distinguishing a durian character from brand glyphs, with secondary value for small-scale recognizability. **Emoji:** an identity-boundary example, not favourable Usage-level evidence.
@@ -148,7 +148,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Contemporary fruit characters and emoji sequences
 
-- **Finding or class:** At Unicode 17.0.0, the bounded review finds 29 contemporary emoji-capable fruit-referent characters and the RGI lime sequence 🍋‍🟩 (`U+1F34B U+200D U+1F7E9` — LEMON, ZERO WIDTH JOINER, LARGE GREEN SQUARE). No durian representation was found in that corpus.
+- **Finding or class:** At Unicode 17.0.0, the bounded review finds 29 contemporary emoji-capable fruit-referent characters and the lime emoji sequence 🍋‍🟩 \<U+1F34B 🍋 <span style="font-variant:all-small-caps">LEMON</span>, U+200D <span style="font-variant:all-small-caps">ZERO WIDTH JOINER</span>, U+1F7E9 🟩 <span style="font-variant:all-small-caps">LARGE GREEN SQUARE</span>\>. No durian representation was found in that corpus.
 - **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and the versioned Unicode 17.0 and Emoji 17.0 source families [U19](<../../../Research/Sources.md#u19>) and [U20](<../../../Research/Sources.md#u20>).
 - **Relevance:** **Character eligibility:** bounded existing-representation check; **Emoji exclusion factor:** Already representable, asking whether an existing emoji or sequence covers Durian; **Emoji inclusion factor:** Breaks new ground, asking whether Durian adds a materially new concept; **Emoji inclusion factor:** Completeness, as possible set context subject to the fixed-set limitation; **Emoji exclusion factor:** Faulty comparison, because existing fruit emoji do not justify another item; **Project analytical question:** route and comparison-set selection.
 - **Direction:** **Character:** mixed. **Emoji:** mixed. The absence of a Durian representation removes one objection, while category resemblance and completeness remain weak or potentially adverse arguments.
@@ -162,7 +162,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Legacy terminal fruit symbols
 
-- **Finding or class:** APPLE SYMBOL 𜺽 (`U+1CEBD`), CHERRY SYMBOL 𜺾 (`U+1CEBE`) and STRAWBERRY SYMBOL 𜺿 (`U+1CEBF`) are explicitly non-emoji characters disunified to preserve a legacy terminal source set.
+- **Finding or class:** U+1CEBD 𜺽 <span style="font-variant:all-small-caps">APPLE SYMBOL</span>, U+1CEBE 𜺾 <span style="font-variant:all-small-caps">CHERRY SYMBOL</span> and U+1CEBF 𜺿 <span style="font-variant:all-small-caps">STRAWBERRY SYMBOL</span> are explicitly non-emoji characters disunified to preserve a legacy terminal source set.
 - **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>) and [U21](<../../../Research/Sources.md#u21>)–[U23](<../../../Research/Sources.md#u23>).
 - **Relevance:** **Project analytical question:** repertoire comparison and character-versus-emoji distinction; **Candidate counterargument:** legacy source-set encoding is not precedent for a new modern pictogram; **Emoji exclusion factor:** Faulty comparison, because historical encoding does not justify current emoji selection.
 - **Direction:** **Character:** contextual only. **Emoji:** contextual only and potentially a faulty comparison.
@@ -170,7 +170,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **Exact proposition it can support:** Unicode can encode non-emoji fruit-referent symbols where a legacy source-encoding and disunification requirement establishes the interchange need.
 - **What it cannot establish:** A modern generic fruit pictogram convention or a comparable legacy interchange requirement for Durian.
 - **Contradictions or alternatives:** Their exceptional source-set history is a reason not to generalize them into a rule that any fruit merits encoding.
-- **Verification and rights:** The non-emoji labels are at `U+1CEBD`–`U+1CEBF` in the Unicode 17.0 Symbols for Legacy Computing Supplement chart; the Miscellaneous Symbols and Pictographs chart supplies the reciprocal fruit-character cross-references, and L2/23-252 supplies the source-set and disunification history.
+- **Verification and rights:** The non-emoji labels are at U+1CEBD–U+1CEBF in the Unicode 17.0 Symbols for Legacy Computing Supplement chart; the Miscellaneous Symbols and Pictographs chart supplies the reciprocal fruit-character cross-references, and L2/23-252 supplies the source-set and disunification history.
 - **Unresolved dependency:** None likely to change the Durian decision unless a comparable durian source encoding is discovered.
 - **Likely proposal use:** **Character:** usually omit; retain only for a narrowly qualified explanation that character encoding and emoji presentation are separable. **Emoji:** omit unless rebutting a faulty precedent comparison.
 
@@ -184,7 +184,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 - **Exact proposition it can support:** Unicode contains historical non-phonetic commodity signs whose identities and interchange needs arise within specific scripts and source traditions.
 - **What it cannot establish:** Modern durian usage, recognizability, stability or plain-text need.
 - **Contradictions or alternatives:** Their historical notational functions are materially different from a contemporary physical-sign pictogram and should not be treated as category precedent.
-- **Verification and rights:** Verified from Unicode 17.0 Chapter 8’s Linear B discussion and the code-chart entries for `U+1001B`, `U+1008E`–`U+10090`, `U+10093`, `U+1061D`, and `U+10649`–`U+1064B`.
+- **Verification and rights:** Verified from Unicode 17.0 Chapter 8’s Linear B discussion and the code-chart entries for U+1001B 𐀛 <span style="font-variant:all-small-caps">LINEAR B SYLLABLE B030 NI</span>, U+1008E 𐂎 <span style="font-variant:all-small-caps">LINEAR B IDEOGRAM B120 WHEAT</span>, U+1008F 𐂏 <span style="font-variant:all-small-caps">LINEAR B IDEOGRAM B121 BARLEY</span>, U+10090 𐂐 <span style="font-variant:all-small-caps">LINEAR B IDEOGRAM B122 OLIVE</span>, U+10093 𐂓 <span style="font-variant:all-small-caps">LINEAR B MONOGRAM B127 KAPO</span>, U+1061D 𐘝 <span style="font-variant:all-small-caps">LINEAR A SIGN AB030</span>, U+10649 𐙉 <span style="font-variant:all-small-caps">LINEAR A SIGN AB120</span>, U+1064A 𐙊 <span style="font-variant:all-small-caps">LINEAR A SIGN A120B</span> and U+1064B 𐙋 <span style="font-variant:all-small-caps">LINEAR A SIGN AB122</span>.
 - **Unresolved dependency:** None likely to change the present decision.
 - **Likely proposal use:** Omit under either route unless needed to rebut an overbroad claim about “all fruit symbols”.
 
@@ -232,7 +232,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Existing characters and ordinary text
 
-- **Finding or class:** The Unicode 17.0.0 fruit-referent review found no character representing durian. Ordinary text can write “durian” or state a rule, while the documented inline designs are directly expressible with LATIN CAPITAL LETTER O (`U+004F`), FULL STOP (`U+002E`) or LATIN SMALL LETTER D (`U+0064`) according to their stated roles.
+- **Finding or class:** The Unicode 17.0.0 fruit-referent review found no character representing durian. Ordinary text can write “durian” or state a rule, while the documented inline designs are directly expressible with the <span style="font-variant:all-small-caps">LATIN CAPITAL LETTER O</span>, <span style="font-variant:all-small-caps">FULL STOP</span> or <span style="font-variant:all-small-caps">LATIN SMALL LETTER D</span> according to their stated roles.
 - **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), [Durian visual use](<Durian visual use.md>) and the [Durian overview](../Overview.md).
 - **Relevance:** **Character eligibility:** possible equivalence; **Character need for interchange:** adequacy of ordinary-text alternatives; **Project analytical question:** semantic and behavioural substitutability. Emoji or emoji-sequence representation is assessed separately below.
 - **Direction:** **Character:** mixed. **Emoji:** limited relevance in this class.
@@ -246,7 +246,7 @@ Geographic spread, referent importance, repertoire fit, visual appeal, recogniti
 
 ### Existing or possible character sequences
 
-- **Finding or class:** The bounded Unicode 17.0 fruit and emoji review found no standardized character sequence representing durian. The lime sequence represents lime, not durian; ordinary letter sequences can spell the word and phrases can state the prohibition.
+- **Finding or class:** The bounded Unicode 17.0 fruit and emoji review found no standardized character sequence representing durian. The lime emoji sequence represents lime, not durian; ordinary letter sequences can spell the word and phrases can state the prohibition.
 - **Authoritative project source:** [Existing Unicode characters with fruit referents](<../../../Research/Existing Unicode characters with fruit referents.md>), the [Durian overview](../Overview.md) and [Character identity and encoding analysis](<../../../Methods/Character identity and encoding analysis.md>).
 - **Relevance:** **Character eligibility:** duplicate-representation rule; **Character need for interchange:** sequence adequacy; **Emoji exclusion factor:** Already representable, asking whether another emoji or sequence already represents Durian; **Project analytical question:** semantic identity and technical behaviour of candidate sequences.
 - **Direction:** **Character:** mixed. **Emoji:** mixed and directly relevant to Already representable.

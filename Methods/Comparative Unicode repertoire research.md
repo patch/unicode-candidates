@@ -1,6 +1,6 @@
 ---
 title: Comparative Unicode repertoire research
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - method
   - unicode
@@ -15,7 +15,7 @@ This method supports bounded claims about ‘all existing Unicode characters’ 
 ## Workflow
 
 1. **Freeze the cut-off.** Name the latest stable Unicode Standard version, the associated Unicode Emoji version and any CLDR release used for annotations. Exclude drafts and beta data.
-2. **Define the unit.** Keep assigned characters, standardized variation sequences, emoji sequences, representative glyphs and private-use mappings distinct. Use one extended grapheme cluster per table row and display it literally beside code-point notation and character names. Count code points and semantic referents separately when several characters share a referent.
+2. **Define the unit.** Keep assigned characters, standardized variation sequences, emoji sequences, representative glyphs and private-use mappings distinct. Use one extended grapheme cluster per table row and follow [Unicode notational conventions](<Unicode notational conventions.md>) for the literal, code-point notation, names and identity-table headings. Count code points and semantic referents separately when several characters share a referent.
 3. **Define the semantic union.** When the request supplies parallel definitions, generate candidates from the union and classify each candidate under every definition. Do not use one scheme to pre-filter another.
 4. **Search independent official surfaces.** Review `UnicodeData.txt`, `NamesList.txt`, name aliases, code charts, emoji property and sequence files, and CLDR annotations. Search names and annotations, but also inspect relevant blocks and complete emoji subgroups so vocabulary choice is not the sole discovery method.
 5. **Handle source strata explicitly.** Lead with the contemporary comparison relevant to the proposal, then separate legacy source-set symbols and historical scripts. Exclude ordinary letters, syllables and ideographs that merely write a name. Include a historical sign only when a dedicated non-phonetic symbol, commodity or classificatory function is established and falls within the approved rule.

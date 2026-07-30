@@ -307,11 +307,11 @@ TripAdvisor, [Kuala Terengganu hotel sign](https://www.tripadvisor.in/LocationPh
 
 ### V01
 
-Kezia Glenaldo, Kartika Magdalena Suwanto, and Rerry Isfandriani, [“Visual Identity and Packaging Design for Coffee Substitute Beverage from Durian Seeds”](https://ojs.uph.edu/index.php/ICSD/article/download/9442/4841), *Proceedings of the International Conference on Social Design 2024*, pp. 350–357. The authors explicitly describe a sharp durian form replacing the “O” in the Ducoff logo. Direct documentation of a design project; deployment as a continuing commercial brand is not established.
+Kezia Glenaldo, Kartika Magdalena Suwanto, and Rerry Isfandriani, [“Visual Identity and Packaging Design for Coffee Substitute Beverage from Durian Seeds”](https://ojs.uph.edu/index.php/ICSD/article/download/9442/4841), *Proceedings of the International Conference on Social Design 2024*, pp. 350–357. The authors call the substituted position “O” and explicitly describe a sharp durian form replacing it; the displayed “DUCOFF” wordmark is all capitals. Direct documentation of a design project; deployment as a continuing commercial brand is not established.
 
 ### V02
 
-BLACK, [“Forbidden Love”](https://blackdesign.world/story/forbidden-love/). Design-studio case study for a commercial durian-product brand launched in 2019. It states that the wordmark ends in a spiky durian-like 14-point Malaysian star and that the mark acts as a full stop. First-party design rationale; marketing evidence, not an independent account of public comprehension.
+BLACK, [“Forbidden Love”](https://blackdesign.world/story/forbidden-love/). Design-studio case study for a commercial durian-product brand launched in 2019. It states that the wordmark ends in a spiky durian-like 14-point Malaysian star and that the mark acts as U+002E . <span style="font-variant:all-small-caps">FULL STOP</span>. First-party design rationale; marketing evidence, not an independent account of public comprehension.
 
 ### V03
 
@@ -327,7 +327,7 @@ Unicode Mail List Archive, [Emma Haneys, ‘a suggestion new emoji’](https://w
 
 ### U02
 
-Debbie Anderson, *[Feedback from WG2 email discussion list on PDAM 2.2](https://www.unicode.org/L2/L2017/17393-wg2-emoji-feedback.pdf)*, L2/17-393, 22 October 2017, pp. 1–2. Primary record of Michael Everson’s and Andrew West’s requests or comments concerning DURIAN during review of proposed U+1F96D MANGO.
+Debbie Anderson, *[Feedback from WG2 email discussion list on PDAM 2.2](https://www.unicode.org/L2/L2017/17393-wg2-emoji-feedback.pdf)*, L2/17-393, 22 October 2017, pp. 1–2. Primary record of Michael Everson’s and Andrew West’s requests or comments concerning DURIAN during review of proposed U+1F96D 🥭 <span style="font-variant:all-small-caps">MANGO</span>.
 
 ### U03
 

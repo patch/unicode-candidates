@@ -1,7 +1,7 @@
 ---
 title: Character identity and encoding analysis
 method_status: reusable working method
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - method
   - unicode-research
@@ -192,7 +192,7 @@ Do not use the mere existence of superficially similar encoded characters as pre
 
 ### 6. Test representation by an existing sequence
 
-Write every candidate sequence explicitly by literal form, code points, and character names. Identify its type:
+Write every candidate sequence explicitly by literal form, code points, and character names, following [Unicode notational conventions](<Unicode notational conventions.md>). Identify its type:
 
 - ordinary character sequence;
 - base character plus combining mark;
@@ -425,8 +425,8 @@ The present method consumes those results to decide what textual unit they estab
 
 ## Illustrative examples only
 
-- A pictorial form substituted for LATIN CAPITAL LETTER O (`U+004F`) or FULL STOP (`U+002E`) in a logo can show recognizable reduction to character scale while remaining a glyph or brand treatment of the existing character. It does not by itself demonstrate an encoding gap. See [Durian visual use](<../Candidates/Durian/Research/Durian visual use.md>).
-- The lime emoji 🍋‍🟩 (`U+1F34B U+200D U+1F7E9`) shows that a subject may have a standardized representation as a sequence without a separately encoded character for that subject. It neither supplies a representation for another fruit nor establishes that another fruit should be encoded. See [Existing Unicode characters with fruit referents](<../Research/Existing Unicode characters with fruit referents.md>).
+- A pictorial form substituted for U+004F O <span style="font-variant:all-small-caps">LATIN CAPITAL LETTER O</span> or U+002E . <span style="font-variant:all-small-caps">FULL STOP</span> in a logo can show recognizable reduction to character scale while remaining a glyph or brand treatment of the existing character. It does not by itself demonstrate an encoding gap. See [Durian visual use](<../Candidates/Durian/Research/Durian visual use.md>).
+- The lime emoji sequence 🍋‍🟩 \<U+1F34B 🍋 <span style="font-variant:all-small-caps">LEMON</span>, U+200D <span style="font-variant:all-small-caps">ZERO WIDTH JOINER</span>, U+1F7E9 🟩 <span style="font-variant:all-small-caps">LARGE GREEN SQUARE</span>\> shows that a subject may have a standardized representation as a sequence without a separately encoded character for that subject. It neither supplies a representation for another fruit nor establishes that another fruit should be encoded. See [Existing Unicode characters with fruit referents](<../Research/Existing Unicode characters with fruit referents.md>).
 
 These examples illustrate distinctions in the method; they are not a Durian identity analysis or a change to that candidate’s working judgement.
 

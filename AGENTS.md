@@ -12,6 +12,7 @@ Treat this file as the always-on project charter. Before substantive work, read 
 | --- | --- |
 | Project scope, status, structure, or priorities | [Project overview](<Project/Project overview.md>), [Candidate lifecycle](<Project/Candidate lifecycle.md>), and the [candidate inventory](Candidates.md) as applicable |
 | Unicode terminology audit, a material terminology distinction, or a term not settled by this charter | [Unicode terminology profile](<Methods/Unicode terminology profile.md>) |
+| Unicode notation or style audit, or presentation of characters, code points, names, properties, ranges, or sequences | [Unicode notational conventions](<Methods/Unicode notational conventions.md>) |
 | Candidate-specific work | The nearest candidate `AGENTS.md`, then its overview or relevant research note; do not load every candidate file |
 | Abstract-character identity, plain-text need, unification, sequences, or non-character representation | [Character identity and encoding analysis](<Methods/Character identity and encoding analysis.md>) |
 | Geographic, country/language-data, biological-referent, diaspora, signage, or evidence-corpus research | [Geographic evidence research for symbol proposals](<Methods/Geographic evidence research for symbol proposals.md>) |
@@ -26,6 +27,7 @@ Use the latest official Unicode Consortium resources for current process, criter
 ## Scope, terminology, and organization
 
 - Follow the project’s [Unicode terminology profile](<Methods/Unicode terminology profile.md>) for every term it covers. Load it for a material terminology distinction, an audit, or a term not settled by this charter rather than for routine repetitions of established usage. Define project-specific working terms explicitly where the profile and its official sources are silent, without conflicting with Unicode terminology.
+- Use ‘emoji sequence’ by default. Qualify the exact sequence class or RGI status only when that construction or status is material.
 - This project evaluates the case for and against encoding prospective Unicode characters and repertoires. Inclusion records a subject for research, not official Unicode status or a presumption that a proposal should be submitted. A result may support encoding, oppose it, defer a decision, or remain unresolved.
 - Keep the character-proposal and emoji-proposal routes distinct while linking shared evidence. Emoji characters and emoji sequences are plain text; emoji treatment does not encode a second abstract character. Do not imply that every candidate needs or qualifies for both routes.
 - Distinguish a single prospective character, a repertoire of inseparable characters, and a related set of independently researchable characters. Give independently viable candidates separate folders even when one study or later proposal may group them; in particular, keep All Gender Symbol and Urinal separate.
@@ -37,14 +39,15 @@ Use the latest official Unicode Consortium resources for current process, criter
 
 ## Editorial and data conventions
 
-- Use en-GB, following Oxford University Press and UK academic-journal practice; use `-ize` rather than `-ise` for applicable Greek-derived verbs.
-- In Markdown prose, use typographic English quotation and apostrophe characters (`U+2018`, `U+2019`, `U+201C`, `U+201D`). Retain ASCII apostrophe and quotation mark only where syntax, code, identifiers, or URLs require them.
+- Use en-GB, following Oxford University Press and UK academic-journal practice; use the serial comma, and use `-ize` rather than `-ise` for applicable Greek-derived verbs.
+- In Markdown prose, use U+2018 ‘ <span style="font-variant:all-small-caps">LEFT SINGLE QUOTATION MARK</span>, U+2019 ’ <span style="font-variant:all-small-caps">RIGHT SINGLE QUOTATION MARK</span>, U+201C “ <span style="font-variant:all-small-caps">LEFT DOUBLE QUOTATION MARK</span> and U+201D ” <span style="font-variant:all-small-caps">RIGHT DOUBLE QUOTATION MARK</span>. Retain ASCII apostrophe and quotation mark only where syntax, code, identifiers, or URLs require them.
 - Treat the repository as part of an Obsidian vault, but keep public notes portable. Use ordinary relative Markdown links, not wiki links; enclose destinations containing spaces in angle brackets and keep literal spaces.
 - Omit a Markdown H1 when Obsidian’s inline title already displays the same frontmatter title or filename. Use an H1 only when it adds materially different information.
 - Use Obsidian Bases only for genuinely useful structured filtering or comparison. Prefer ordinary Markdown for narrative research, source notes, and evidence records whose qualifications do not fit stable repeated fields.
 - Use title case for working candidate and project names. Reserve all-uppercase names for formally assigned Unicode character names and explicit proposal-style repertoire or property data; typography does not make a working name official.
 - Name standards precisely on first use, then use an unambiguous short form. For geographic and language naming, codes, coded filenames, and `country_code`, follow the geographic method rather than restating its data contract here.
-- In a table of Unicode characters or sequences, display one extended grapheme cluster per row and include the literal form, code-point notation, and character name or names. On first prose reference, include the literal form unless a table on the page already shows it; retain notation and names because rendering varies.
+- Follow the project’s [Unicode notational conventions](<Methods/Unicode notational conventions.md>) for character, code-point, name, property, range, sequence and identity-table presentation. Load the profile for a notation audit, a material presentation decision or a case not settled by this charter.
+- In a table of Unicode characters or sequences, display one extended grapheme cluster per row and put the literal form, code-point notation, and character name or names in the first three columns. Use **Character**, **Code point**, **Name** for characters only; **Character or sequence**, **Code point(s)**, **Name(s)** for mixed contents; and **Sequence**, **Code points**, **Names** for sequences only.
 - In public materials, use the registered-mark symbol only in the trademark notice and mention the Unicode Logo only if the project actually displays it.
 
 ## Research and evidence

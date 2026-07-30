@@ -1,7 +1,7 @@
 ---
 title: Unicode terminology profile
 method_status: maintained project reference
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - method
   - unicode
@@ -19,7 +19,7 @@ Use this local profile for routine writing and review. Open only the relevant of
 - local usage appears to conflict with the current glossary; or
 - a Unicode release or scheduled review gives reason to revalidate the entry.
 
-Do not load the external glossary wholesale for routine work. When an official check produces a durable clarification, update the relevant entry and `last_reviewed` date here. Preserve exact official capitalization for formal names, property names, proposal factors, and quoted labels; glossary heading capitalization does not require title case in ordinary prose.
+Do not load the external glossary wholesale for routine work. When an official check produces a durable clarification, update the relevant entry and `last_reviewed` date here. Preserve exact official capitalization for formal names, property names, proposal factors, and quoted labels; glossary heading capitalization does not require title case in ordinary prose. Apply the separate [Unicode notational conventions](<Unicode notational conventions.md>) to their presentation.
 
 ## Character identity and encoding
 
@@ -30,8 +30,8 @@ Do not load the external glossary wholesale for routine work. When an official c
 | encoded character | The association between an abstract character and a code point. A prospective character is not an encoded character; an existing encoded character may be compared with it. | [Encoded Character](https://www.unicode.org/glossary/#encoded_character) |
 | assigned character | A code point assigned to an abstract character. Freeze the Unicode version when making repertoire or count claims about assigned characters. | [Assigned Character](https://www.unicode.org/glossary/#assigned_character) |
 | base character | Any graphic character whose General Category is not a combining mark. In a combining character sequence, it is the initial character to which the combining marks apply. | [Base Character](https://www.unicode.org/glossary/#base_character) |
-| code point | A numerical value or position in a codespace. Give it in `U+XXXX` notation where applicable; do not treat it as the character or glyph itself. | [Code Point](https://www.unicode.org/glossary/#code_point) |
-| character name | The unique string identifying an encoded abstract character. Prefer ‘character name’ or, when qualification helps, ‘Unicode character name’; avoid the imprecise short form ‘Unicode name’. A proposal-stage possible character name remains provisional. | [Character Name](https://www.unicode.org/glossary/#character_name) |
+| code point | A numerical value or position in a codespace. Give it in U+XXXX notation where applicable; do not treat it as the character or glyph itself. | [Code Point](https://www.unicode.org/glossary/#code_point) |
+| character name | The unique string identifying an encoded abstract character. Prefer ‘character name’ or, when qualification helps, ‘Unicode character name’; avoid the imprecise short form ‘Unicode name’. A proposal-stage possible character name remains provisional, regardless of its typography. | [Character Name](https://www.unicode.org/glossary/#character_name) |
 | character properties | Property names and values associated with individual characters. Distinguish a technical character property from an ordinary descriptive property, and verify proposal data against the current applicable source. | [Character Properties](https://www.unicode.org/glossary/#character_properties) |
 | character repertoire; repertoire | A collection of characters included in a character set. ‘Proposed repertoire’ may describe the intended character collection in a proposal. When a research corpus also contains sequences or non-character representations, call it a ‘character-and-sequence set’, ‘corpus’, or another explicit mixed term rather than treating the sequences as repertoire members. | [Character Repertoire](https://www.unicode.org/glossary/#character_repertoire); [Repertoire](https://www.unicode.org/glossary/#repertoire) |
 | unification | Identifying characters as common across writing systems or source traditions. In candidate analysis, use it only for a possible shared abstract character or existing-character identity; visual resemblance alone does not establish unification. | [Unification](https://www.unicode.org/glossary/#unification) |
@@ -44,7 +44,7 @@ Do not load the external glossary wholesale for routine work. When an official c
 | --- | --- | --- |
 | glyph | A form or glyph image selected to depict one or more characters. Treat representative glyphs, variants, and font behaviour separately from character identity. | [Glyph](https://www.unicode.org/glossary/#glyph) |
 | pictograph; pictogram | A symbol denoting an object through a more or less conventional visual likeness. A pictogram may be evidence for a character, an icon convention, or merely an image; the label does not decide encoding status. | [Pictograph](https://www.unicode.org/glossary/#pictograph) |
-| character sequence | An ordered sequence of abstract characters. Write a materially compared sequence by literal form, code points, and character names, and do not imply that it is one encoded character. | [Character Sequence](https://www.unicode.org/glossary/#character_sequence) |
+| character sequence | Use the unqualified term only when the layer is clear. An abstract character sequence is an ordered sequence of one or more abstract characters; a coded character sequence is an ordered sequence of one or more code points. Write a materially compared sequence by literal form, code points, and character names, and do not imply that it is one encoded character. | [Character Sequence](https://www.unicode.org/glossary/#character_sequence); [Section 3.4](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/#G2212) |
 | combining mark | The commonly used synonym for ‘combining character’. Keep it distinct from a base character when describing candidate sequences and rendering. | [Combining Mark](https://www.unicode.org/glossary/#combining_mark) |
 | grapheme | A minimally distinctive unit in a particular writing system; the glossary also records the user-perceived-character sense. Do not use it as an unrestricted synonym for encoded character. | [Grapheme](https://www.unicode.org/glossary/#grapheme) |
 | grapheme cluster; extended grapheme cluster | A segmentation unit bounded under Unicode Standard Annex #29. The project’s one-extended-grapheme-cluster-per-row display rule keeps a sequence visually together; it does not make the cluster one character or one code point. | [Grapheme Cluster](https://www.unicode.org/glossary/#grapheme_cluster); [UAX #29](https://www.unicode.org/reports/tr29/) |
@@ -57,7 +57,7 @@ Do not load the external glossary wholesale for routine work. When an official c
 | Term | Project usage and boundary | Official entry |
 | --- | --- | --- |
 | emoji | The glossary covers both certain Unicode-encoded symbols with customary colourful or playful presentation and unencoded graphics commonly called emoji. Qualify the layer when it matters: ‘Unicode emoji character’, ‘emoji sequence’, ‘platform custom emoji’, or another specific representation. | [Emoji](https://www.unicode.org/glossary/#emoji) |
-| emoji character; emoji sequence | A Unicode emoji character is an encoded character; an emoji sequence contains multiple code points. Both are plain text when defined by the applicable Unicode data. Emoji treatment or presentation does not encode a second abstract character. Use the current Unicode Emoji specification for exact sequence classes. | [Emoji](https://www.unicode.org/glossary/#emoji); [UTS #51](https://www.unicode.org/reports/tr51/) |
+| emoji character; emoji sequence | A Unicode emoji character is an encoded character; an emoji sequence is a string classified under the applicable Unicode Emoji definitions and may contain multiple code points. Both are plain text when defined by the applicable Unicode data. Use ‘emoji sequence’ by default and qualify the exact class, such as ‘RGI emoji ZWJ sequence’, only when the construction or status is material. A sequence may behave as one user-perceived emoji without becoming one emoji character or one separately encoded character. | [Emoji](https://www.unicode.org/glossary/#emoji); [UTS #51](https://www.unicode.org/reports/tr51/) |
 | RGI | ‘Recommended for General Interchange’, a subset of emoji or emoji sequences intended for broad cross-platform support. Do not imply that every emoji or possible sequence is RGI. | [RGI](https://www.unicode.org/glossary/#RGI) |
 | variation selector | A character used with a base to select a defined subset of potential graphic presentations. It has no independent graphic shape and must not be described as a freestanding presentation glyph. | [Variation Selector](https://www.unicode.org/glossary/#variation_selector) |
 | variation sequence | Exactly two code points: a base character or spacing mark followed by one variation selector. Do not use the term for an arbitrary variant sequence. | [Variation Sequence](https://www.unicode.org/glossary/#variation_sequence) |
