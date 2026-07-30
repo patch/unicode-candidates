@@ -6,6 +6,10 @@
 *.bak
 *~
 
+# Python bytecode
+__pycache__/
+*.py[cod]
+
 # Obsidian session state, should this directory later become a vault root
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json

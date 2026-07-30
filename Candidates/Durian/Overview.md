@@ -1,6 +1,6 @@
 ---
 title: Durian overview
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - candidate
   - durian
@@ -24,6 +24,8 @@ Once emoji re-review is confirmed eligible, the intended emoji proposal may cros
 I have already conducted years of research, but not all of it has been contributed or reviewed. Contribution and source review are in progress, and the prior Unicode history has been reconstructed from its external sources at [Unicode history and proposal status](<Research/Unicode history and proposal status.md>).
 
 The candidate-specific [evidence-to-encoding-question map](<Research/Evidence to encoding-question map.md>) applies the shared route and analytical labels from the project’s [character-identity and encoding method](<../../Methods/Character identity and encoding analysis.md>). It separates Character criteria from Emoji selection factors, project analytical questions and the candidate-specific counterargument, while distinguishing decision-bearing evidence from contextual material that may be well sourced but has little relevance to one or both routes. It currently supports continued Character research and deferral rather than proposal drafting: functional signage supplies the strongest support, while plain-text public-interchange need remains the strongest Character-route gap.
+
+The candidate-specific [proposal requirements ledger](<Research/Proposal requirements ledger.md>) maps that evidence to the current official submission fields and the shared project decisions needed to answer them. Its initial application confirms the same deferral while exposing the administrative, evidential, technical, rights and packaging fields that are already supportable, provisional, inapplicable or blocked; completing it is not itself a decision to submit or a change to the candidate phase.
 
 The evidence-led [Durian geographic survey](<Research/Durian geographic survey.md>) is a first-pass dataset with explicit confidence tiers and open research leads, not a closed worldwide census. Its reusable lessons are maintained separately in [Geographic evidence research for symbol proposals](<../../Methods/Geographic evidence research for symbol proposals.md>) so later symbol projects can repeat and refine the process without importing durian-specific conclusions.
 

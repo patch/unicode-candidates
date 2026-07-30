@@ -28,6 +28,7 @@ The [candidate inventory](Candidates.md) is maintained separately so the reposit
 | [Research](Research/README.md) | Substantive studies that apply across candidates |
 | [Methods](Methods/README.md) | Reusable workflows and refinement logs |
 | [Project](Project/README.md) | Project-wide lifecycle and governance decisions |
+| [Scripts](scripts/README.md) | Lightweight project-record validation |
 
 Folders are added only when there is material to place in them. Related but independently viable symbols retain separate candidate projects even when they share research or may later appear in one proposal.
 
