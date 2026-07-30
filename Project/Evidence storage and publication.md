@@ -1,6 +1,6 @@
 ---
 title: Evidence storage and publication
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - project
   - governance
@@ -25,6 +25,8 @@ The public repository may contain:
 “Rights-cleared” is specific to the intended publication and does not mean that an item becomes project-owned or covered by CC BY-SA 4.0. Third-party material must retain its own rights notice. A public citation may remain publishable even when downloading or redistributing the cited asset is not.
 
 Anything committed here should be treated as publicly and durably disclosed through the current tree, Git history, clones, caches, and release copies.
+
+The project is responsible for obtaining and observing the rights needed for its own acquisition, storage, modification, publication, submission, and other authorized uses. It must identify third-party material and its controlling terms accurately, preserve required notices, and avoid purporting to grant rights it does not hold. Once an item and its limits are sufficiently distinguished for a reasonable recipient to make an informed decision, an independent downstream party’s unauthorized extraction, relicensing, or other misuse is that party’s responsibility rather than a project rights-clearance obligation. This boundary does not excuse a restriction on the project’s own distribution, a representation made in a submission agreement, or a rights notice known to be materially misleading.
 
 ## Zone 2: private evidence archive
 

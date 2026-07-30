@@ -1,6 +1,6 @@
 ---
 title: Content sources and licensing
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - project
   - governance
@@ -92,11 +92,25 @@ As of 29 July 2026, the project owner reports access to an image-only Standard L
 
 Do not import conditions from other plans, media, or account tiers; revisit the scope only if a future acquisition uses a materially different product.
 
+### Project boundary for proposal glyphs and evidence
+
+No Shutterstock or other stock asset will supply, or be copied or traced to produce, a proposed character’s representative glyph, an emoji proposal’s example image, or a proposal font. This is a project-scope decision independent of whether a particular stock licence might permit some such use.
+
+Stock material may nevertheless have evidential value:
+
+- a photograph may document a physical sign or another displayed occurrence containing the candidate, subject to verification that the scene and relevant context are authentic and independently existing;
+- a vector or illustration may document marketplace availability, supplied terminology, a represented visual convention, or stock-creator treatment of a symbol, and may lead to stronger contextual evidence; and
+- a vector or illustration of a sign is not by itself evidence that the depicted sign physically exists, that the symbol is independently used, or that anyone interchanges it as plain text.
+
+A licensed stock image may be incorporated into a research publication or formal proposal solely as separately identified evidence after an item- and destination-specific review. That review must cover the proposal’s public distribution, Unicode’s publication and retention of submissions, any permitted modification, required credit, embedded third-party rights, and the prohibition on redistributing or exposing the supplied stock asset independently of the project work. Seek provider or Unicode confirmation where the interaction of those terms remains ambiguous.
+
+Many potentially useful photographs of signage may be designated ‘Editorial’ because rights in the photographed sign or other depicted elements have not been cleared for general commercial use. Shutterstock’s current public terms define editorial use as a single descriptive use in a newsworthy or human-interest context, distributable worldwide and in-context across channels, while excluding advertising and merchandising. A Unicode proposal that reproduces a photograph solely to document and analyse an independently existing sign is provisionally closer to that editorial category than to commercial promotion. This is a working interpretation, not blanket clearance: confirm the exact item and plan, required credit, special restrictions, Unicode’s posting and retention of the proposal, whether a revised proposal is a further use, and every separate project or website publication. Shutterstock’s warranty for Editorial content also expressly excludes intellectual-property rights in elements depicted within the photograph, so the sign itself remains a separate rights question.
+
 ### Licensing issues to check
 
 Before acquiring or integrating an image:
 
-- confirm that the item is available under the exact current plan; the public [Shutterstock licence terms](https://www.shutterstock.com/license) were last checked on 29 July 2026, but preserve the exact governing terms and relevant account or order evidence privately at acquisition;
+- confirm that the item is available under the exact current plan; the public [Shutterstock licence terms](https://www.shutterstock.com/license) were last checked on 30 July 2026, but preserve the exact governing terms and relevant account or order evidence privately at acquisition;
 - record the asset ID, contributor or agency, image or Editorial designation, download date, and any special restrictions, required credit, or stated model or property release information;
 - map the proposal, public repository, website, social-media post, or other intended destination to a permitted use, distinguishing incorporation into a project work from redistribution of the supplied image;
 - confirm who may access and use the downloaded file under the account or seat entitlement, and keep the supplied original outside public Git and Git LFS;
