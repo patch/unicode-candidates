@@ -89,6 +89,14 @@ Unicode Emoji subgroup labels match neither classification. ‘food-fruit’ inc
 
 Botanical terminology in the table follows the structural classifications in [F01](Sources.md#f01) and [F02](Sources.md#f02). Fig, avocado, coconut, mango, peanuts, chestnuts and the cereal grains were separately checked in [F03](Sources.md#f03) and [F04](Sources.md#f04). The culinary column deliberately retains disagreements between FAO food groups and Unicode CLDR/emoji ordering rather than treating either as a biological authority. ([F05](Sources.md#f05), [U20](Sources.md#u20))
 
+### Representational diversity and encoded identity
+
+This repertoire review records encoded identities and representative display, not the full history of fruit imagery. It has not assembled a bounded pre-encoding image corpus and therefore does not yet support a quantified claim that ‘most’ encoded fruits had several common representations before encoding. That broader proposition remains a useful research hypothesis rather than a finding of this dataset.
+
+The encoded comparison nevertheless demonstrates an important scope distinction. Unicode separately encodes U+1F34E 🍎 <span style="font-variant:all-small-caps">RED APPLE</span> and U+1F34F 🍏 <span style="font-variant:all-small-caps">GREEN APPLE</span>, but this bounded repertoire contains no separate sliced-apple, bitten-apple or apple-core character. U+1F350 🍐 <span style="font-variant:all-small-caps">PEAR</span> has one generic encoded identity; the orientation, leaf treatment and other details of any particular pear glyph are not expressed in its character name. The literal forms above show particular renderings, while the code chart’s representative glyph and platform glyphs remain non-prescriptive presentations of the encoded identities. ([U19](Sources.md#u19), [U20](Sources.md#u20), [U21](Sources.md#u21))
+
+For candidate research, multiple established depictions should therefore not be counted as adverse merely because they fail to converge on one prospective emoji image. Variation can support independence from one artwork when users preserve the same generic referent across it. It becomes adverse only where evidence shows a semantic contrast requiring separate representation, failure of recognition or distinction, or dependence on an exact image, label, layout or venue. A proposal still needs a recognizable representative design, but selecting one design does not require proving that other familiar depictions never existed or will cease to be used.
+
 ### Presentation variants of the hot pepper character
 
 Of the 29 emoji-capable encoded characters, 28 have `Emoji_Presentation=Yes` and normally display in emoji style. <span style="font-variant:all-small-caps">HOT PEPPER</span> has `Emoji=Yes` but `Emoji_Presentation=No`. Its standardized variation sequences request text or emoji style; they are presentations of the same encoded hot-pepper character, not further fruit characters. Each sequence is shown on its own row. ([U20](Sources.md#u20))
@@ -162,6 +170,8 @@ The principal finding is the contemporary emoji neighbourhood: Unicode already r
 Lime is an informative but probably inconsequential comparison for the character proposal. Its sequence confirms representation of the subject but neither supplies an adequate representation for durian nor establishes that another fruit should receive a character. The legacy terminal symbols and historical Aegean signs are still weaker: they arose from source-set and historical-script requirements unlike the prospective durian case and should not be presented as precedent that any additional fruit merits encoding.
 
 None of these comparisons establishes plain-text need, widespread symbolic use, distinctiveness or any other encoding criterion. The repertoire documents the set a prospective durian character could join; it does not prove the case for joining it.
+
+The contributor corpus’s whole, paired, cut-open, filled and outline durian forms should consequently be tested as possible representations of one generic fruit identity, not treated as five competing identities merely because they look different. Their diversity is positive evidence against dependence on one sign artwork when the referent remains durian. The unresolved questions are whether users recognize and preserve that referent without contextual labels, whether any visual difference consistently carries information that must be retained, whether a selected proposal image is distinctive at the required sizes, and—on the Character route—whether the generic unit is needed in public plain-text interchange.
 
 ## Limits and next use
 

@@ -53,7 +53,7 @@ The functional set supports persistence of a generic durian referent across five
 
 Spiky husk or outline and a stalk recur, but neither is invariant across every design at the same level of abstraction. Whole and cut-open forms both occur. The prohibition circle, slash, hand, exact wording, neighbouring rules, operator branding, and sign layout vary or recur as higher-level composition; the corpus does not support treating any of them as part of a separately encoded ‘no durian’ entity.
 
-This variation is evidence against a one-artwork identity. It is not yet proof of a stable abstract character. Every functional occurrence remains embedded in words, an overlay, a venue, or detailed illustration. The audit did not test unlabelled forms at small monochrome sizes, and it did not establish that readers preserve the fruit unit when all of that context is removed.
+This variation is evidence against a one-artwork identity and is consistent with one generic durian referent surviving different depictions. Multiple common renderings are not adverse merely because they do not converge on one drawing: existing object characters can have one encoded identity while fonts, platforms and other imagery select particular presentations. The variation is not yet proof of a stable abstract character, either. Every functional occurrence remains embedded in words, an overlay, a venue, or detailed illustration. The audit did not test unlabelled forms at small monochrome sizes, and it did not establish that readers preserve the fruit unit when all of that context is removed.
 
 ## Independence and venue breadth
 
@@ -93,7 +93,7 @@ It does not establish:
 - user entry, exchange, quotation, search, indexing, parsing, accessibility, or archival preservation of a durian unit in plain text; or
 - a concrete loss when ordinary wording, images, metadata, or higher-level sign systems are used.
 
-The corpus therefore removes the prior ‘unreviewed private collection’ dependency but leaves the principal Character-route question unresolved. It supports a bounded plain-text-interchange and counterargument audit, not proposal drafting.
+The unsettled representative-glyph range is a recognition and drafting dependency, not evidence against encoding simply because the observed forms differ. The corpus therefore removes the prior ‘unreviewed private collection’ dependency but leaves the principal Character-route question unresolved. It supports a bounded plain-text-interchange and counterargument audit, not proposal drafting.
 
 ## Location and attribution boundary
 

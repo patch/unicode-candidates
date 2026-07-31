@@ -149,6 +149,18 @@ Form stability does not require one frozen outline. Code independent occurrences
 - forms that may instead be separate characters; and
 - ambiguous or falsely grouped forms.
 
+Do not treat convergence on one common drawing as a proxy for character stability. **Representational diversity** means that several depictions preserve the same referent or function; **identity instability** means that the differences change the unit being communicated, prevent users from recognizing it, or make the identity depend on an exact asset or its context. The first can support abstraction away from one artwork, while the second may weaken or divide the character hypothesis. A copied image can show strong visual convergence without independent character use, and varied independent images can show a stable generic identity without sharing one outline.
+
+For concrete objects, including prospective food and fruit symbols, test variation without presuming that whole versus cut, colour, number, leaf or stalk, orientation, perspective, interior detail, or degree of simplification is either meaningful or meaningless. Ask instead:
+
+- whether users give the depictions the same unprompted name or reading;
+- whether substituting one depiction for another preserves the relevant information;
+- whether a difference consistently expresses a contrast that users need to retain;
+- whether the proposed representative glyph remains recognizable at the required scale; and
+- whether the exact appearance, rather than the generic referent, is what must be exchanged.
+
+Encoding one character and selecting a representative glyph do not enumerate every established depiction of its referent or make the selected design the only legitimate image. Conversely, evidence that many images depict the same object is not by itself evidence of a plain-text unit or need for encoding. Record form diversity as favourable, adverse, or neutral only through its demonstrated effect on identity, recognition, semantic contrast, and interchange.
+
 Ask whether reflection or direction:
 
 1. is merely an interchangeable glyph variant;
