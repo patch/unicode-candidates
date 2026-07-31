@@ -77,7 +77,7 @@ For every new sign:
 
 ## Current publication position
 
-The two Wikimedia examples have documented reuse routes. Sandy Patch’s six public-world records may be published as a selected group under his scoped CC BY-SA 4.0 permission, with the required attribution and share-alike notice. Other web examples remain useful occurrence evidence even when their reproduction basis is unresolved or restrictive.
+The two Wikimedia examples have documented reuse routes. Sandy Patch’s six public-world records have a scoped CC BY-SA 4.0 copyright basis and are presumptively eligible for a grouped publication decision, but no photographs or crops have yet been selected and approved. Other web examples remain useful occurrence evidence even when their reproduction basis is unresolved or restrictive.
 
 For DUR-EVID-0007, the complete screenshot remains private. A crop containing only the Airbnb host content is a candidate public derivative whose basis depends on the underlying content rather than a separate permission from the screenshot supplier. It remains subject to selection, redaction, and a scoped non-free-use decision. Apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) for the governing standard and [Contributor rights](<Contributor rights.md>) for these asset-specific decisions.
 

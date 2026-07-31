@@ -27,7 +27,7 @@ This is a permission and attribution record, not a claim that every photograph r
 
 The private catalogue reviewed on 30 July 2026 links 164 camera photographs by Sandy Patch to stable private image identifiers, source checksums, capture metadata, supplied comments, review derivatives, event groups, and item-level project-use decisions. The photographs fall within the contributor’s described set of images previously shared for possible use in this project, so the scoped CC BY-SA 4.0 permission supplies the working photograph-licence basis.
 
-A defined selection of Sandy’s photographs and its comparable crops may share one publication decision under [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>). Record the included private identifiers, exact attribution, adaptation status, share-alike notice, and any concrete contextual concern. The public-safe event records are at [Contributor photo corpus synthesis](<Contributor photo corpus synthesis.md>).
+No photograph selection has yet been approved for publication. A future defined selection and its comparable crops may share one publication decision under [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>). That decision should record the included private identifiers, exact attribution, adaptation status, share-alike notice, and any concrete contextual concern. The public-safe event records are at [Contributor photo corpus synthesis](<Contributor photo corpus synthesis.md>).
 
 ## Airbnb house-rules screenshot
 
