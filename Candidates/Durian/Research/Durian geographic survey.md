@@ -1,7 +1,7 @@
 ---
 title: Durian geographic survey
 research_status: background survey
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - durian
   - geography
@@ -106,7 +106,7 @@ This division keeps interpretation in prose while allowing genuinely cross-cutti
 - Official crop statistics are not synchronized by year and may differ in whether young orchards, bearing area, or backyard trees are counted.
 - “Durian” most often means fruit of *D. zibethinus* in commerce but has broader genus-level and vernacular senses. This affects biological claims but does not create a requirement to force character semantics into a species boundary.
 - Web-visible signs are biased towards tourist hotels, major cities, and photographers who post on indexed platforms.
-- Most sign photographs found are not cleared for proposal publication. Evidential usability and publication rights are separate.
+- Many sign photographs found remain reference-only or have an unresolved reproduction basis. Evidential usability and publication status are separate; apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) when selecting an image for reproduction.
 - National fruit-consumption systems rarely publish a single complete league table including seasonal durian. Absence from a ranking is often a data-design issue, not evidence of low consumption.
 
 ## Overall interpretation
@@ -129,7 +129,7 @@ China’s import demand dominates the monetary trade data, but it should not ecl
 8. **Standardize production.** Create a year-by-year table from national statistical agencies with harvested area, output, and data definition. Confirm or reject BR, CR, MG, and any Pacific leads through agricultural ministries or census tables.
 9. **Improve consumption comparisons.** Request unpublished commodity detail from national household-expenditure, total-diet, or supply-utilization programmes. Prefer annual mass per capita and record the denominator and food universe.
 10. **Test global reach and comprehension only for a named decision.** Map durian retailers and distributor interviews against census geography where a Character or later Emoji question requires it. Do not infer purchaser identity from neighbourhood alone.
-11. **Build any additional rights-cleared sign corpus justified by the gap audit.** Commission or request missing photographs only after the interchange, recognition or provenance work identifies the exact missing cell.
+11. **Build any additional publication-permitted sign corpus justified by the gap audit.** License, commission, or request missing photographs only after the interchange, recognition, or provenance work identifies the exact missing cell.
 12. **Preserve negative and uncertain findings and reuse the method.** Record searches and enquiries that find no crop, sign, workflow or recollection, and apply [Geographic evidence research for symbol proposals](<../../../Methods/Geographic evidence research for symbol proposals.md>) to later subjects without importing Durian conclusions.
 
 ## Review status

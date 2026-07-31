@@ -1,6 +1,6 @@
 ---
 title: Content sources and licensing
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - project
   - governance
@@ -13,16 +13,7 @@ This note is a compact register and decision aid for third-party content sources
 
 ## Evidence first, rights aware
 
-Seek the strongest available evidence from any source type. Rights status affects acquisition, storage, reproduction, and publication decisions, but does not determine evidential weight. Do not replace stronger restricted evidence with weaker open evidence merely to simplify publication.
-
-When sources are similarly probative and suitable, the project owner’s high-level preference is:
-
-1. public-domain, openly licensed, or comparably redistribution-friendly content;
-2. content covered by explicit contributor permission, even without an open licence;
-3. licensed stock content that is compatible with the intended project use; then
-4. limited use of other material after an item- and destination-specific fair-use or fair-dealing review.
-
-This is a non-binding sourcing preference, not an exclusion rule or a presumption that every item within one category is preferable to every item in another.
+Seek the strongest available evidence from any source type. Rights status affects acquisition, storage, reproduction, and publication, but not evidential weight. Apply the sourcing preferences and managed-risk decision standard in [Evidence storage and publication](<Evidence storage and publication.md>); this note records only source availability and provider-specific controls.
 
 ## Keep three questions separate
 
@@ -38,7 +29,7 @@ Record only the small number of provider or product questions that could immedia
 
 ### Actual asset use
 
-Record actual acquisition and use with the candidate or evidence item, not in the available-source entry. The item-level record should identify the provider and stable asset ID, creator or contributor, governing agreement, acquisition and download evidence, intended destinations, permitted use, attribution, restrictions, derivatives, and publication decision. Keep private account, payment, subscription, and full contractual evidence outside the public repository under [Evidence storage and publication](<Evidence storage and publication.md>).
+Record actual acquisition and use with the candidate or evidence item, not in the available-source entry. An item or scoped group record should identify the provider and stable asset IDs, creator or contributor, governing agreement, acquisition and download evidence, use context, permitted use, attribution, restrictions, covered derivatives and channels, material-change triggers, and publication decision. Keep private account, payment, subscription, and full contractual evidence outside the public repository under [Evidence storage and publication](<Evidence storage and publication.md>).
 
 ## Time-limited acquisition access
 
@@ -48,7 +39,7 @@ When a strong evidence source may cease to be available for new licensing:
 - acquire only items with documented evidential value or a plausible project use, rather than building an undifferentiated speculative archive;
 - before acquisition, verify whether the governing agreement permits private archival retention and the contemplated later use after access to new licences ends;
 - preserve the supplied original, asset identity, acquisition date, governing terms, and account evidence privately; and
-- review every later incorporation and publication destination against the agreement that governed the acquisition.
+- reassess a later incorporation only when its context, function, audience, transformation, access model, or governing terms differ materially from the recorded scope.
 
 Licensing an item early can preserve an otherwise temporary acquisition opportunity, but it does not establish permission for an unidentified future use or move the supplied asset into the public project archive.
 
@@ -71,12 +62,12 @@ Official platform documentation is a separate source type. Documentation for [Sl
 
 ### Licensing, access, and privacy issues to check
 
-Treat directory images as cite-only leads unless an item-level rights review supports another use:
+Treat directory images as discovery leads. A public item may also be reproduced when its licence permits the use or when the item itself is materially discussed under the project’s non-free-content standard; do not rehost a directory asset merely as decoration or as a substitute for the provider’s service:
 
-- Slackmojis’ [terms](https://slackmojis.com/terms) were last updated on 1 June 2023 and checked on 29 July 2026. A download button does not establish a project-compatible redistribution licence; preserve the item URL and seek a creator, source, or permission basis before reproducing an image.
+- Slackmojis’ [terms](https://slackmojis.com/terms) were last updated on 1 June 2023 and checked on 29 July 2026. A download button does not establish a project-compatible redistribution licence; preserve the item URL and identify the creator, source, licence, or other basis relied on for any reproduction.
 - EmojiBox’s [terms](https://www.emojibox.app/terms), last updated 9 May 2026 and checked on 29 July 2026, say that contributors retain their rights and grant EmojiBox the licence needed to operate its private and public services. Do not treat that provider-facing licence as a downstream licence to the project. The terms also restrict disruptive scraping and re-hosting of the catalogue.
 - Emoji.gg’s [licence guide](https://emoji.gg/licenses) and [terms](https://emoji.gg/terms), checked on 29 July 2026, describe uploader-selected licences. Record the exact item licence, creator, stable item ID, attribution, and restrictions; a general “Basic” or “Streamer” licence is not equivalent to an open redistribution licence, while an item expressly marked CC BY 4.0 or another permissive licence still requires its own compliance review.
-- GIPHY’s [User Terms of Service](https://support.giphy.com/hc/en-us/articles/360020027752-GIPHY-User-Terms-of-Service), effective 8 April 2024 and checked on 29 July 2026, say that contributors retain their content while granting GIPHY broad service-related rights. That grant does not provide a downstream project licence. The terms generally restrict copying, publication, distribution, display, commercial exploitation, and automated scraping unless the content is public domain, separately permitted, or otherwise lawfully usable; retain public links and metadata by default rather than copying a sticker.
+- GIPHY’s [User Terms of Service](https://support.giphy.com/hc/en-us/articles/360020027752-GIPHY-User-Terms-of-Service), effective 8 April 2024 and checked on 29 July 2026, say that contributors retain their content while granting GIPHY broad service-related rights. That grant does not provide a downstream project licence. The terms generally restrict copying, publication, distribution, display, commercial exploitation, and automated scraping unless the content is public domain, separately permitted, or otherwise lawfully usable; link and cite by default, while permitting a proportionate reproduction when the sticker itself is materially analysed and another legal basis applies.
 
 Do not install an app or extension, authorize OAuth access, join a private community, query a private workspace, or export workspace content without the project owner’s explicit authorization and a proportionate security, privacy, platform-terms, and contributor-rights review. A consented workspace inventory or usage count may be researchable, but it can expose messages, names, channel data, or internal conventions and therefore belongs under the evidence-storage policy.
 
@@ -88,9 +79,11 @@ No image from these services is recorded as acquired, incorporated, or published
 
 ### Availability
 
-As of 29 July 2026, the project owner reports access to an image-only Standard License subscription that may cease to be available for licensing new images. Treat this as a possible future source of licensable images, not as evidence that an asset has been acquired. The basis of access and its account or entitlement records are private.
+As of 31 July 2026, the project owner reports access to an image-only Standard Image License subscription, including some Images designated ‘Editorial Use Only’, that may cease to be available for licensing new images. Treat this as a possible future source of licensable Images, not as evidence that an asset has been acquired. The basis of access and its account or entitlement records are private.
 
 Do not import conditions from other plans, media, or account tiers; revisit the scope only if a future acquisition uses a materially different product.
+
+The ‘Editorial Use Only’ designation available under the reported access is distinct from Shutterstock’s separate Editorial Collection and Editorial License, to which the project does not have access. This entry does not summarize or apply those separate terms.
 
 ### Project boundary for proposal glyphs and evidence
 
@@ -99,22 +92,22 @@ No Shutterstock or other stock asset will supply, or be copied or traced to prod
 Stock material may nevertheless have evidential value:
 
 - a photograph may document a physical sign or another displayed occurrence containing the candidate, subject to verification that the scene and relevant context are authentic and independently existing;
-- a vector or illustration may document marketplace availability, supplied terminology, a represented visual convention, or stock-creator treatment of a symbol, and may lead to stronger contextual evidence; and
+- a vector or illustration may document stock-library availability, supplied terminology, a represented visual convention, or stock-creator treatment of a symbol, and may lead to stronger contextual evidence; and
 - a vector or illustration of a sign is not by itself evidence that the depicted sign physically exists, that the symbol is independently used, or that anyone interchanges it as plain text.
 
-A licensed stock image may be incorporated into a research publication or formal proposal solely as separately identified evidence after an item- and destination-specific review. That review must cover the proposal’s public distribution, Unicode’s publication and retention of submissions, any permitted modification, required credit, embedded third-party rights, and the prohibition on redistributing or exposing the supplied stock asset independently of the project work. Seek provider or Unicode confirmation where the interaction of those terms remains ambiguous.
+A licensed stock image is contract-bound source material and therefore receives the closer, but not adverse, source-sensitive review. It may be incorporated into a research publication or formal proposal as separately identified evidence when the governing licence permits that use. Cover public distribution, Unicode’s publication and retention of submissions, permitted modification, required credit, relevant third-party rights, and the restriction on offering the supplied stock asset independently of the research work. One decision may cover the proposal and its in-context distribution through licence-defined channels; seek provider or Unicode confirmation only when a material interaction remains ambiguous.
 
-Many potentially useful photographs of signage may be designated ‘Editorial’ because rights in the photographed sign or other depicted elements have not been cleared for general commercial use. Shutterstock’s current public terms define editorial use as a single descriptive use in a newsworthy or human-interest context, distributable worldwide and in-context across channels, while excluding advertising and merchandising. A Unicode proposal that reproduces a photograph solely to document and analyse an independently existing sign is provisionally closer to that editorial category than to commercial promotion. This is a working interpretation, not blanket clearance: confirm the exact item and plan, required credit, special restrictions, Unicode’s posting and retention of the proposal, whether a revised proposal is a further use, and every separate project or website publication. Shutterstock’s warranty for Editorial content also expressly excludes intellectual-property rights in elements depicted within the photograph, so the sign itself remains a separate rights question.
+For an Image designated ‘Editorial Use Only’, preserve and apply the exact Image licence and item-level restrictions attached to the acquisition. Shutterstock’s current terms prohibit commercial purposes such as advertising, merchandising, and other non-editorial uses, and prohibit modification that changes the context of what is depicted. Editorial use of an Image also requires an adjacent credit to the contributor and Shutterstock. Classify the function of the use rather than the publisher’s ownership or revenue model: a descriptive research publication or proposal may be compatible when it documents and analyses the depicted subject in context. Check the presentation, modification, special restrictions, and distribution against the governing terms.
 
 ### Licensing issues to check
 
 Before acquiring or integrating an image:
 
-- confirm that the item is available under the exact current plan; the public [Shutterstock licence terms](https://www.shutterstock.com/license) were last checked on 30 July 2026, but preserve the exact governing terms and relevant account or order evidence privately at acquisition;
-- record the asset ID, contributor or agency, image or Editorial designation, download date, and any special restrictions, required credit, or stated model or property release information;
-- map the proposal, public repository, website, social-media post, or other intended destination to a permitted use, distinguishing incorporation into a project work from redistribution of the supplied image;
+- confirm that the item is available under the exact current plan; the public [Shutterstock licence terms](https://www.shutterstock.com/license) and [editorial-use guidance](https://www.shutterstock.com/help/en/articles/10617108-how-can-i-use-editorial-content) were last checked on 31 July 2026, but preserve the exact governing terms and relevant account or order evidence privately at acquisition;
+- record the asset ID, contributor or agency, Image designation, ‘Editorial Use Only’ status where applicable, download date, and any special restrictions, required credit, or stated model or property release information;
+- map the research work and its distribution context to a permitted use, distinguishing descriptive in-context incorporation from advertising, merchandising, another non-editorial use, or redistribution of the supplied Image;
 - confirm who may access and use the downloaded file under the account or seat entitlement, and keep the supplied original outside public Git and Git LFS;
-- review every crop, annotation, other derivative, and new publication destination separately; and
+- define the permitted crop, annotation, derivative, and in-context channel scope once, then reassess only a materially changed use; and
 - before uploading a licensed image to an external model or AI-enabled service, apply [External model research intake](<../Methods/External model research intake.md>) and verify that the governing licence and service handling permit the upload.
 
 If a notice, claim, provider removal, or changed-rights issue later affects an acquired image, apply the specific governing agreement and the correction and withdrawal procedure in [Evidence storage and publication](<Evidence storage and publication.md>). Preserve a private incident record where permitted, but do not let ordinary archival practice override a binding removal obligation.

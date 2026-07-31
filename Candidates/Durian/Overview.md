@@ -1,6 +1,6 @@
 ---
 title: Durian overview
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - candidate
   - durian
@@ -80,7 +80,7 @@ The project will accumulate a larger archive of images than will appear in the f
 
 Research from this and other character-proposal projects may become source material for corresponding pages on my personal website, whether or not a proposal is approved.
 
-Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party reference material remains excluded from that blanket licence and must retain its own rights record. Creative Commons works, separately licensed stock, permission-cleared material, and narrowly used non-free references require different handling under [Evidence storage and publication](<../../Project/Evidence storage and publication.md>); [Content sources and licensing](<../../Project/Content sources and licensing.md>) records acquisition preferences and provider-specific checks. The evidence archive must not imply that everything stored locally can be redistributed.
+Original project text and assets are intended for publication under CC BY-SA 4.0. Third-party evidence remains excluded from that blanket licence and retains its own rights record. Apply [Evidence storage and publication](<../../Project/Evidence storage and publication.md>) and, where applicable, the provider-specific checks in [Content sources and licensing](<../../Project/Content sources and licensing.md>). The evidence archive must not imply that everything stored locally can be redistributed.
 
 ## Version control
 

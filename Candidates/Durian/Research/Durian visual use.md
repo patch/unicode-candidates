@@ -1,6 +1,6 @@
 ---
 title: Durian visual use
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-31
 tags:
   - durian
   - visual-evidence
@@ -54,4 +54,4 @@ One commissioned logo proves only that a designer found a durian form legible in
 
 ## Rights
 
-The research record may cite or retain a low-resolution reference to non-free branding for identification and critical commentary, subject to a documented fair-use or fair-dealing assessment. That is not a declaration that reproduction is automatically lawful. Creative Commons, commissioned, permission-cleared, separately licensed stock, and non-free references must remain separately labelled; none becomes part of the project’s CC BY-SA 4.0 licence unless its terms permit that treatment.
+Apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) when reproducing branding or other third-party visual evidence. Record the item-specific provenance, attribution, rights basis, and context; third-party material does not become part of the project’s CC BY-SA 4.0 licence unless its terms permit that treatment.

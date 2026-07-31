@@ -20,7 +20,7 @@ source_ids:
 last_reviewed: 2026-07-22
 ---
 
-Official agricultural surveys establish an expanding crop and regional seasonal demand. A photographed Phnom Penh building/accommodation rule sign provides a traceable non-marketing occurrence, though reuse rights are not cleared.
+Official agricultural surveys establish an expanding crop and regional seasonal demand. A photographed Phnom Penh building/accommodation rule sign provides a traceable non-marketing occurrence, though the current source remains reference-only for reproduction.
 
 ## Classification
 

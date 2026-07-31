@@ -24,7 +24,7 @@ source_ids:
 last_reviewed: 2026-07-22
 ---
 
-Indonesia is in both native-range mappings, is a major producer, and has official household-consumption data. A scholarly hotel-signage corpus documents a no-durian sign; a rights-cleared, venue-specific photograph is still desirable.
+Indonesia is in both native-range mappings, is a major producer, and has official household-consumption data. A scholarly hotel-signage corpus documents a no-durian sign; a publication-permitted, venue-specific photograph would improve the visual record if later research shows that the gap matters.
 
 ## Classification
 

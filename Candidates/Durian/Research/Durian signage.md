@@ -1,6 +1,6 @@
 ---
 title: Durian non-marketing signage
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - durian
   - signage
@@ -21,7 +21,7 @@ The verified web and scholarly register below remains the geographic source set 
 |---|---|---:|---|---|---|
 | SG | Singapore MRT prohibition sign | 2015 photograph | A transit prohibition pictogram specifically depicting durian | Photograph by CEphoto, Uwe Aranas on Wikimedia Commons; CC BY-SA 3.0. Retain the specified attribution, source, licence link, and share-alike terms ([S01](Sources.md#s01)) | Verified photographed physical sign; potentially reusable with attribution |
 | TH | Hotel in Hua Hin | 1998 photograph | “No durian” hotel rule/pictogram | Wikimedia Commons; CC BY-SA 2.5/GFDL. Exact contemporary venue status is not known ([S03](Sources.md#s03)) | Verified photographed physical sign; potentially reusable |
-| TH | Bangkok MRT platform entrance | January 2022 footage | Contemporary no-durian sign at metro access | Editorial stock footage; reference use only unless licensed ([S04](Sources.md#s04)) | Verified photographed physical sign; not cleared |
+| TH | Bangkok MRT platform entrance | January 2022 footage | Contemporary no-durian sign at metro access | Editorial stock footage; eligible for licensed descriptive use if the exact plan, item, and context permit it ([S04](Sources.md#s04)) | Verified photographed physical sign; not yet licensed |
 | MY | Hotel in Malaysia | February 2006 photograph | Hotel prohibition sign including durian | Flickr user photograph; licence/permission must be checked at source ([S06](Sources.md#s06)) | Verified photographed physical sign; rights unverified |
 | MY | Kuala Terengganu hotel | September 2009 traveller photograph | A hotel rule sign prohibiting durian | TripAdvisor contributor image; rights unverified ([S13](Sources.md#s13)) | Verified photographed physical sign; reference only |
 | VN | Hotel in Ho Chi Minh City | May 2024 traveller photograph | Hotel sign combining no smoking and no durian | 4travel user photograph; rights unverified ([S08](Sources.md#s08)) | Verified photographed physical sign; reference only |
@@ -70,15 +70,15 @@ For every new sign:
 - distinguish “visible on a public web page” from “licensed for reuse”;
 - record whether the asset is public domain, Creative Commons licensed, separately licensed stock, permission-cleared, a non-free reference, rights unknown, or not publishable;
 - for stock material, apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) and the relevant provider section in [Content sources and licensing](<../../../Project/Content sources and licensing.md>);
-- obtain written venue and photographer permission where a later proposal may reproduce it;
-- photograph both a legible close view and a wider contextual view;
+- establish a licence, permission, or other documented legal basis for reproducing the photograph; do not require venue or sign-owner permission solely because a publicly visible sign, logo, person, or property is depicted in a truthful descriptive use;
+- photograph both a legible close view and a wider contextual view, and use fit-for-purpose quality and context in any publication;
 - transcribe exact wording and translate it, retaining uncertainty;
 - code whether the image is a whole fruit, cut fruit, silhouette, generic spiky fruit, text-only word, or fruit with a prohibition slash.
 
-## Why the corpus is not yet publication-ready
+## Current publication position
 
-The two Wikimedia examples have immediately intelligible reuse routes, and both have limitations: the Thai hotel image is old, while the Singapore image requires attribution and share-alike compliance. Other web examples remain useful occurrence evidence even where rights are unclear or restrictive. A low-resolution non-free reproduction for critical commentary may be considered under a documented fair-use or fair-dealing rationale, but that is a rights-review decision rather than automatic clearance.
+The two Wikimedia examples have documented reuse routes. Sandy Patch’s six public-world records may be published as a selected group under his scoped CC BY-SA 4.0 permission, with the required attribution and share-alike notice. Other web examples remain useful occurrence evidence even when their reproduction basis is unresolved or restrictive.
 
-Sandy Patch’s contributed photographs have a scoped CC BY-SA 4.0 permission record, but each proposed reproduction still needs a crop, attribution, contextual-privacy and third-party sign-content review. Jennifer Liepin’s screenshot and the underlying Airbnb house-rules image are not cleared by Sandy’s permission and should remain metadata-only unless their separate creator, content, logo, platform and redaction questions are resolved.
+For DUR-EVID-0007, the complete screenshot remains private. A crop containing only the Airbnb host content is a candidate public derivative whose basis depends on the underlying content rather than a separate permission from the screenshot supplier. It remains subject to selection, redaction, and a scoped non-free-use decision. Apply [Evidence storage and publication](<../../../Project/Evidence storage and publication.md>) for the governing standard and [Contributor rights](<Contributor rights.md>) for these asset-specific decisions.
 
 The highest-value next work is no longer broad field collection. It is the bounded plain-text-interchange and counterargument audit, followed by an unlabelled small-form recognition test. Commission or seek additional photographs only when those studies expose a material territory, venue, form, source-independence or rights gap.

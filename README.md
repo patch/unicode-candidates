@@ -36,6 +36,8 @@ Folders are added only when there is material to place in them. Related but inde
 
 Research distinguishes observed evidence, sourced claims, working inferences, and proposal decisions. It records material provenance, source quality, access dates, geographic and usage context, and publication rights where available. Negative and unresolved findings are retained when they improve the assessment.
 
+Publication follows the project’s [Evidence storage and publication](<Project/Evidence storage and publication.md>) policy. Third-party material remains under its own terms and is not offered as a reusable project asset.
+
 Research received from Gemini, NotebookLM, ChatGPT, or another external model follows [External model research intake](<Methods/External model research intake.md>): model output is treated as a lead or analytical artefact, and the underlying source must be checked before a finding enters integrated project research.
 
 Original evidence is preserved unchanged. Derivatives such as crops or annotations remain linked to their originals. Availability, exposure, observed symbol use, and demonstrated comprehension are treated as separate evidential steps.

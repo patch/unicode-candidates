@@ -1,7 +1,7 @@
 ---
 title: Geographic evidence research for symbol proposals
 method_status: reusable working method
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-31
 tags:
   - method
   - unicode-research
@@ -192,14 +192,14 @@ Record rights using categories that preserve the relevant distinction:
 
 - public domain;
 - Creative Commons, with exact licence, attribution, adaptation, and share-alike requirements;
-- separately licensed stock, with the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, intended destination, and separate derivative and publication review;
+- separately licensed stock, with the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, intended context, covered derivatives and distribution channels, and material-change review triggers;
 - permission granted, with scope and evidence of permission;
-- non-free reference, with any proposed low-resolution critical use and fair-use or fair-dealing rationale documented for review;
+- non-free reference or reproduction, with the source, creator, use context, amount, market-substitution assessment, and fair-use, fair-dealing, or other legal basis recorded to the level warranted by the uncertainty; and
 - rights unknown or not publishable.
 
 The project’s CC BY-SA 4.0 licence for original work does not override third-party rights or automatically make every compatible-looking asset redistributable.
 
-Apply [Evidence storage and publication](<../Project/Evidence storage and publication.md>) to public assets, private originals, and safe public records for privately held material. Apply [Content sources and licensing](<../Project/Content sources and licensing.md>) when comparing acquisition routes or checking a provider.
+Apply [Evidence storage and publication](<../Project/Evidence storage and publication.md>) to public assets, private originals, and safe public records for privately held material. Record the standard provenance and publication fields for ordinary uses; add a fuller rationale only when a geographic source or use is materially ambiguous or consequential. Apply [Content sources and licensing](<../Project/Content sources and licensing.md>) when comparing acquisition routes or checking a provider.
 
 ### 11. Store according to information shape
 
@@ -224,7 +224,7 @@ Before publication or proposal use:
 - verify every numerical transcription;
 - test every external URL and preserve durable copies where lawful;
 - confirm that every substantive claim maps to a source;
-- separate cleared from uncleared images;
+- separate permitted, restricted, and unresolved images;
 - record the review date, dataset version, and known gaps.
 
 ## Reusable output set
@@ -256,7 +256,7 @@ Use the same evaluation dimensions across subjects, while allowing any of four e
 | Lexical gap | Is text or an existing symbol inadequate for the observed function? |
 | Cultural breadth | Is use national/regional, specialist, or predominantly diaspora-based? |
 | Confusability | Could viewers mistake it for an existing character or a generic fruit/object? |
-| Evidence quality | Are examples dated, located, independent, and rights-cleared? |
+| Evidence quality | Are examples dated, located, independent, and lawfully usable or documented with an explicit publication status? |
 
 A negative or weaker case is still a valid research result and may support a useful public article explaining why encoding is not warranted. Do not lower thresholds merely to make projects look comparable.
 
@@ -300,5 +300,9 @@ A negative or weaker case is still a valid research result and may support a use
 ### 2026-07-29 — content-source governance
 
 - Retained provider-neutral stock fields in this method and routed potential-source availability and provider-specific checks to [Content sources and licensing](<../Project/Content sources and licensing.md>); actual use remains item-specific.
+
+### 2026-07-31 — managed-risk publication review
+
+- Adopted the project-wide source-sensitive managed-risk standard, including scoped decisions, genuine-equivalence and fit-for-purpose tests, and proportionate records. The operative policy and its source distinctions are maintained in [Evidence storage and publication](<../Project/Evidence storage and publication.md>).
 
 Future research should append concise refinements here when a method changes, including why it changed and which earlier results may need review.

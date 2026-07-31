@@ -1,6 +1,6 @@
 ---
 title: Evidence storage and publication
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - project
   - governance
@@ -12,14 +12,39 @@ This policy separates evidential value from rights, privacy, publication, and st
 
 Classify material before it enters public Git history. A source being visible online, locally available, purchased, or technically storable does not make it publishable. [LICENCE.md](../LICENCE.md) governs the project’s blanket licence; third-party terms and item-specific permissions remain controlling for their material.
 
+## Risk posture and decision standard
+
+The project uses a source-sensitive managed-risk standard with a rebuttable presumption in favour of publishing authentic, well-provenanced public-interest evidence. The objective is to advance open research, open standards, freedom of information, and common human knowledge while respecting creators, copyright, licences, safety, and proportionate harm reduction. An informed, correctable decision is sufficient; zero residual risk is not the objective.
+
+Public-world evidence—including publicly displayed signs, logos, packaging, property, and incidental people—is normally eligible for truthful descriptive, documentary, critical, or other editorial use. A non-free asset or absent model or property release does not by itself require private-only treatment. Private or unpublished material, private-message and account-derived content, sensitive people or settings, and contract-bound source files receive closer review because their provenance, privacy, access, or agreed-use conditions differ materially. Closer review is not a presumption against publication.
+
+Publish when:
+
+- the project has a licence, permission, or other documented legal basis covering the use;
+- the material meaningfully supports a research claim, identification, comparison, criticism, or explanation and is used in relevant context rather than as decoration, advertising, merchandising, or an endorsement;
+- attribution, notices, modification limits, special restrictions, and access conditions can be met;
+- the presentation is accurate and does not materially misrepresent, defame, or expose a person to disproportionate privacy or safety harm; and
+- the asset is incorporated into the research work rather than offered as a reusable substitute for the source asset.
+
+The absence of a release can limit promotional or other commercial exploitation without prohibiting every editorial use. Likewise, the fact that a newspaper, magazine, research platform, or standards body is corporate-owned, revenue-generating, or professionally produced does not by itself make a descriptive use advertising or merchandising. Classify the function and context of the use under the actual governing terms.
+
+Prefer public-domain, openly licensed, permissioned, or otherwise more reusable material when it is genuinely equivalent. A generic substitute is not equivalent when the particular artefact’s appearance, occurrence, provenance, age, location, or context is itself evidence. Use fit-for-purpose quality and context: enough resolution, extent, and surrounding detail for a reader to inspect the claim, without copying material that adds no research value or unnecessarily substitutes for the source.
+
+English Wikipedia’s [image-use policy](https://en.wikipedia.org/wiki/Wikipedia:Image_use_policy) and [non-free-content policy](https://en.wikipedia.org/wiki/Wikipedia:Non-free_content), checked on 31 July 2026, inform the project’s attention to provenance, contextual significance, market substitution, privacy, and clear rights labelling. Wikipedia deliberately applies rules stricter than United States fair use to maximize unrestricted downstream reuse. This smaller research project does not adopt Wikipedia’s absolute no-free-equivalent rule, routine low-resolution presumption, ten-part test, per-use rationale, or namespace controls.
+
+Where United States fair use is the basis, apply the purpose, nature, amount, and market-effect factors summarized by the [United States Copyright Office](https://www.copyright.gov/fair-use/more-info.html), checked on 31 July 2026. The Copyright Office identifies research, scholarship, criticism, and commentary as potentially qualifying purposes and rejects fixed percentage or amount rules. Other jurisdictions may provide different exceptions.
+
+Escalate when the terms or legal basis are materially ambiguous; the proposed use is promotional, out of context, or a plausible market substitute; an alteration could change meaning; a private or restricted setting is involved; the material concerns a child, vulnerable person, allegation, medical or other sensitive context; precise personal or location data are unnecessary; or a complaint, special restriction, or jurisdiction-specific issue creates a concrete concern. Record only the reason and decision needed for collaborators to understand the result. Do not require extra permission merely because third-party content is depicted when no governing term, applicable rule, or material contextual risk calls for it.
+
 ## Zone 1: public repository material
 
 The public repository may contain:
 
 - original project text and assets intended for distribution under the project licence;
 - public-domain, Creative Commons, permission-cleared, or otherwise distributable evidence when the exact rights basis and every applicable attribution, adaptation, notice, and share-alike duty are recorded and met;
+- third-party material incorporated into a permitted editorial, documentary, critical, or other limited use, with its own rights notice and without representing it as a reusable project asset;
 - metadata, citations, and evidence records that are safe to publish;
-- public derivatives whose publication has been separately assessed; and
+- public derivatives covered by an item-specific or scoped publication decision; and
 - exact submitted-proposal snapshots and other intentionally public release artefacts.
 
 “Rights-cleared” is specific to the intended publication and does not mean that an item becomes project-owned or covered by CC BY-SA 4.0. Third-party material must retain its own rights notice. A public citation may remain publishable even when downloading or redistributing the cited asset is not.
@@ -32,7 +57,7 @@ The project is responsible for obtaining and observing the rights needed for its
 
 The private archive holds material that may be inspected for research but is not approved for public redistribution or disclosure, including:
 
-- non-free originals and rights-unknown copies retained where lawful;
+- source-quality non-free originals, rights-unknown copies, and other files retained for research but not selected for public use;
 - restricted stock and other account-licensed assets;
 - private correspondence, permission evidence, purchase or subscription records, and account-linked licence documents;
 - unpublished field material;
@@ -57,13 +82,13 @@ Record, at a proportionate level:
 - identifiers for any public derivatives and their relationship to the private original; and
 - file format, byte size, and a named checksum such as SHA-256 where they materially improve integrity checking and are safe to disclose.
 
-Withhold or generalize a field when publication would expose a person, a sensitive location, confidential terms, or another avoidable risk. State the nature of the omission when that can be done safely, and qualify any public claim that cannot be audited beyond the resulting record.
+Withhold or generalize a field when publication would expose confidential terms or create a material privacy, safety, contractual, or legal risk disproportionate to its research value. State the nature of the omission when that can be done safely, and qualify any public claim that cannot be audited beyond the resulting record.
 
 ## Originals and derivatives
 
-Preserve an acquired or captured original unchanged and identify it independently of its filename. Give every crop, resize, annotation, redaction, transcription image, and other derivative its own identifier; link it to the original and record who made it, when, by what material transformation, and for what purpose.
+Preserve an acquired or captured original unchanged and identify it independently of its filename. Do not require a separate identifier or process log for every mechanical working crop or resize. Give a public or decision-bearing derivative its own identifier when it changes the evidential meaning, rights or privacy analysis, redaction, attribution, or citation target; otherwise record the transformation at the scoped group or publication-package level. Link every published derivative to its original and describe the material transformation and purpose.
 
-Rights and privacy must be assessed for both files. A derivative does not acquire public status merely because it is smaller, transformed, or project-created. Conversely, a permitted public derivative may be stored in Zone 1 while its source original remains in Zone 2. Do not overwrite an original to make a correction or redaction.
+The publication decision must cover the derivative as used. It may do so through an existing scoped decision when the transformation and context are materially alike. A derivative does not acquire public status merely because it is smaller, transformed, or project-created. Conversely, a permitted public derivative may be stored in Zone 1 while its source original remains in Zone 2. Do not overwrite an original to make a correction or redaction.
 
 ## Licence, permission, and stock documentation
 
@@ -71,15 +96,17 @@ For Creative Commons and other licensed material, record the rights holder or cr
 
 For permission-cleared material, identify the covered evidence IDs and retain the primary permission record privately. The public summary should state the grantor, permitted uses and publication channels, adaptation and attribution conditions, duration or withdrawal terms if stated, and any unresolved limit without exposing private correspondence.
 
-For stock and other account-licensed material, record the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, and intended publication destination. Keep account-linked, payment, order, purchase, subscription, and full licence evidence private. Access, purchase, subscription, or download does not establish permission to redistribute the supplied asset or place a restricted original in public Git or Git LFS. Assess each derivative, incorporation, and publication destination separately against the governing terms.
+For stock and other account-licensed material, record the provider, stable asset ID, governing licence or agreement, acquisition date, permitted use, required attribution, restrictions, and intended use context. Keep account-linked, payment, order, purchase, subscription, and full licence evidence private. Access, purchase, subscription, or download does not establish permission to redistribute the supplied asset or place a restricted original in public Git or Git LFS. A single documented decision may cover a defined research work, its permitted derivatives, and its in-context distribution across named or licence-defined channels. Reassess a new use when its context, function, audience, transformation, access model, or governing terms change materially.
+
+Record model- and property-release information when supplied or material to the intended use. Do not treat the lack of a release as a universal prohibition when the applicable licence or legal basis permits editorial or documentary use. Apply the same contextual approach to depicted signs, logos, trademarks, artwork, and recognizable property.
 
 For source availability, acquisition planning, or provider-specific issues, additionally apply [Content sources and licensing](<Content sources and licensing.md>) and the relevant item-level evidence record.
 
-A proposed low-resolution use of non-free material for identification, criticism, or commentary remains an item- and destination-specific fair-use or fair-dealing review question. Low resolution, cropping, attribution, or critical purpose is not automatic permission. Keep the original private; document the necessity, extent, context, rights uncertainty, and review outcome before any public reproduction.
+A limited reproduction of non-free material for identification, criticism, commentary, research, or another legally recognized purpose may be approved under a destination- and jurisdiction-appropriate analysis. Use fit-for-purpose rather than automatically low resolution: retain enough quality and context to make the evidence auditable, while avoiding unnecessary extent or a reusable substitute for the source work. Attribution, cropping, or critical purpose is relevant but not automatic permission. Keep any source-quality copy private unless its distribution is independently permitted. For an obvious low-risk use, the ordinary provenance and publication fields are enough; record a fuller purpose, amount, market-effect, and uncertainty rationale only when the basis is materially ambiguous or consequential.
 
 ## Correction, withdrawal, and changed rights
 
-Retain dated evidence of the licence or permission relied on. If a source changes its terms, a permission is disputed or withdrawn, privacy risk emerges, or metadata proves wrong:
+Retain dated evidence of the licence or permission relied on. If a source changes its terms, a permission is disputed or withdrawn, a credible concern is raised, privacy risk emerges, or metadata proves wrong:
 
 1. place future publication under review and update the public record’s status;
 2. preserve the original and prior record revision privately where retention remains permitted;
@@ -108,4 +135,4 @@ An LFS pointer in a public repository still leads to content intended for public
 
 ## Incremental adoption
 
-Keep organization proportional to the collection. Create a candidate evidence record, private catalogue, or asset directory only when material needs it; this policy does not require an empty directory tree or a universal table schema. Inventory and classify already held material before moving, publishing, or batch-importing it, and review ambiguous cases with the project owner.
+Keep organization and review proportional to the collection. Create a candidate evidence record, private catalogue, or asset directory only when material needs it; this policy does not require an empty directory tree, a universal table schema, or a legal essay for an ordinary use. Inventory and classify already held material before moving, publishing, or batch-importing it. Use scoped batch decisions for materially similar items, and review only ambiguous or consequential cases with the project owner.
