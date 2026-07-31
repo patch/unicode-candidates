@@ -1,6 +1,6 @@
 ---
 title: Unicode history and proposal status
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-31
 tags:
   - unicode
   - emoji
@@ -16,7 +16,7 @@ Durian has been discussed publicly in Unicode channels since 2015, appeared in f
 
 No proposal text, proposer identity, or item-specific response correspondence was recovered in the bounded public search. The available public sources bracket the 2022 batch process, but do not establish an official re-review eligibility date under the current four-year wording.
 
-The character-proposal and emoji-proposal paths remain distinct. The emoji restriction does not state that research or a character proposal to the Script Encoding Working Group must stop. Prepare the character case independently and treat emoji re-review as a step whose eligibility should be confirmed with the Emoji Standard & Research Working Group.
+The character-proposal and emoji-proposal paths remain distinct research tracks. The re-review restriction governs submission eligibility, not whether Emoji research should proceed; keep both research tracks active and develop each case against its own criteria. Current Unicode guidance separately says that proposals to emojify existing characters are no longer accepted, so do not assume that a character-first encoding could later acquire emoji treatment. If standardized emoji treatment remains a material objective, resolve submission routing before a non-emoji encoding could foreclose it. ([shared routing analysis](<../../../Research/Emoji and character proposal routing.md>))
 
 ## Documented chronology
 
@@ -72,19 +72,22 @@ This sequence materially qualifies the phrase ‘three rejected proposals’. Th
 
 ## Present procedural consequence
 
-The public material supports a date bracket, not one settled eligibility date. It also shows that the waiting period changed: archived guidance used two years in November 2022 and November 2023, while the checked November 2024 snapshot and current guidance use four years. The wording checked does not say whether the four-year period applies retroactively to a 2022 decline or whether the period starts at submission, committee decision, author notification, or public status publication. ([U06](Sources.md#u06), [U13](Sources.md#u13)) A strict decision-date calculation is therefore one possible administrative reading, not a conclusion compelled by the published statements.
+The public material does not establish how to calculate the waiting period. It shows that archived guidance used two years in November 2022 and November 2023, while the checked November 2024 snapshot and current guidance use four years. The wording does not say whether the later rule applies retroactively, whether ‘four years’ means four annual submission cycles, or whether an elapsed period starts at submission, committee decision, author notification or public status publication. ([U06](Sources.md#u06), [U13](Sources.md#u13)) A cycle-based interpretation and several elapsed-time interpretations are therefore reasonable planning possibilities, not official determinations.
 
-The following dates are useful for planning while preserving that uncertainty:
-
-| Date | Basis | Interpretation and limit |
+| Possible eligibility point | Basis | Interpretation and limit |
 |---|---|---|
-| 24 July 2026 | Four years after the status sheet’s ‘Date Submitted’ | Earliest plausible anniversary. No checked guidance says that submission starts the clock. |
-| Shortly after 3 November 2026 | Four years after the end of the fourth-quarter meeting, after which the 2022 authors were to be notified | Probable batch-notification anniversary, but no exact notification or durian decision date is public. |
-| 3 December 2026 | More than four years after the archived sheet captured on 2 December 2022 already marked durian ‘Declined’ | Conservative planning backstop if the present rule is applied retroactively and the relevant event occurred no later than public recording. It is not an official determination. |
+| 2026 annual submission cycle | Four proposal cycles after the 2022 cycle | Reasonable if ‘four years’ is administered by annual submission cycle; no checked source confirms or excludes this interpretation. |
+| 24 July 2026 | Four elapsed years after the status sheet’s ‘Date Submitted’ | Earliest anniversary interpretation. No checked guidance says that submission starts the clock. |
+| Shortly after 3 November 2026 | Four elapsed years after the fourth-quarter meeting, after which the 2022 authors were to be notified | Possible batch-notification interpretation, but no exact notification or durian decision date is public. |
+| 3 December 2026 | More than four elapsed years after the archived sheet captured on 2 December 2022 already marked durian ‘Declined’ | Conservative public-record interpretation if the present rule applies retroactively. It is not an official backstop. |
 
-The project should ask the Emoji Standard & Research Working Group whether a durian re-review is eligible, which event it treats as controlling, and whether the four-year rule applies to the 2022 decision. Until then, do not present any of the dates above as Unicode’s confirmed eligibility date.
+The project should ask the Emoji Standard & Research Working Group whether a durian re-review is eligible in the 2026 cycle, whether it calculates the waiting period by submission cycle or elapsed time, which event controls any elapsed-time calculation, and whether the four-year rule applies to the 2022 decision. Until then, do not characterize the 2026 cycle as either eligible or ineligible and do not present any date as Unicode’s confirmed eligibility point.
 
-The current emoji guidelines separately direct a widely used symbol that does not require colour towards the character-proposal process. The Script Encoding Working Group accepts character proposals and explicitly does not accept emoji proposals. Its current criteria require existing community use, a stable character repertoire, and a need for public interchange in plain text. ([U06](Sources.md#u06), [U07](Sources.md#u07)) The present emoji re-review restriction is not stated as a bar to that character route, although the character case must succeed on its own criteria.
+Eligibility uncertainty gates only the submission event. It is not a reason to delay, narrow or deprioritize Emoji research, even if the route were known to be unavailable for several years. Non-volatile research, adverse-factor testing and dated baselines may proceed; submission-sensitive requirements and prescribed Frequency snapshots should be refreshed near an actual submission.
+
+The current emoji guidelines separately direct a widely used symbol that does not require colour towards the character-proposal process. The Script Encoding Working Group accepts character proposals and explicitly does not accept emoji proposals. Its current criteria require existing community use, a stable character repertoire, and a need for public interchange in plain text. ([U06](Sources.md#u06), [U07](Sources.md#u07)) The re-review restriction is not stated as a bar to that character route, although the character case must succeed on its own criteria.
+
+That independence does not make character-first encoding a safe route to later emoji treatment. The current Emoji Submission FAQ does not accept proposals to emojify existing characters, and recent Unicode Technical Committee property work applies the same expectation to assigned non-emoji characters. If emoji treatment remains a material Durian objective, resolve the submission route before a non-emoji encoding could foreclose it. ([shared routing analysis](<../../../Research/Emoji and character proposal routing.md>))
 
 ## What the history does not establish
 
@@ -93,7 +96,7 @@ The current emoji guidelines separately direct a widely used symbol that does no
 - L2/17-400 does not identify which of its three grouped explanations applied to durian.
 - L2/18-027 welcomes a proposal but gives no assessment that it would meet the selection criteria.
 - The status spreadsheets do not show proposer names, submitted documents, response letters, or decision dates. The archived workflow labels clarify treatment but do not disclose the evidence or reasoning behind requested modifications or the 2022 decline.
-- The checked public guidance does not define the start of the waiting period, explain the change from two years to four, or state its transitional application.
+- The checked public guidance does not define the unit or start of the waiting period, choose between submission-cycle and elapsed-time readings, explain the change from two years to four, or state its transitional application.
 - The archived 2 December 2022 sheet establishes only that its three displayed outcomes were public no later than that capture.
 - No itemized public batch announcement naming the declined 2022 submissions was located in the official sources checked. The batch reports and the archived status sheet provide different parts of the date bracket.
 - The sources checked do not establish that ‘Durian (A)’, ‘Durian (B)’, or ‘durian’ is the submission discussed in any particular L2 document. Chronological proximity is not proof of identity.
@@ -111,6 +114,6 @@ The reusable archive-recovery workflow developed during these checks is recorded
 ## Research leads
 
 - Identify the unnamed larger set or more complete related proposal behind ‘Added to larger set’ and ‘Duplicate’ if author-held material, committee correspondence, or a new public archive becomes available. The principal public Emoji Subcommittee reports checked in this pass did not name it.
-- Ask the Emoji Standard & Research Working Group whether a durian re-review is eligible, which date or event starts the waiting period, and how the four-year rule applies to a decision made while the published rule was two years.
+- Ask the Emoji Standard & Research Working Group whether a durian re-review is eligible in the 2026 cycle, whether the waiting period is calculated by submission cycle or elapsed time, which event controls any elapsed-time calculation, and how the four-year rule applies to a decision made while the published rule was two years.
 - Seek author-held copies of the three submitted proposals and any response correspondence. The bounded public search is complete; further recovery now requires a new archive, external contact, or private material. Record provenance and rights before storing anything recovered.
 - If proposal documents are recovered, compare their arguments and evidence with the present character case rather than assuming that the earlier declines addressed signage or plain-text interchange.

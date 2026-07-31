@@ -4,7 +4,7 @@ This independent open-research project evaluates possible additions to the Unico
 
 The project concentrates on prospective, generally unencoded characters and symbols that may have a case for encoding. Physical signs and signage are studied as evidence of real-world symbol use, not as the entities Unicode would encode.
 
-Some candidates may be viable through the character-proposal process. Others are emoji-first and may be viable only through the emoji-proposal process; U+1F965 🥥 <span style="font-variant:all-small-caps">COCONUT</span> is a useful precedent. A candidate may also warrant investigation through both routes. Emoji characters and emoji sequences are plain text; the distinction here concerns proposal routes, not text versus emoji.
+Some candidates may be viable through the character-proposal process. Others are emoji-first and may be viable only through the emoji-proposal process; U+1F965 🥥 <span style="font-variant:all-small-caps">COCONUT</span> is a useful precedent. A candidate may also warrant active investigation through both routes. Emoji characters and emoji sequences are plain text; the distinction here concerns proposal routes, not text versus emoji. Because current Unicode guidance does not accept proposals to emojify existing characters, parallel research does not imply that a character-first encoding can later acquire emoji treatment; see [Emoji and character proposal routing](<Research/Emoji and character proposal routing.md>).
 
 ## Scope
 

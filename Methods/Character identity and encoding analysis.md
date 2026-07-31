@@ -1,7 +1,7 @@
 ---
 title: Character identity and encoding analysis
 method_status: reusable working method
-last_reviewed: 2026-07-30
+last_reviewed: 2026-07-31
 tags:
   - method
   - unicode-research
@@ -25,7 +25,7 @@ Keep three levels distinct in every output:
 | **Project analysis** | Reusable questions, comparison models, evidence classifications, falsification tests, and review procedures developed by this project |
 | **Candidate judgement** | The proposed identity, semantic boundary, evidence weighting, unification decision, repertoire contents, likely properties, route, and final recommendation for one candidate |
 
-The official baseline, checked on 29 July 2026, is as follows:
+The official baseline, checked through 31 July 2026, is as follows:
 
 - The Unicode Standard defines an abstract character as a unit of information used to organize, control, or represent textual data; it has no concrete form and is not a glyph. The Standard distinguishes character identity from rendered glyphs and defines plain text as a sequence of code points. ([Unicode 17.0, Chapter 3, D7](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-3/#G2212); [Chapter 2, §§2.2.3 and 2.2.5](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-2/))
 - The current [Script Encoding Working Group submission guidance](https://sew.unicode.org/guidelines) requires a proposed addition to be a character and not already encoded. It states that a character expressible as an existing character sequence would be a duplicate representation and is not suitable for encoding. Its three basic criteria are existing use by a community independent of the script creator where applicable, a repertoire whose characters are stable and not in active development, and need for public interchange in plain text. The guidance deliberately leaves the exact amount and form of evidence to case-by-case review and warns that meeting all three criteria does not guarantee acceptance.
@@ -33,6 +33,7 @@ The official baseline, checked on 29 July 2026, is as follows:
 - The current process accepts a single proposal PDF through the Script Encoding Working Group submission form. The form collects proposed property data, ISO/IEC 10646 summary information, and, where applicable, a font; the working group will not recommend a proposal without a suitably licensed font. The form contains more detailed requirements and must be rechecked before submission.
 - Unicode character names identify characters but do not necessarily express their full meaning. Once a character is encoded, its character name will not change, so naming errors cannot normally be repaired by renaming the character. ([Unicode Character Encoding Stability Policies](https://www.unicode.org/policies/stability_policy.html))
 - The Script Encoding Working Group does not accept emoji or flag proposals. The current [emoji-proposal guidance](https://www.unicode.org/emoji/proposals.html), last updated 20 May 2026, defines a separate process and multi-factor selection framework; it directs a widely used symbol that does not require colour towards the character-proposal process. Its inclusion factors include Usage level, supported by prescribed Frequency evidence, while its exclusion factors include Transient and Already representable. It also automatically declines several proposed identities, including signage, while noting that symbols used on signage may be encoded for reasons unconnected with emoji use.
+- The current [Emoji Submission FAQ](https://www.unicode.org/faq/emoji_submission.html) states that proposals to emojify existing characters are no longer accepted. UTS #51 separately defines an emoji character by `Emoji=Yes` and default emoji presentation by `Emoji_Presentation=Yes`; `Emoji_Presentation` is therefore not the proposal rule itself. The technical standard permits emoji-property changes between versions, but current committee practice treats assigned non-emoji characters as not available for later emojification. See [Emoji and character proposal routing](<../Research/Emoji and character proposal routing.md>).
 
 The sections below are the project’s analytical extension of that official baseline. They do not create new Unicode requirements. Every conclusion produced by applying them remains candidate-specific editorial judgement unless an official source is cited for it.
 
@@ -333,6 +334,10 @@ For the emoji-proposal route, apply the current emoji selection factors and excl
 
 An emoji character or emoji sequence is plain text, but emoji treatment does not encode a second abstract character. Existing emoji representation may answer one use case while leaving a separately evidenced non-emoji character question unresolved; equally, a character case does not guarantee emoji selection or presentation. State which evidence and requirement belongs to which route.
 
+Current Unicode guidance does not accept proposals to emojify existing characters. Accordingly, a candidate with a material and credible Emoji objective should normally take an emoji-first submission approach, or obtain route-specific guidance before a non-emoji encoding can foreclose that option. Use the Emoji objective and evidence as the trigger, not a visual guess that a character would probably be colourful: `Emoji=Yes` defines an emoji character, while `Emoji_Presentation=Yes` only defines its default presentation. Two-track research remains useful, but it is not a promise that two sequential submissions can cumulatively add character identity and later emoji treatment.
+
+Do not gate research on submission eligibility. A closed window, re-review waiting period, or other temporary administrative block affects when a proposal may be submitted, not whether the project should investigate the route, test adverse factors, develop non-volatile evidence, or preserve dated baselines. Refresh volatile proposal-form requirements and prescribed frequency snapshots near an eligible submission, but do not infer that an unresolved or distant submission date makes the route a lower research priority.
+
 Popularity, subject importance, repertoire similarity, visual appeal, category completion, or the existence of a pictogram does not independently establish character-encoding need. Current emoji guidance uses its own multi-factor selection framework; do not import one favourable emoji factor as if it satisfied the character criteria.
 
 Unicode emoji characters and standardized emoji sequences are plain text. A platform’s “custom emoji” may instead be a named image asset handled by a higher-level protocol; its entry, inline display, and reaction behaviour may align with emoji without making the asset plain text. Stickers, GIFs, and emotes are normally still farther removed: rich-media objects selected through search, a picker, an API, or a pack. Using any of these in a reaction position does not change its encoding status.
@@ -437,3 +442,7 @@ Append a dated refinement only after applying this method reveals a reusable cha
 ### 29 July 2026: custom emoji, reaction, and sticker evidence
 
 Registering public custom-emoji directories and sticker search revealed a reusable ambiguity between platform capability, asset or search availability, and actual inline, sharing, or reaction use. The method now distinguishes those evidence levels and places Unicode emoji plain text, platform custom emoji, and richer sticker, GIF, or emote assets in separate representation layers. This prevents a directory or search result from being mistaken for encoding evidence while retaining its value for discovering variants, local conventions, representative forms, and context-bearing occurrences.
+
+### 31 July 2026: Emoji-first routing and eligibility-independent research
+
+Reviewing the current no-emojification policy revealed that parallel Character and Emoji research cannot be treated as two necessarily sequential submissions. The method now distinguishes `Emoji=Yes` from `Emoji_Presentation=Yes`, prefers Emoji-first submission when standardized emoji treatment is a material and credible objective, and requires routing to be resolved before non-emoji encoding could foreclose later emoji treatment. It also separates submission eligibility from research priority so that a closed window or waiting period does not defer Emoji research; candidate strategies and ledgers written under the earlier sequential assumption require review.

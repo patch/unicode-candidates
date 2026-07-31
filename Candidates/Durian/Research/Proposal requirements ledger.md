@@ -1,7 +1,7 @@
 ---
 title: Durian proposal requirements ledger
-research_status: corpus-synthesis integration
-official_guidance_cutoff: 2026-07-30
+research_status: route-policy integration
+official_guidance_cutoff: 2026-07-31
 evidence_cutoff: 2026-07-31
 unicode_cutoff: 17.0.0
 emoji_cutoff: 17.0
@@ -15,7 +15,7 @@ tags:
 
 This is the first candidate application of the project’s [Proposal requirements ledger](<../../../Methods/Proposal requirements ledger.md>). It translates integrated Durian research into exact submission answers, provisional values, unsupported fields and named blockers. It is not a proposal draft or an indication that every listed requirement should be answered favourably.
 
-The present result supports continued Character research and deferral rather than drafting. The candidate has a coherent working identity, verified functional occurrences, a completed event-level audit of the private photo corpus and a documented Unicode history, but no demonstrated plain-text interchange need. The corpus shows five observed functional sign designs across seven event groups and preserves three material comparators; it does not establish an abstract character, unlabelled recognition, source-system independence or a plain-text workflow. Candidate-specific equivalence analysis, technical properties and a font remain incomplete. The Emoji route has additional blockers: re-review eligibility is unresolved, and the current prescribed Frequency evidence, Distinctiveness test and example images do not exist.
+The present result supports active parallel Character and Emoji research and deferral rather than drafting. The candidate has a coherent working identity, verified functional occurrences, a completed event-level audit of the private photo corpus and a documented Unicode history, but no demonstrated plain-text interchange need. The corpus shows five observed functional sign designs across seven event groups and preserves three material comparators; it does not establish an abstract character, unlabelled recognition, source-system independence or a plain-text workflow. Candidate-specific equivalence analysis, technical properties and a font remain incomplete. Emoji submission eligibility is unresolved, including whether the four-year rule is applied by annual cycle or elapsed time, and the current prescribed Frequency evidence, Distinctiveness test and example images do not exist. Eligibility gates submission only and does not defer or lower the priority of Emoji research.
 
 The row state describes the support for the recorded answer, not whether it favours encoding. Thus the absence of a demonstrated interchange need is `supported`, while a plausible favourable property value may remain `provisional`.
 
@@ -26,12 +26,12 @@ The row state describes the support for the recorded answer, not whether it favo
 | Candidate or repertoire | Durian |
 | Scope | One prospective generic durian-fruit character; not a separate ‘no durian’ composite or a repertoire |
 | Candidate phase | `researching` |
-| Routes under evaluation | Character proposal is the primary strategy; Emoji re-review is a separate deferred route |
+| Routes under evaluation | Active parallel Character and Emoji research; if standardized emoji treatment remains a material objective, prefer Emoji-first submission or obtain route-specific guidance before a non-emoji encoding |
 | Evidence cut-off | 31 July 2026 |
 | Stable Unicode version checked | Unicode 17.0.0 |
 | Emoji version checked, if applicable | Emoji 17.0 |
-| Official-guidance check | Candidate decision map checked the SEW guidance, emoji guidelines, pipeline and nonapproval archive on 29 July 2026; the project ledger reconciled the current submission fields on 30 July 2026 |
-| Ledger revision | Publication status corrected to distinguish scoped permission and presumptive eligibility from a future selection decision, 31 July 2026 |
+| Official-guidance check | Candidate decision map checked the SEW guidance, emoji guidelines, pipeline and nonapproval archive on 29 July 2026; the project ledger reconciled current submission fields on 30 July and the current Emoji Submission FAQ, UTS #51 property distinction and 2025 Unicode Technical Committee practice on 31 July 2026 |
+| Ledger revision | Route policy and eligibility interpretations integrated; Emoji research made explicitly independent of submission eligibility, 31 July 2026 |
 | Principal unresolved decision | Whether independent users preserve and need to interchange one generic durian unit outside sign artwork, words and higher-level systems |
 
 ## Shared candidate record
@@ -176,8 +176,8 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 
 | ID | Required answer or artefact | Current value | State | Support and destination | Rights or privacy | Refresh |
 | --- | --- | --- | --- | --- | --- | --- |
-| E-A01 | Current submission window and guidance | The 2026 window runs from 2 April through the end of 31 July 2026; current guidance was last updated 20 May 2026. Do not use the window without eligibility confirmation | `supported` | [Unicode history and proposal status](<Unicode history and proposal status.md#present-procedural-consequence>) |  | Before any later re-review |
-| E-A02 | Approval, request status and re-review restriction | Durian is not approved. Three status rows exist; the 2022 item is declined. The current four-year rule does not disclose its controlling event or transitional application, so eligibility is unconfirmed | `blocked` | [Present procedural consequence](<Unicode history and proposal status.md#present-procedural-consequence>) | Any direct eligibility correspondence requires a publication decision | Ask the Emoji Standard & Research Working Group before re-review |
+| E-A01 | Current submission window and guidance | The 2026 window runs from 2 April through the end of 31 July 2026; current guidance was last updated 20 May 2026. Eligibility for this cycle is unconfirmed, not established as unavailable | `supported` | [Unicode history and proposal status](<Unicode history and proposal status.md#present-procedural-consequence>) |  | Before any later re-review |
+| E-A02 | Approval, request status and re-review restriction | Durian is not approved. Three status rows exist; the 2022 item is declined. The current four-year rule does not choose between annual-cycle and elapsed-time readings, define a controlling event for elapsed time or state its transitional application, so 2026 eligibility is unconfirmed. This blocks submission, not research | `blocked` | [Present procedural consequence](<Unicode history and proposal status.md#present-procedural-consequence>) | Any direct eligibility correspondence requires a publication decision | Ask the Emoji Standard & Research Working Group before submission |
 | E-A03 | Automatic-decline screen | The intended identity is a generic fruit, not a logo, brand, UI icon, exact image, text-bearing design or complete sign. Signage is an evidence venue, but a signage-defined identity would be ineligible. Image rights and the generic boundary remain unresolved | `provisional` | [Evidence map](<Evidence to encoding-question map.md>) separates the generic entity from adverse brand, exact-image and signage identities | Rights analysis incomplete for future example images | Before drafting and submission |
 | E-A04 | Proposal title | Provisional form: *Proposal for Emoji: Durian*; no submission title has been approved | `provisional` | Working descriptive name only |  | With each revision |
 | E-A05 | Submitters, main contact and date | None designated | `unknown` | Future first-page and submission-form fields | Keep contact data private | When drafting begins |
@@ -190,8 +190,8 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 
 | ID | Required answer or artefact | Current value | State | Support and destination | Rights or privacy | Refresh |
 | --- | --- | --- | --- | --- | --- | --- |
-| E-I01 | Colour 18 × 18 image | None | `blocked` | Example-image design must follow identity and recognizability work |  | After eligibility and form review |
-| E-I02 | Colour 72 × 72 image | None | `blocked` | Depends on the same unresolved design and provenance as E-I01 |  | After eligibility and form review |
+| E-I01 | Colour 18 × 18 image | None | `blocked` | Example-image design may proceed as Emoji research after identity and recognizability work; submission eligibility is not a research dependency |  | During Emoji research and against the form before submission |
+| E-I02 | Colour 72 × 72 image | None | `blocked` | Depends on the same unresolved design and provenance as E-I01, not on submission eligibility |  | During Emoji research and against the form before submission |
 | E-I03 | Black-and-white 18 × 18 image | None | `blocked` | The corpus supplies candidate whole and cut forms, but small monochrome recognizability remains untested |  | After recognition testing |
 | E-I04 | Black-and-white 72 × 72 image | None | `blocked` | Depends on the same unresolved whole/cut boundary and testing as E-I03 |  | After recognition testing |
 | E-I05 | Image provenance | No proposal example image exists | `blocked` | E-I01–E-I04 identify the missing artefacts | Do not derive an example from stock, brand or sign artwork | Before public draft |
@@ -206,7 +206,7 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 | E-FI02 | Use in sequences | No sequence-use analysis has been performed | `unknown` | Requires a bounded analysis against the current Emoji repertoire |  | When Emoji changes |
 | E-FI03 | Breaks new ground | No Durian character or standardized sequence exists in the bounded current corpus, but absence and fruit-category fit do not by themselves satisfy this factor | `provisional` | [Existing fruit characters](<../../../Research/Existing Unicode characters with fruit referents.md#interpretation-for-the-durian-project>) |  | When Emoji changes |
 | E-FI04 | Distinctiveness | Not demonstrated at required sizes. Five-design variation supplies a test basis, while the adverse comparators show that spikiness alone is insufficient | `blocked` | E-I07 |  | After testing |
-| E-FI05 | Usage level and Frequency | None of the five prescribed Frequency snapshots has been collected under the current method | `blocked` | Sign counts, production, trade and cultural importance are not prescribed Frequency evidence | Screenshots must exclude account data | Near any eligible submission |
+| E-FI05 | Usage level and Frequency | None of the five prescribed Frequency snapshots has been collected under the current method. A dated baseline may be collected during active research and refreshed near submission | `blocked` | Sign counts, production, trade and cultural importance are not prescribed Frequency evidence | Screenshots must exclude account data | At a bounded research baseline and near submission |
 | E-FI06 | Completes an incomplete category | Unicode represents many fruit subjects, but no principled incomplete-category claim for Durian has been formulated | `unknown` | The bounded comparison prevents an unqualified completeness argument |  | When Emoji changes |
 | E-FI07 | Compatibility | No popular existing system requiring Durian compatibility has been documented | `unknown` | Requires a selected compatibility corpus and high-frequency evidence from any claimed system | Platform evidence may carry separate rights | At Emoji evidence cut-off |
 | E-FE01 | Already representable | No reviewed character or standardized Emoji sequence represents Durian. Full candidate-specific sequence testing remains incomplete | `provisional` | C-E02–C-E04 |  | When Emoji changes |
@@ -220,13 +220,13 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 
 | ID | Required answer or artefact | Current value | State | Support and destination | Rights or privacy | Refresh |
 | --- | --- | --- | --- | --- | --- | --- |
-| E-Q01 | Query plan | No current pre-registration of exact English or regional-language terms, qualifiers or ambiguity controls | `blocked` | Geographic work can inform languages and regions only after eligibility |  | Before running a snapshot |
+| E-Q01 | Query plan | No current pre-registration of exact English or regional-language terms, qualifiers or ambiguity controls | `blocked` | Geographic work can inform languages and regions now; the plan must be checked against the current prescribed method before each snapshot |  | During active Emoji research and before each snapshot |
 | E-Q02 | Personalization control | Not performed | `unknown` | Future Frequency-method record depends on E-Q01 | Future screenshots must omit account data | With each snapshot |
-| E-Q03 | Google Search | Not collected | `blocked` | Future Frequency record using the E-Q01 query plan |  | Near submission |
-| E-Q04 | Google Video Search | Not collected | `blocked` | Future Frequency record using the E-Q01 query plan |  | Near submission |
-| E-Q05 | Google Trends Web Search | Not collected with the required comparison and settings | `blocked` | Future Frequency record using the E-Q01 query plan and current required comparator |  | Near submission |
-| E-Q06 | Google Trends Image Search | Not collected with the required comparison and settings | `blocked` | Future Frequency record using the E-Q01 query plan and current required comparator |  | Near submission |
-| E-Q07 | Google Books Ngram Viewer | Not collected with the required comparison and settings | `blocked` | Future Frequency record using the E-Q01 query plan and current required comparator |  | Near submission |
+| E-Q03 | Google Search | Not collected | `blocked` | A dated baseline may be collected during active research using the E-Q01 query plan |  | At a bounded research baseline and near submission |
+| E-Q04 | Google Video Search | Not collected | `blocked` | A dated baseline may be collected during active research using the E-Q01 query plan |  | At a bounded research baseline and near submission |
+| E-Q05 | Google Trends Web Search | Not collected with the required comparison and settings | `blocked` | A dated baseline may be collected during active research using the E-Q01 query plan and current required comparator |  | At a bounded research baseline and near submission |
+| E-Q06 | Google Trends Image Search | Not collected with the required comparison and settings | `blocked` | A dated baseline may be collected during active research using the E-Q01 query plan and current required comparator |  | At a bounded research baseline and near submission |
+| E-Q07 | Google Books Ngram Viewer | Not collected with the required comparison and settings | `blocked` | A dated baseline may be collected during active research using the E-Q01 query plan and current required comparator |  | At a bounded research baseline and near submission |
 | E-Q08 | Alternative method | No service-unavailability case recorded | `not applicable` | Use only if a prescribed service is unavailable under the current guidance |  | If a prescribed service is unavailable |
 | E-Q09 | Ambiguity and limitations | Not assessed because queries have not been designed | `blocked` | Depends on E-Q01 and the future result set |  | At snapshot |
 | E-Q10 | Unacceptable evidence excluded | Petitions, calls for an emoji and unsupported anecdotes are not used as Frequency evidence in the integrated project record | `supported` | [Evidence map](<Evidence to encoding-question map.md>) keeps contextual and prescribed evidence separate |  | Before submission |
@@ -240,7 +240,7 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 | E-P03 | Image-rights certification | No example images exist | `blocked` | Depends on E-I05 and E-I06 |  | Before submission |
 | E-P04 | PDF | None | `blocked` | Depends on E-P01–E-P03 |  | With each final render |
 | E-P05 | Public PDF link | None | `blocked` | Publication requires a separate approval | Do not expose private drafts or account links | At submission |
-| E-P06 | Official form and agreement | Not used; eligibility is unresolved | `blocked` | E-A02 | Keep submission-account data private | At submission |
+| E-P06 | Official form and agreement | Not used; eligibility is unresolved | `blocked` | E-A02 blocks submission only; research proceeds independently | Keep submission-account data private | At submission |
 | E-P07 | Frozen snapshot | None | `blocked` | [Proposal submission freeze](<../../../Project/Evidence storage and publication.md#proposal-submission-freeze>) |  | At submission |
 
 ## Readiness summary
@@ -248,9 +248,9 @@ The following is a comparator-based sketch, not a proposal assignment. Unicode 1
 | Route | Present assessment | Strongest supported requirement | Strongest adverse finding | Blocking items | Submission-time refreshes | Project decision |
 | --- | --- | --- | --- | --- | --- | --- |
 | Character proposal | Not ready for drafting | Repeated functional signs across six territories, five observed contributor-corpus designs and a coherent generic-entity hypothesis | No demonstrated plain-text user, operation or loss; all reviewed functions have adequate non-character explanations, and comparators show context-free ambiguity | User conception and interchange study; complete equivalence and sequence matrices; source-independence and glyph-range recognition; property review; font | Current guidance and form; stable Unicode repertoire; pipeline; nonapproval archive; prior documents; evidence and rights manifest | Defer while continuing bounded Character research |
-| Emoji proposal | Procedurally and substantively not ready | No existing Durian representation in the bounded corpus; durable cultural and visual background | Re-review eligibility unresolved; no prescribed Frequency data, Distinctiveness test or rights-cleared example images | Official eligibility confirmation; factor analysis; query plan and snapshots; image design, testing and rights; submitter and agreement | Current window and waiting rule; Emoji repertoire and ordering; request status; all prescribed search methods | Defer as a separate route |
+| Emoji proposal | Submission eligibility unresolved and substantively not ready; research remains active | No existing Durian representation in the bounded corpus; durable cultural and visual background | No prescribed Frequency data, Distinctiveness test, rights-cleared example images or completed factor analysis | Eligibility confirmation blocks submission only; factor analysis, query plan and dated baselines, image design, testing and rights, submitter and agreement | Current window and waiting rule; Emoji repertoire and ordering; request status; all prescribed search methods | Continue active parallel Emoji research; gate only submission and prefer Emoji-first if emoji treatment remains material |
 
-- **Latest readiness assessment:** Contributor photo-corpus synthesis integrated by Codex, 30 July 2026, using evidence through 30 July 2026.
+- **Latest readiness assessment:** Route-policy and eligibility-interpretation integration by Codex, 31 July 2026, using official guidance checked through 31 July 2026 and evidence through 31 July 2026.
 - **Lifecycle effect:** None. Durian remains `researching`; the ledger records why `drafting` would be premature.
 - **Specialist questions:** Sign-system designers, operators and wayfinding specialists should determine whether the recurring pictogram is a reusable semantic token or an illustrative asset. Relevant users and text-system implementers should identify any real input, exchange, quotation, search, indexing, parsing, accessibility or archival workflow and the loss under existing representations.
-- **Next smallest useful action:** Conduct the bounded plain-text-interchange and counterargument audit with named users, systems and operations; use the audited five-design set and adverse comparators for a separate unlabelled recognition test.
+- **Next smallest useful actions:** **Character:** conduct the bounded plain-text-interchange and counterargument audit with named users, systems and operations. **Emoji:** conduct a bounded factor and query-plan pass, including whether to collect a dated Frequency baseline before an eligibility decision. Keep the later unlabelled recognition test separate while allowing its result to inform both routes.

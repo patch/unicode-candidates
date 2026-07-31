@@ -17,6 +17,8 @@ Initial parallel work prioritizes Durian, All Gender Symbol, and Urinal, with In
 
 The project’s central question must concern whether one or more new characters should be encoded. A candidate may be evaluated through the character-proposal route, the emoji-proposal route, or both. Standalone proposals about CLDR data, Unicode Standard Annexes, character properties, or other non-character technical changes remain outside this repository. Those projects share some process and writing practices, but their substantive questions, evidence, and review routes differ enough that including them would weaken the repository’s organizing principle. Reassess this boundary only if sustained work creates a concrete need.
 
+Where both routes are material, treat them as parallel research tracks rather than assuming that a character-first encoding can later acquire emoji treatment. Current Unicode guidance does not accept proposals to emojify existing characters. Research and evidence development remain active irrespective of temporary submission eligibility, but the intended route must be resolved before a non-emoji encoding could close the Emoji route. See [Emoji and character proposal routing](<../Research/Emoji and character proposal routing.md>).
+
 Encoded former candidates and other existing characters may be studied as comparative or process precedents. Cross-candidate findings belong in `Research/`; repeatable procedures and refinement logs belong in `Methods/`.
 
 ## Candidate organization

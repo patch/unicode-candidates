@@ -1,6 +1,6 @@
 ---
 title: Durian sources
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-31
 tags:
   - sources
   - research-register
@@ -343,7 +343,7 @@ Unicode Consortium, [Emoji Proposals Status](https://unicode.org/emoji/emoji-pro
 
 ### U06
 
-Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current source for the 2026 submission window, the four-year restriction on re-review of declined emoji, proposal format, selection factors, prescribed Frequency evidence, image-rights requirements, automatic-decline categories, and direction to use the character process for a widely used symbol that does not require colour. Rechecked 29 July 2026.
+Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://unicode.org/emoji/proposals.html), last updated 20 May 2026. Current source for the 2026 submission window, the four-year restriction on re-review of declined emoji, proposal format, selection factors, prescribed Frequency evidence, image-rights requirements, automatic-decline categories, and direction to use the character process for a widely used symbol that does not require colour. The wording does not define whether ‘four years’ means annual submission cycles or elapsed time, the controlling event for any elapsed calculation, or transitional application to a decline issued while the public rule said two years. Rechecked 31 July 2026.
 
 ### U07
 

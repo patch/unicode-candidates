@@ -1,8 +1,8 @@
 ---
 title: Proposal requirements ledger
 method_status: reusable working method
-official_guidance_cutoff: 2026-07-30
-last_reviewed: 2026-07-30
+official_guidance_cutoff: 2026-07-31
+last_reviewed: 2026-07-31
 tags:
   - method
   - unicode-proposals
@@ -23,6 +23,8 @@ Keep this file as the reusable project template. Create a candidate-specific cop
 Store candidate facts and judgements in that copy. Link to underlying candidate research rather than duplicating evidence, long rationales or source records. If several candidates may later share one submission, keep their ledgers independent until a joint submission is an operative decision; then add a separate submission-level mapping rather than collapsing their identities.
 
 Maintain separate character-proposal and emoji-proposal sections. Shared evidence may support both, but one route’s eligibility, requirements or outcome does not satisfy or decide the other.
+
+Keep route research status distinct from submission readiness. Current Unicode guidance does not accept proposals to emojify existing characters, so a candidate with a material and credible Emoji objective should normally prefer Emoji-first submission or obtain route-specific guidance before non-emoji encoding. A closed window, waiting period or unresolved eligibility blocks only the applicable submission fields; it must not by itself mark Emoji research deferred, reduce its priority or postpone non-volatile evidence work. Record time-sensitive requirements and Frequency evidence for refresh near submission. See [Emoji and character proposal routing](<../Research/Emoji and character proposal routing.md>).
 
 Do not create empty ledgers for every subject in `Candidates.md`. Once a ledger exists, retain every stable field ID from this template so automated reconciliation and validation remain possible. Mark a genuinely irrelevant field `not applicable` and record why; retain route-level sections even when one route is presently deferred or inapplicable.
 
@@ -93,12 +95,13 @@ These checks detect drift; they cannot determine whether evidence supports the a
 
 ## Official baseline and change control
 
-The requirements below were reconciled on 30 July 2026 against:
+The requirements below were reconciled through 31 July 2026 against:
 
 - the Script Encoding Working Group’s current [Submission Guidelines and Process](https://sew.unicode.org/guidelines) and the read-only preview of its New Proposal Submission form;
 - Unicode’s current [Proposal Summary Form](https://www.unicode.org/L2/summary.html) page and the linked [N4502-F form](https://www.unicode.org/L2/L2014/14232-n4502-form.html);
 - [Unicode Properties in Character Proposals](https://www.unicode.org/pending/properties.html); and
-- the [Guidelines for Submitting Unicode Emoji Proposals](https://www.unicode.org/emoji/proposals.html), last updated there on 20 May 2026.
+- the [Guidelines for Submitting Unicode Emoji Proposals](https://www.unicode.org/emoji/proposals.html), last updated there on 20 May 2026; and
+- the current [Emoji Submission FAQ](https://www.unicode.org/faq/emoji_submission.html), UTS #51 property distinctions and corroborating recent Unicode Technical Committee practice, integrated at [Emoji and character proposal routing](<../Research/Emoji and character proposal routing.md>).
 
 These sources can change independently. The current Unicode summary-form page still links N4502-F despite its 2014 document path, and the SEW form permits the same information to be entered directly. Record both the official source and the operative submission mechanism instead of inferring obsolescence from a filename or date.
 
@@ -314,7 +317,7 @@ Use this section only for the current emoji-proposal process. Record the exact c
 | ID | Required answer or artefact | Current value | State | Support and destination | Rights or privacy | Refresh |
 | --- | --- | --- | --- | --- | --- | --- |
 | E-A01 | Current submission window, route availability and official-guidance revision date |  | `unknown` | Current emoji guidelines |  | Immediately before drafting and submission |
-| E-A02 | Approved-emoji list, Emoji Requests status and any declined-item re-review restriction checked |  | `unknown` | Record exact status wording, source and relevant dates |  | Immediately before submission |
+| E-A02 | Approved-emoji list, Emoji Requests status and any declined-item re-review restriction checked |  | `unknown` | Record exact status wording, source, relevant dates and any unresolved unit, controlling event or cycle-versus-elapsed-time interpretation; distinguish a submission block from research status |  | Immediately before submission |
 | E-A03 | Automatic-decline screen: logo or brand; third-party rights; UI icon; signage; specific person, building, landmark or deity; ineligible flag; included text; exact-image request; direction variation; or inadequate image rights |  | `unknown` | Answer each applicable category separately | Rights analysis may require private records | Before drafting and submission |
 | E-A04 | Proposal title in the current `Proposal for Emoji <name>` form using a descriptive proposed name |  | `unknown` | Top of first page | Proposed name remains subject to change | With each revision |
 | E-A05 | Submitter names separated by semicolons when there are multiple authors; one main point of contact; and current proposal date |  | `unknown` | Top of first page and submission form | Keep private contact details outside the public ledger | With each revision |
@@ -386,7 +389,7 @@ Treat frequency data as a reproducible public snapshot, not a stable fact. Recor
 
 ## Readiness summary
 
-End every candidate ledger with a concise route-by-route summary. Readiness is a project assessment, not an official status.
+End every candidate ledger with a concise route-by-route summary. Readiness is a project assessment, not an official status. A route may have active research while its submission is blocked or its readiness remains deferred; state those dimensions separately rather than allowing eligibility alone to set research priority.
 
 | Route | Present assessment | Strongest supported requirement | Strongest adverse finding | Blocking items | Submission-time refreshes | Project decision |
 | --- | --- | --- | --- | --- | --- | --- |

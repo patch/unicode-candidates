@@ -1,6 +1,6 @@
 ---
 title: Shared research sources
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-31
 tags:
   - sources
   - research-register
@@ -24,7 +24,7 @@ Do not split established keys merely to normalize their appearance. Split a curr
 
 ## Unicode repertoire, process, and naming
 
-Sources U19–U23 were accessed on **22 July 2026**. Sources U24–U27 were accessed on **28 July 2026**.
+Sources U19–U23 were accessed on **22 July 2026**. Sources U24–U27 were accessed on **28 July 2026**. Sources U28–U30 were accessed on **31 July 2026**.
 
 ### U19
 
@@ -61,6 +61,18 @@ Unicode Consortium, Unicode 17.0 [Egyptian Hieroglyphs names list](https://www.u
 ### U27
 
 Unicode Consortium, [Section 4.8, ‘Name’, in *The Unicode Standard*, Version 17.0](https://www.unicode.org/versions/Unicode17.0.0/core-spec/chapter-4/#G1353). Formal Unicode character names are immutable identifiers and contain only uppercase Latin letters, digits, spaces, and hyphen-minuses. This formal syntax does not require a research project to typeset provisional working names in uppercase.
+
+### U28
+
+Unicode Consortium, [*Emoji Submission FAQ*](https://www.unicode.org/faq/emoji_submission.html), under ‘Can existing pictographic characters be emojified?’. Current proposal-policy statement that proposals to emojify existing characters are no longer accepted; the page says earlier proposals proved problematic but does not enumerate the reasons or state that every committee-initiated property correction is technically impossible. The same FAQ distinguishes the Emoji process from the character-proposal process.
+
+### U29
+
+Unicode Consortium Properties and Algorithms Group, *[UTC #182 properties feedback & recommendations](https://www.unicode.org/L2/L2025/25006-utc182-properties-recs.pdf)*, L2/25-006, 16 January 2025, item 5.1, pp. 13–15. Supporting analysis for removing `Extended_Pictographic` from assigned non-emoji characters. It states that non-emoji characters will not be emojified and explains that some prior assignments had deliberately preserved forward compatibility for possible future emojification; it concerns `Extended_Pictographic`, not a direct change to `Emoji_Presentation`.
+
+### U30
+
+Unicode Technical Committee, [minutes of meeting 182](https://www.unicode.org/L2/L2025/25003.htm), 22–24 January 2025, consensus 182-C20 and action 182-A57. Formal decision to remove `Extended_Pictographic` from 672 assigned characters without `Emoji=Yes` for Unicode 17.0, confirming the property change recommended in L2/25-006. The minutes do not independently restate the broader no-emojification rationale.
 
 ## Comparative fruit classification
 
