@@ -15,7 +15,7 @@ Working candidate names use title case. All-uppercase names are reserved for for
 
 | Candidate project | Scope | Phase | Notes |
 | --- | --- | --- | --- |
-| [Durian](Candidates/Durian/Overview.md) | Single prospective character | `researching` | Character and Emoji proposal research are active parallel tracks supported by shared evidence; submission eligibility gates only the submission event. |
+| [Durian](Candidates/Durian/Overview.md) | Single prospective character | `researching` | Character and Emoji research remain active parallel tracks. The bounded public-source audit documents current representations but does not determine whether users would adopt a future character; an Emoji factor and query-plan pass is the next actionable central task. |
 | All Gender Symbol | Single prospective character | `collecting` | Working primary name; ‘Nonbinary Restroom Symbol’ remains a candidate name to evaluate. |
 | Urinal | Single prospective character | `collecting` | Maintained independently from All Gender Symbol even if shared WC-signage research or a later joint proposal proves useful. |
 | Inverted Cross | Single prospective character | `collecting` | Working primary name; ‘Cross of St. Peter’ remains a candidate name to evaluate. |

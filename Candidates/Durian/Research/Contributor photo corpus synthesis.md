@@ -93,7 +93,7 @@ It does not establish:
 - user entry, exchange, quotation, search, indexing, parsing, accessibility, or archival preservation of a durian unit in plain text; or
 - a concrete loss when ordinary wording, images, metadata, or higher-level sign systems are used.
 
-The unsettled representative-glyph range is a recognition and drafting dependency, not evidence against encoding simply because the observed forms differ. The corpus therefore removes the prior ‘unreviewed private collection’ dependency but leaves the principal Character-route question unresolved. It supports a bounded plain-text-interchange and counterargument audit, not proposal drafting.
+The unsettled representative-glyph range is a recognition and drafting dependency, not evidence against encoding simply because the observed forms differ. The corpus removes the prior ‘unreviewed private collection’ dependency. The later [plain-text-interchange and counterargument audit](<Plain-text interchange and counterargument audit.md>) documents current representations but cannot observe direct character interchange before encoding or determine prospective use; neither audit yet supplies the affirmative need evidence required for proposal drafting.
 
 ## Location and attribution boundary
 

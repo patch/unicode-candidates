@@ -303,6 +303,58 @@ Royal Brunei Airlines, [baggage prohibition and restriction](https://www.flyroya
 
 TripAdvisor, [Kuala Terengganu hotel sign](https://www.tripadvisor.in/LocationPhotoDirectLink-g298320-i21438567-Kuala_Terengganu_Terengganu.html), September 2009. Independently authored traveller photograph of a physical hotel-rule sign; reuse rights unverified and the image is reference-only. Migrated from the former S06 bundle on 29 July 2026.
 
+## Plain-text interchange and alternatives
+
+The sources in this section were accessed on **31 July 2026**. They were selected for the bounded [plain-text-interchange and counterargument audit](<Plain-text interchange and counterargument audit.md>), not as a comprehensive register of every durian rule or graphical-symbol system.
+
+### I01
+
+Bangkok Mass Transit System Public Company Limited, [Rules and Regulations](https://www.bts.co.th/eng/service/AnnouncementandRegulations.html), current English operator page. Clause 39 prohibits matter that may release bad or offensive smells. Direct evidence that the transit rule can be maintained and communicated as ordinary text; it does not identify durian, a pictogram asset or a text-token mapping.
+
+### I02
+
+The Pillowz Suites, [House Rules](https://www.thepillowz.com/houserules), current hotel page. The rules are attached to each guest room or available as an e-copy, have English, Bahasa Melayu and Chinese versions, and expressly prohibit pungent food such as durian with a cleaning charge. Direct accommodation-workflow evidence; the page does not establish a pictogram system.
+
+### I03
+
+Hyatt Regency Bali, [Hotel Policies](https://www.hyatt.com/hyatt-regency/en-US/dpsbl-hyatt-regency-bali/policies), current official page. Its fruit policy expressly prohibits durian and dragon fruit in rooms or premises and states the reasons and consequence in ordinary text. Direct venue-policy evidence, not sign-design provenance.
+
+### I04
+
+Dorsett Singapore, [guest compendium](https://www.dorsetthotels.com/pdf/dorsett-singapore/dsgcompendiummay2023.pdf), PDF, May 2023. The alphabetized guest-information document includes a text entry prohibiting durians on the premises and states the cleaning charge. Direct evidence of document-based rule distribution; no claim is made about later revision or pictogram use.
+
+### I05
+
+SAVV Hotel Georgetown, [Terms and Conditions](https://savvhotel.com/term.php), current official page. The booking-related terms prohibit durian and mangosteen in rooms and state a recovery fee; the page offers English, Chinese and Japanese language selection. Direct accommodation and transaction-workflow evidence, not independent evidence of sign artwork.
+
+### I06
+
+Stomp, [“Woman pinches durian despite ‘do not press’ sign at FairPrice Finest The Seletar Mall”](https://www.stomp.sg/singapore-seen/woman-pinches-durian-despite-do-not-press-sign-fairprice-finest-seletar-mall), page accessed 31 July 2026. Reports that the sign’s words advised shoppers not to press and that staff spoke to a shopper. Supplementary retail-workflow evidence only: the rendered page does not disclose the event year, the source account is anonymous and no FairPrice response is recorded.
+
+### I07
+
+FairPrice, [“5 durians that aren’t Mao Shan Wang”](https://www.fairprice.com.sg/tips/fun-facts/5-durians-that-arent-mao-shan-wang/), current official consumer guide. Advises light pressing of exposed flesh, with a hygiene cover, as one way to assess ripeness. Used only to show that handling meaning depends on the stated action and context; it neither authenticates the I06 sign nor contradicts a differently scoped packaged-display rule.
+
+### I08
+
+World Wide Web Consortium, [*Web Content Accessibility Guidelines (WCAG) 2.2*](https://www.w3.org/TR/WCAG22/), Success Criterion 1.1.1. Current normative accessibility standard requiring a text alternative for non-text content, subject to its stated exceptions. General representation capability, not evidence that a reviewed durian sign has an implemented alternative.
+
+### I09
+
+World Wide Web Consortium, [Technique G94: Providing short text alternative for non-text content that serves the same purpose and presents the same information](https://www.w3.org/WAI/WCAG22/Techniques/general/G94.html). Official informative technique explaining purpose-equivalent text alternatives. It supports the alternative-representation analysis but is neither a requirement to use its example method nor evidence of operator-specific practice.
+
+### I10
+
+International Organization for Standardization, [ISO 7001:2023, *Graphical symbols — Registered public information symbols*](https://www.iso.org/standard/77442.html), official catalogue page. Public abstract describes scalable graphical-symbol originals and use with text. Cited only as a general higher-level graphical-symbol model; it does not register a durian symbol or prove that any reviewed venue follows the standard.
+
+### I11
+
+International Organization for Standardization, [ISO 7000:2019, *Graphical symbols for use on equipment — Registered symbols*](https://www.iso.org/standard/78717.html), official catalogue page. Public abstract describes a database model using reference numbers, titles, representations, functions and intended-use metadata. Analogical systems evidence only: its subject is equipment symbols, not the audited public durian signs.
+
+### I12
+
+International Organization for Standardization, [ISO 9186-3:2014, *Graphical symbols — Test methods — Part 3: Method for testing symbol referent association*](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/05/98/59882.html), official catalogue page; confirmed current in 2024. Public abstract describes referent-association testing and the possible role of supplementary text. Method context only; no test was conducted in this audit.
+
 ## Marketing and inline visual use
 
 ### V01
@@ -347,7 +399,7 @@ Unicode Consortium, [Guidelines for Submitting Unicode Emoji Proposals](https://
 
 ### U07
 
-Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and eligibility: a proposed addition must be a character, must not already be encoded and must not duplicate an existing character sequence; possible equivalents must be examined. The three basic criteria are existing usage by a community, repertoire stability and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit. Rechecked 29 July 2026. Before that date, U07 also covered the current pipeline and non-approval archive checks now registered separately as [U20](Sources.md#u20) and [U21](Sources.md#u21).
+Unicode Script Encoding Working Group, [Submission Guidelines and Process](https://sew.unicode.org/guidelines). Current character-proposal route and eligibility: a proposed addition must be a character, must not already be encoded and must not duplicate an existing character sequence; possible equivalents must be examined. The three basic criteria are existing usage by a community, repertoire stability and need for public interchange in plain text. The working group explicitly excludes emoji proposals from its remit. Rechecked 31 July 2026. Before 29 July 2026, U07 also covered the current pipeline and non-approval archive checks now registered separately as [U20](Sources.md#u20) and [U21](Sources.md#u21).
 
 ### U08
 
