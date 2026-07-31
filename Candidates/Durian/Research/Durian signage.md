@@ -1,6 +1,6 @@
 ---
 title: Durian non-marketing signage
-last_reviewed: 2026-07-29
+last_reviewed: 2026-07-30
 tags:
   - durian
   - signage
@@ -12,6 +12,8 @@ tags:
 Traceable functional durian-prohibition signs have been found in **six territories: Indonesia (ID), Cambodia (KH), Malaysia (MY), Singapore (SG), Thailand (TH), and Vietnam (VN)**. The register is intentionally phrased as verified occurrence, not an exhaustive statement that these are the only territories with such signs.
 
 The examples span mass transit, hotel rules, and general building regulations. This repeated regulatory function is stronger evidence of an independent communicative convention than any single retail advertisement: a durian image or name tells the viewer that bringing the fruit into a shared space is prohibited because of its odour. Marketing use remains relevant and is recorded separately in [Durian visual use](<Durian visual use.md>).
+
+The verified web and scholarly register below remains the geographic source set for the six-territory claim. A separately held [contributor photo corpus](<Contributor photo corpus synthesis.md>) adds six photographed Singapore functional events and one lodging-rules screenshot whose country is not verified. Those records refine form, composition and design-lineage analysis; they do not add a seventh verified territory.
 
 ## Verified occurrence register
 
@@ -27,6 +29,20 @@ The examples span mass transit, hotel rules, and general building regulations. T
 | ID | Indonesian hotel-signage corpus | 2023 scholarly publication | “No Durian” is included in a documented hotel public-sign corpus | Academic article is citable; any reproduced sign image has separate rights and must be checked ([S10](Sources.md#s10)) | Verified scholarly documented occurrence |
 
 Singapore and Thailand have the strongest currently located transit evidence. Malaysia, Vietnam, Cambodia, and Indonesia are represented chiefly by accommodation or building rules. This venue imbalance is a property of the evidence found, not necessarily real-world frequency.
+
+## Contributor corpus findings
+
+The private contributor catalogue contains seven functional event groups with 11 rule or handling-instruction image rows and seven contextual companions. They comprise:
+
+- four Singapore public-transport deployments;
+- two Singapore retail handling-instruction deployments; and
+- one accommodation-rules screenshot whose RM200 wording suggests Malaysia without verifying the country or locality.
+
+Event consolidation prevents repeated photographs of one sign from inflating the occurrence count. Design-lineage review reduces the seven groups to five observed designs: the two Sentosa vehicle deployments share one branded template, and the two retail deployments share one illustrated ‘avoid pressing the durian’ template.
+
+Across the five designs, the base referent varies between a single filled whole fruit, paired filled and outline fruits, paired jagged outlines, a detailed colour cut-open fruit, and a monochrome cut-open fruit. Circle, slash, wording, neighbouring rules, branding, hand, and layout remain composition around that base. The findings support a reusable visual referent across artwork, but not yet a character identity or public interchange in plain text.
+
+The same audit preserves three material counterexamples: an ambiguous painted fruit excluded from the durian count, a pomelo package using a durian-like spiky image, and a soursop product named ‘durian belanda’. These make an unlabelled recognition test and a careful semantic boundary necessary before a representative glyph can be settled.
 
 ## Context that supports, but does not itself prove, a physical sign
 
@@ -61,4 +77,8 @@ For every new sign:
 
 ## Why the corpus is not yet publication-ready
 
-The two Wikimedia examples have immediately intelligible reuse routes, and both have limitations: the Thai hotel image is old, while the Singapore image requires attribution and share-alike compliance. Other examples remain useful occurrence evidence even where rights are unclear or restrictive. A low-resolution non-free reproduction for critical commentary may be considered under a documented fair-use or fair-dealing rationale, but that is a rights-review decision rather than automatic clearance. The best next investment is a small field corpus assembled from commissioned, separately licensed stock, Creative Commons, or permission-cleared photographs across several venue types and territories.
+The two Wikimedia examples have immediately intelligible reuse routes, and both have limitations: the Thai hotel image is old, while the Singapore image requires attribution and share-alike compliance. Other web examples remain useful occurrence evidence even where rights are unclear or restrictive. A low-resolution non-free reproduction for critical commentary may be considered under a documented fair-use or fair-dealing rationale, but that is a rights-review decision rather than automatic clearance.
+
+Sandy Patch’s contributed photographs have a scoped CC BY-SA 4.0 permission record, but each proposed reproduction still needs a crop, attribution, contextual-privacy and third-party sign-content review. Jennifer Liepin’s screenshot and the underlying Airbnb house-rules image are not cleared by Sandy’s permission and should remain metadata-only unless their separate creator, content, logo, platform and redaction questions are resolved.
+
+The highest-value next work is no longer broad field collection. It is the bounded plain-text-interchange and counterargument audit, followed by an unlabelled small-form recognition test. Commission or seek additional photographs only when those studies expose a material territory, venue, form, source-independence or rights gap.

@@ -1,7 +1,7 @@
 ---
 title: Durian geographic survey
 research_status: background survey
-last_reviewed: 2026-07-22
+last_reviewed: 2026-07-30
 tags:
   - durian
   - geography
@@ -90,6 +90,7 @@ Priority is given to signs that regulate behaviour in transport, accommodation, 
 - [Consumption and fruit rankings](<Consumption and fruit rankings.md>) — population-reach classifications and the defensible source-specific rankings.
 - [Diaspora import markets](<Diaspora import markets.md>) — the 2023 fresh-trade screen, diaspora populations, and local-region codes.
 - [Durian signage](<Durian signage.md>) — verified functional sign occurrences, venue context, provenance, and rights.
+- [Contributor photo corpus synthesis](<Contributor photo corpus synthesis.md>) — public-safe records and event-, form-, composition-, and design-lineage findings from the private contributor catalogue.
 - [Durian visual use](<Durian visual use.md>) — relationship between functional, marketing, and inline-text evidence, including preliminary logo findings.
 - [Sources](Sources.md) — source register with stable local IDs and access dates.
 - [Durian countries](<Durian countries.base>) — filterable country-level index.
@@ -118,18 +119,18 @@ China’s import demand dominates the monetary trade data, but it should not ecl
 
 ## Recommended next research
 
-1. **Catalogue the existing sign-photo collection.** When the collection becomes available, preserve originals, record provenance and rights, code venue, wording, visual form, and independence, and identify evidential and publication gaps before commissioning or broadly collecting more images.
-2. **Verify the signage leads.** Seek traceable physical examples in BN, HK, LA, PH, and TW, then expand to other Southeast Asian countries without assuming occurrence.
-3. **Document symbol form and marketing convergence.** Code each sign for whole-fruit silhouette, cut fruit, colour, spikes, stalk, slash, enclosing circle, accompanying `Language Name (language_code)`, and whether the fruit remains recognizable at small size. Search trademark databases, packaging archives, and brand portfolios for independent durian marks, including pictorial substitutions for letters such as “O” and punctuation-like uses.
-4. **Compare prohibition-overlay precedents.** Build a bounded repertoire of Unicode characters known to appear on real signage with a circle, diagonal slash or cross overlay, including cigarettes, mobile phones and skateboards. Distinguish the encoded base character, overlay convention, venue and function, and evidence of public recognition.
-5. **Obtain primary trade microdata.** Download UN Comtrade reporter/partner/quantity records for 2019–2025, add frozen/prepared durian codes where separable, and identify re-export hubs.
-6. **Standardize production.** Create a year-by-year table from national statistical agencies with harvested area, output, and data definition. Confirm or reject BR, CR, MG, and any Pacific leads through agricultural ministries or census tables.
-7. **Improve consumption comparisons.** Request unpublished commodity detail from national household-expenditure, total-diet, or supply-utilization programmes. Prefer annual mass per capita and record the denominator and food universe.
-8. **Test global reach and comprehension.** Map durian retailers and distributor interviews against census geography in the listed local regions. Document packaging, local-language media, festivals, and signs; then test unaided and aided recognition among diaspora and non-diaspora residents. Ask who buys fresh versus frozen durian; do not infer purchaser identity from neighbourhood alone.
-9. **Test plain-text need and counterarguments after the photo audit.** Assess whether documented functions require public interchange in plain text, whether existing text or characters suffice, whether visual use is merely illustrative, and which findings would change the working judgement.
-10. **Build any additional rights-cleared sign corpus justified by the gap audit.** Commission or request missing photographs from relevant transit operators, hotels, libraries, hospitals, and building managers. Capture the whole sign in context, exact coordinates, date, photographer, and written permission.
-11. **Preserve negative and uncertain findings.** Record ministry enquiries and searches that find no commercial crop or no sign. They will make future “all countries” claims auditable.
-12. **Reuse and improve the method.** Apply [Geographic evidence research for symbol proposals](<../../../Methods/Geographic evidence research for symbol proposals.md>) to the next subject under evaluation, append lessons to its refinement log, and review whether earlier data need reclassification.
+1. **Test plain-text need and counterarguments.** The private photo audit is complete. Assess whether any documented function requires public interchange in plain text, whether existing words, characters, images, metadata or higher-level systems suffice, and which findings would change the working judgement.
+2. **Test unlabelled recognition and the glyph boundary.** Use the five observed functional design lineages and the adverse comparators to test whole and cut fruit, spikes, stalk, interior detail, colour removal, small monochrome rendering, and confusion with pomelo, jackfruit, lychee, soursop, and other relevant forms.
+3. **Resolve decision-bearing provenance only.** Use the prioritized contributor questions for the uncertain transit setting, bus operator, repeated retail template, and Airbnb source and rights. Treat inability to remember as an unresolved limit, not adverse evidence. Trace sign suppliers or commissioning bodies only where the answer would change design-independence weighting.
+4. **Verify signage leads selectively.** Seek traceable physical examples in BN, HK, LA, PH, and TW only when they fill a material territory, venue, form, independence or publication-rights gap.
+5. **Compare prohibition-overlay precedents.** Build a bounded repertoire of Unicode characters known to appear on real signage with a circle, diagonal slash or cross overlay, including cigarettes, mobile phones and skateboards. Distinguish the encoded base character, overlay convention, venue and function, and evidence of public recognition.
+6. **Document additional marketing convergence only where independent and sustained.** Prefer deployed trademarks, packaging systems and brand portfolios over speculative designs, and keep pictorial substitutions for letters or punctuation analytically separate from a generic fruit identity.
+7. **Obtain primary trade microdata.** Download UN Comtrade reporter/partner/quantity records for 2019–2025, add frozen/prepared durian codes where separable, and identify re-export hubs.
+8. **Standardize production.** Create a year-by-year table from national statistical agencies with harvested area, output, and data definition. Confirm or reject BR, CR, MG, and any Pacific leads through agricultural ministries or census tables.
+9. **Improve consumption comparisons.** Request unpublished commodity detail from national household-expenditure, total-diet, or supply-utilization programmes. Prefer annual mass per capita and record the denominator and food universe.
+10. **Test global reach and comprehension only for a named decision.** Map durian retailers and distributor interviews against census geography where a Character or later Emoji question requires it. Do not infer purchaser identity from neighbourhood alone.
+11. **Build any additional rights-cleared sign corpus justified by the gap audit.** Commission or request missing photographs only after the interchange, recognition or provenance work identifies the exact missing cell.
+12. **Preserve negative and uncertain findings and reuse the method.** Record searches and enquiries that find no crop, sign, workflow or recollection, and apply [Geographic evidence research for symbol proposals](<../../../Methods/Geographic evidence research for symbol proposals.md>) to later subjects without importing Durian conclusions.
 
 ## Review status
 
